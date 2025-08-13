@@ -3,27 +3,24 @@
 use strict;
 use warnings;
 
-my $usage = "Usage: $0 Rite(NOE|VOE) Date(YYYY)\n";
+#https://perldoc.perl.org/Getopt::Long
+use Getopt::Long;
 
-if ($#ARGV != 1) {
-    die $usage;
-}
+my $usage = "Usage: $0 -r NOE|VOE -y YYYY\n";
 
-my $rite = shift;
-my $year = shift;
+my $rite = '';
+my $year = '';
+GetOptions ('r=s' => \$rite,
+            'y=s' => \$year);
 
-unless ($year =~ m/\d{4}/) {
-    die $usage;
-}
+unless ($rite =~ m/(NOE|VOE)/) { die $usage; }
+unless ($year =~ m/\d{4}/) { die $usage; }
 
 my $url;
-
 if ($rite eq "NOE") {
     $url = "http://www.universalis.com/europe.england.portsmouth/${year}0101/vcalendar.ics";
-} elsif ($rite eq "VOE") {
-    $url = "http://www.universalis.com/europe.england.ordinariate/${year}0101/vcalendar.ics";
 } else {
-    die $usage
+    $url = "http://www.universalis.com/europe.england.ordinariate/${year}0101/vcalendar.ics";
 }
 #print "URL: $url\n";
 
@@ -49,6 +46,7 @@ use Text::Unidecode;
 my $ordoDate;
 my $ordoLine;
 my @ordo = split /\n/, $urlContent;
+
 foreach ( @ordo ) {
 
     s/\r//g;
