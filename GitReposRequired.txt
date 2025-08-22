@@ -1,0 +1,2 @@
+https://github.com/philips/text2pdf
+#Put this file in ~/.vim/autoload for vim-plug: https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim

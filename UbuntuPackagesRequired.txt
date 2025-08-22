@@ -1,0 +1,11 @@
+libdata-printer-perl
+libgetopt-long-perl
+liblwp-useragent-perl
+libmojo-perl
+libmojolicious-perl
+libpdf-api2-perl
+libpdf-create-perl
+libtext-csv-perl
+libtext-unidecode-perl
+libtoml-lib-perl
+libtoml-perl
