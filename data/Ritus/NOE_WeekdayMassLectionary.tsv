@@ -1,0 +1,526 @@
+Seq	PropersID	Year	FirstReadingReference	ResponsorialPsalmReference	GospelAlleluiaReference	GospelReadingReference
+1	Ord Time I:Mon	I	Heb 1:1-6	Ps 97:1+2b,6+7c,9	Mark 1:15	Mark 1:14-20
+2	Ord Time I:Tue	I	Heb 2:5-12	Ps 8:2ab+5,6-7,8-9	cf. 1 Thess 2:13	Mark 1:21-28
+3	Ord Time I:Wed	I	Heb 2:14-18	Ps 105:1-2,3-4,6-7,8-9	John 10:27	Mark 1:29-39
+4	Ord Time I:Thu	I	Heb 3:7-14	Ps 95:6-7c,8-9,10-11	cf. Matt 4:23	Mark 1:40-45
+5	Ord Time I:Fri	I	Heb 4:1-5,11	Ps 78:3+4bc,6c-7,8	Luke 7:16	Mark 2:1-12
+6	Ord Time I:Sat	I	Heb 4:12-16	Ps 19:8,9,10,15	Luke 4:18	Mark 2:13-17
+7	Ord Time II:Mon	I	Heb 5:1-10	Ps 110:1,2,3,4	Heb 4:12	Mark 2:18-22
+8	Ord Time II:Tue	I	Heb 6:10-20	Ps 111:1-2,4-5,9+10c	cf. Eph 1:17-18	Mark 2:23-28
+9	Ord Time II:Wed	I	Heb 7:1-3,15-17	Ps 110:1,2,3,4	cf. Matt 4:23	Mark 3:1-6
+10	Ord Time II:Thu	I	Heb 7:25—8:6	Ps 40:7-8a,8b-9,10,17	cf. 2 Tim 1:10	Mark 3:7-12
+11	Ord Time II:Fri	I	Heb 8:6-13	Ps 85:8+10,11-12,13-14	2 Cor 5:19	Mark 3:13-19
+12	Ord Time II:Sat	I	Heb 9:2-3,11-14	Ps 47:2-3,6-7,8-9	cf. Acts 16:14b	Mark 3:20-21
+13	Ord Time III:Mon	I	Heb 9:15,24-28	Ps 98:1,2-3ab,3cd-4,5-6	cf. 2 Tim 1:10	Mark 3:22-30
+14	Ord Time III:Tue	I	Heb 10:1-10	Ps 40:2+4ab,7-8a,10,11	cf. Matt 11:25	Mark 3:31-35
+15	Ord Time III:Wed	I	Heb 10:11-18	Ps 110:1,2,3,4		Mark 4:1-20
+16	Ord Time III:Thu	I	Heb 10:19-25	Ps 24:1-2,3-4ab,5-6	Ps 119:105	Mark 4:21-25
+17	Ord Time III:Fri	I	Heb 10:32-39	Ps 37:3-4,5-6,23-24,39-40	cf. Matt 11:25	Mark 4:26-34
+18	Ord Time III:Sat	I	Heb 11:1-2,8-19	Luke 1:69-70,71-72,73-75	John 3:16	Mark 4:35-41
+19	Ord Time IV:Mon	I	Heb 11:32-40	Ps 31:20,21,22,23,24	Luke 7:16	Mark 5:1-20
+20	Ord Time IV:Tue	I	Heb 12:1-4	Ps 22:26b-27,28+30,31-32	Matt 8:17	Mark 5:21-43
+21	Ord Time IV:Wed	I	Heb 12:4-7,11-15	Ps 103:1-2,13-14,17-18a	John 10:27	Mark 6:1-6
+22	Ord Time IV:Thu	I	Heb 12:18-19,21-24	Ps 48:2-3ab,3cd-4,9,10-11	Mark 1:15	Mark 6:7-13
+23	Ord Time IV:Fri	I	Heb 13:1-8	Ps 27:1,3,5,8b-9abc	cf. Luke 8:15	Mark 6:14-29
+24	Ord Time IV:Sat	I	Heb 13:15-17,20-21	Ps 23:1-3a,3b-4,5,6	John 10:27	Mark 6:30-34
+25	Ord Time V:Mon	I	Gen 1:1-19	Ps 104:1-2a,5-6,10+12,24+35c	cf. Matt 4:23	Mark 6:53-56
+26	Ord Time V:Tue	I	Gen 1:20—2:4a	Ps 8:4-5,6-7,8-9	Ps 119:36,29b	Mark 7:1-13
+27	Ord Time V:Wed	I	Gen 2:4b-9,15-17	Ps 104:1-2a,27-28,29bc-30	cf. John 17:17b,17a	Mark 7:14-23
+28	Ord Time V:Thu	I	Gen 2:18-25	Ps 128:1-2,3,4-5	James 1:21bc	Mark 7:24-30
+29	Ord Time V:Fri	I	Gen 3:1-8	Ps 32:1-2,5,6,7	cf. Acts 16:14b	Mark 7:31-37
+30	Ord Time V:Sat	I	Gen 3:9-24	Ps 90:2,3-4abc,5-6,12-13	Matt 4:4b	Mark 8:1-10
+31	Ord Time VI:Mon	I	Gen 4:1-15,25	Ps 50:1+8,16bc-17,20-21	John 14:6	Mark 8:11-13
+32	Ord Time VI:Tue	I	Gen 6:5-8;7:1-5,10	Ps 29:1a+2,3ac-4,3b+9c-10	John 14:23	Mark 8:14-21
+33	Ord Time VI:Wed	I	Gen 8:6-13,20-22	Ps 116:12-13,14-15,18-19	cf. Eph 1:17-18	Mark 8:22-26
+34	Ord Time VI:Thu	I	Gen 9:1-13	Ps 102:16-18,19-21,29+22-23	cf. John 6:63c,68c	Mark 8:27-33
+35	Ord Time VI:Fri	I	Gen 11:1-9	Ps 33:10-11,12-13,14-15	John 15:15b	Mark 8:34—9:1
+36	Ord Time VI:Sat	I	Heb 11:1-7	Ps 145:2-3,4-5,10-11	cf. Mark 9:6	Mark 9:2-13
+37	Ord Time VII:Mon	I	Sir 1:1-10	Ps 93:1ab,1cd-2,5	cf. 2 Tim 1:10	Mark 9:14-29
+38	Ord Time VII:Tue	I	Sir 2:1-11	Ps 37:3-4,18-19,27-28,39-40	Gal 6:14	Mark 9:30-37
+39	Ord Time VII:Wed	I	Sir 4:11-19	Ps 119:165,168,171,172,174,175	John 14:6	Mark 9:38-40
+40	Ord Time VII:Thu	I	Sir 5:1-8	Ps 1:1-2,3,4+6	cf. 1 Thess 2:13	Mark 9:41-50
+41	Ord Time VII:Fri	I	Sir 6:5-17	Ps 119:12,16,18,27,34,35	cf. John 17:17b,17a	Mark 10:1-12
+42	Ord Time VII:Sat	I	Sir 17:1-15	Ps 103:13-14,15-16,17-18a	cf. Matt 11:25	Mark 10:13-16
+43	Ord Time VIII:Mon	I	Sir 17:20-24	Ps 32:1-2,5,6,7	2 Cor 8:9	Mark 10:17-27
+44	Ord Time VIII:Tue	I	Sir 35:1-12	Ps 50:5-6,7-8,14+23	cf. Matt 11:25	Mark 10:28-31
+45	Ord Time VIII:Wed	I	Sir 36:1,4-5a,10-17	Ps 79:8,9,11+13	Mark 10:45	Mark 10:32-45
+46	Ord Time VIII:Thu	I	Sir 42:15-25	Ps 33:2-3,4-5,6-7,8-9	John 8:12	Mark 10:46-52
+47	Ord Time VIII:Fri	I	Sir 44:1,9-13	Ps 149:1b-2,3-4,5-6a+9b	cf. John 15:16	Mark 11:11-26
+48	Ord Time VIII:Sat	I	Sir 51:12cd-20	Ps 19:8,9,10,11	cf. Col 3:16a,17c	Mark 11:27-33
+49	Ord Time IX:Mon	I	Tob 1:3;2:1a-8	Ps 112:1b-2,3b-4,5-6	cf. Rev 1:5ab	Mark 12:1-12
+50	Ord Time IX:Tue	I	Tob 2:9-14	Ps 112:1-2,7-8,9	cf. Eph 1:17-18	Mark 12:13-17
+51	Ord Time IX:Wed	I	Tob 3:1-11a,16-17a	Ps 25:2-3,4-5ab,6+7bc,8-9	John 11:25a,26	Mark 12:18-27
+52	Ord Time IX:Thu	I	Tob 6:10-11;7:1bcde,9-17;8:4-9a	Ps 128:1-2,3,4-5	cf. 2 Tim 1:10	Mark 12:28b-34
+53	Ord Time IX:Fri	I	Tob 11:5-17	Ps 146:1b-2,6c-7,8-9a,9bc-10	John 14:23	Mark 12:35-37
+54	Ord Time IX:Sat	I	Tob 12:1,5-15,20	Tob 13:2,6,7,10 [Vulg.]	Matt 5:3	Mark 12:38-44
+55	Ord Time X:Mon	I	2 Cor 1:1-7	Ps 34:2-3,4-5,6-7,8-9	Matt 5:12a	Matt 5:1-12
+56	Ord Time X:Tue	I	2 Cor 1:18-22	Ps 119:129,130,131,132,133,135	Matt 5:16	Matt 5:13-16
+57	Ord Time X:Wed	I	2 Cor 3:4-11	Ps 99:5,6,7,8,9	Ps 25:4b,5a	Matt 5:17-19
+58	Ord Time X:Thu	I	2 Cor 3:15—4:1,3-6	Ps 85:9ab+10,11-12,13-14	John 13:34	Matt 5:20-26
+59	Ord Time X:Fri	I	2 Cor 4:7-15	Ps 116:10-11,15-16,17-18	Phil 2:15d,16a	Matt 5:27-32
+60	Ord Time X:Sat	I	2 Cor 5:14-21	Ps 103:1-2,3-4,9-10,11-12	Ps 119:36a,29b	Matt 5:33-37
+61	Ord Time XI:Mon	I	2 Cor 6:1-10	Ps 98:1,2b-3ab,3cd-4	Ps 119:105	Matt 5:38-42
+62	Ord Time XI:Tue	I	2 Cor 8:1-9	Ps 146:2,5-6ab,6c-7,8-9a	John 13:34	Matt 5:43-48
+63	Ord Time XI:Wed	I	2 Cor 9:6-11	Ps 112:1bc-2,3-4,9	John 14:23	Matt 6:1-6,16-18
+64	Ord Time XI:Thu	I	2 Cor 11:1-11	Ps 111:1b-2,3-4,7-8	Rom 8:15bc	Matt 6:7-15
+65	Ord Time XI:Fri	I	2 Cor 11:18,21-30	Ps 34:2-3,4-5,6-7	Matt 5:3	Matt 6:19-23
+66	Ord Time XI:Sat	I	2 Cor 12:1-10	Ps 34:8-9,10-11,12-13	2 Cor 8:9	Matt 6:24-34
+67	Ord Time XII:Mon	I	Gen 12:1-9	Ps 33:12-13,18-19,20+22	Heb 4:12	Matt 7:1-5
+68	Ord Time XII:Tue	I	Gen 13:2,5-18	Ps 15:2-3a,3bc-4ab,5	John 8:12	Matt 7:6,12-14
+69	Ord Time XII:Wed	I	Gen 15:1-12,17-18	Ps 105:1-2,3-4,6-7,8-9	John 15:4a,5b	Matt 7:15-20
+70	Ord Time XII:Thu	I	Gen 16:1-12,15-16| 16:6b-12,15-16	Ps 106:1b-2,3-4a,4b-5	John 14:23	Matt 7:21-29
+71	Ord Time XII:Fri	I	Gen 17:1,9-10,15-22	Ps 128:1-2,3,4-5	Matt 8:17	Matt 8:1-4
+72	Ord Time XII:Sat	I	Gen 18:1-15	Luke 1:46-47,48-49,50+53,54-55	Matt 8:17	Matt 8:5-17
+73	Ord Time XIII:Mon	I	Gen 18:16-33	Ps 103:1b-2,3-4,8-9,10-11	Ps 95:8	Matt 8:18-22
+74	Ord Time XIII:Tue	I	Gen 19:15-29	Ps 26:2-3,9-10,11-12	Ps 130:5	Matt 8:23-27
+75	Ord Time XIII:Wed	I	Gen 21:5,8-20a	Ps 34:7-8,10-11,12-13	James 1:18	Matt 8:28-34
+76	Ord Time XIII:Thu	I	Gen 22:1b-19	Ps 115:1-2,3-4,5-6,8-9	2 Cor 5:19	Matt 9:1-8
+77	Ord Time XIII:Fri	I	Gen 23:1-4,19;24:1-8,62-67	Ps 106:1b-2,3-4a,4b-5	Matt 11:28	Matt 9:9-13
+78	Ord Time XIII:Sat	I	Gen 27:1-5,15-29	Ps 135:1b-2,3-4,5-6	John 10:27	Matt 9:14-17
+79	Ord Time XIV:Mon	I	Gen 28:10-22a	Ps 91:1-2,3-4,14-15ab	cf. 2 Tim 1:10	Matt 9:18-26
+80	Ord Time XIV:Tue	I	Gen 32:23-33	Ps 17:1b,2-3,6-7ab,8b+15	John 10:14	Matt 9:32-38
+81	Ord Time XIV:Wed	I	Gen 41:55-57;42:5-7a,17-24a	Ps 33:2-3,10-11,18-19	Mark 1:15	Matt 10:1-7
+82	Ord Time XIV:Thu	I	Gen 44:18-21,23b-29;45:1-5	Ps 105:16-17,18-19,20-21	Mark 1:15	Matt 10:7-15
+83	Ord Time XIV:Fri	I	Gen 46:1-7,28-30	Ps 37:3-4,18-19,27-28,39-40	John 16:13a;14:26d	Matt 10:16-23
+84	Ord Time XIV:Sat	I	Gen 49:29-32;50:15-26a	Ps 105:1-2,3-4,6-7	1 Pet 4:14	Matt 10:24-33
+85	Ord Time XV:Mon	I	Exod 1:8-14,22	Ps 124:1b-3,4-6,7-8	Matt 5:10	Matt 10:34—11:1
+86	Ord Time XV:Tue	I	Exod 2:1-15a	Ps 69:3,14,30-31,33-34	Ps 95:8	Matt 11:20-24
+87	Ord Time XV:Wed	I	Exod 3:1-6,9-12	Ps 103:1b-2,3-4,6-7	cf. Matt 11:25	Matt 11:25-27
+88	Ord Time XV:Thu	I	Exod 3:13-20	Ps 105:1+5,8-9,24-25,26-27	Matt 11:28	Matt 11:28-30
+89	Ord Time XV:Fri	I	Exod 11:10—12:14	Ps 116:12-13,15+16bc,17-18	John 10:27	Matt 12:1-8
+90	Ord Time XV:Sat	I	Exod 12:37-42	Ps 136:1+23-24,10-12,13-15	2 Cor 5:19	Matt 12:14-21
+91	Ord Time XVI:Mon	I	Exod 14:5-18	Exod 15:1bc-2,3-4,5-6	Ps 95:8	Matt 12:38-42
+92	Ord Time XVI:Tue	I	Exod 14:21—15:1	Exod 15:8-9,10+12,17	John 14:23	Matt 12:46-50
+93	Ord Time XVI:Wed	I	Exod 16:1-5,9-15	Ps 78:18-19,23-24,25-26,27-28		Matt 13:1-9
+94	Ord Time XVI:Thu	I	Exod 19:1-2,9-11,16-20b	Dan 3:52,53,54,55,56	cf. Matt 11:25	Matt 13:10-17
+95	Ord Time XVI:Fri	I	Exod 20:1-17	Ps 19:8,9,10,11	cf. Luke 8:15	Matt 13:18-23
+96	Ord Time XVI:Sat	I	Exod 24:3-8	Ps 50:1b-2,5-6,14-15	James 1:21bc	Matt 13:24-30
+97	Ord Time XVII:Mon	I	Exod 32:15-24,30-34	Ps 106:19-20,21-22,23	James 1:18	Matt 13:31-35
+98	Ord Time XVII:Tue	I	Exod 33:7-11;34:5b-9,28	Ps 103:6-7,8-9,10-11,12-13		Matt 13:36-43
+99	Ord Time XVII:Wed	I	Exod 34:29-35	Ps 99:5,6,7,9	John 15:15b	Matt 13:44-46
+100	Ord Time XVII:Thu	I	Exod 40:16-21,34-38	Ps 84:3,4,5-6a+8a,11	cf. Acts 16:14b	Matt 13:47-53
+101	Ord Time XVII:Fri	I	Lev 23:1,4-11,15-16,27,34b-37	Ps 81:3-4,5-6ab,10-11ab	1 Pet 1:25	Matt 13:54-58
+102	Ord Time XVII:Sat	I	Lev 25:1,8-17	Ps 67:2-3,5,7-8	Matt 5:10	Matt 14:1-12
+103	Ord Time XVIII:Mon	I	Num 11:4b-15	Ps 81:12-13,14-15,16-17	Matt 4:4	Matt 14:13-21 or, in Year A, Matt 14:22-36
+104	Ord Time XVIII:Tue	I	Num 12:1-13	Ps 51:3-4,5-6ab,6cd-7,12-13	John 1:49b	Matt 14:22-36 or, in Year A, Matt 15:1-2,10-14
+105	Ord Time XVIII:Wed	I	Num 13:1-2,25—14:1,26a-29a,34-35	Ps 106:6-7ab,13-14,21-22,23	Luke 7:16	Matt 15:21-28
+106	Ord Time XVIII:Thu	I	Num 20:1-13	Ps 95:1-2,6-7,8-9	Matt 16:18	Matt 16:13-23
+107	Ord Time XVIII:Fri	I	Deut 4:32-40	Ps 77:12-13,14-15,16+21	Matt 5:10	Matt 16:24-28
+108	Ord Time XVIII:Sat	I	Deut 6:4-13	Ps 18:2-3a,3bc-4,47+51	cf. 2 Tim 1:10	Matt 17:14-20
+109	Ord Time XIX:Mon	I	Deut 10:12-22	Ps 147:12-13,14-15,19-20	cf. 2 Thess 2:14	Matt 17:22-27
+110	Ord Time XIX:Tue	I	Deut 31:1-8	Deut 32:3-4ab,7,8,9+12	Matt 11:29ab	Matt 18:1-5,10,12-14
+111	Ord Time XIX:Wed	I	Deut 34:1-12	Ps 66:1-3a,5+8,16-17	2 Cor 5:19	Matt 18:15-20
+112	Ord Time XIX:Thu	I	Josh 3:7-10a,11,13-17	Ps 114:1-2,3-4,5-6	Ps 119:135	Matt 18:21—19:1
+113	Ord Time XIX:Fri	I	Josh 24:1-13	Ps 136:1-3,16-18,21-22+24	cf. 1 Thess 2:13	Matt 19:3-12
+114	Ord Time XIX:Sat	I	Josh 24:14-29	Ps 16:1-2a+5,7-8,11	cf. Matt 11:25	Matt 19:13-15
+115	Ord Time XX:Mon	I	Judg 2:11-19	Ps 106:34-35,36-37,39-40,43ab+44	Matt 5:3	Matt 19:16-22
+116	Ord Time XX:Tue	I	Judg 6:11-24a	Ps 85:9,11-12,13-14	2 Cor 8:9	Matt 19:23-30
+117	Ord Time XX:Wed	I	Judg 9:6-15	Ps 21:2-3,4-5,6-7	Heb 4:12	Matt 20:1-16
+118	Ord Time XX:Thu	I	Judg 11:29-39a	Ps 40:5,7-8a,8b-9,10	Ps 95:8	Matt 22:1-14
+119	Ord Time XX:Fri	I	Ruth 1:1,3-6,14b-16,22	Ps 146:5-6ab,6c-7,8-9a,9bc-10	Ps 25:4b,5a	Matt 22:34-40
+120	Ord Time XX:Sat	I	Ruth 2:1-3,8-11;4:13-17	Ps 128:1b-2,3,4,5	Matt 23:9b,10b	Matt 23:1-12
+121	Ord Time XXI:Mon	I	1 Thess 1:1-5,8b-10	Ps 149:1b-2,3-4,5-6a+9b	John 10:27	Matt 23:13-22
+122	Ord Time XXI:Tue	I	1 Thess 2:1-8	Ps 139:1-3,4-6	Heb 4:12	Matt 23:23-26
+123	Ord Time XXI:Wed	I	1 Thess 2:9-13	Ps 139:7-8,9-10,11-12ab	1 John 2:5	Matt 23:27-32
+124	Ord Time XXI:Thu	I	1 Thess 3:7-13	Ps 90:3-4,12-13,14+17	Matt 24:42a,44	Matt 24:42-51
+125	Ord Time XXI:Fri	I	1 Thess 4:1-8	Ps 97:1+2b,5-6,10,11-12	Luke 21:36	Matt 25:1-13
+126	Ord Time XXI:Sat	I	1 Thess 4:9-11	Ps 98:1,7-8,9	John 13:34	Matt 25:14-30
+127	Ord Time XXII:Mon	I	1 Thess 4:13-18	Ps 96:1+3,4-5,11-12,13	cf. Luke 4:18	Luke 4:16-30
+128	Ord Time XXII:Tue	I	1 Thess 5:1-6,9-11	Ps 27:1,4,13-14	Luke 7:16	Luke 4:31-37
+129	Ord Time XXII:Wed	I	Col 1:1-8	Ps 52:10,11	Luke 4:18	Luke 4:38-44
+130	Ord Time XXII:Thu	I	Col 1:9-14	Ps 98:2-3ab,3cd-4,5-6	Matt 4:19	Luke 5:1-11
+131	Ord Time XXII:Fri	I	Col 1:15-20	Ps 100:1b-2,3,4,5	John 8:12	Luke 5:33-39
+132	Ord Time XXII:Sat	I	Col 1:21-23	Ps 54:3-4,6+8	John 14:6	Luke 6:1-5
+133	Ord Time XXIII:Mon	I	Col 1:24—2:3	Ps 62:6-7,9	John 10:27	Luke 6:6-11
+134	Ord Time XXIII:Tue	I	Col 2:6-15	Ps 145:1b-2,8-9,10-11	cf. John 15:16	Luke 6:12-19
+135	Ord Time XXIII:Wed	I	Col 3:1-11	Ps 145:2-3,10-11,12-13ab	Luke 6:23ab	Luke 6:20-26
+136	Ord Time XXIII:Thu	I	Col 3:12-17	Ps 150:1b-2,3-4,5-6	1 John 4:12	Luke 6:27-38
+137	Ord Time XXIII:Fri	I	1 Tim 1:1-2,12-14	Ps 16:1b-2a+5,7-8,11	cf. John 17:17b,17a	Luke 6:39-42
+138	Ord Time XXIII:Sat	I	1 Tim 1:15-17	Ps 113:1b-2,3-4,5a+6-7	John 14:23	Luke 6:43-49
+139	Ord Time XXIV:Mon	I	1 Tim 2:1-8	Ps 28:2,7,8-9	John 3:16	Luke 7:1-10
+140	Ord Time XXIV:Tue	I	1 Tim 3:1-13	Ps 101:1b-2ab,2cd-3ab,5,6	Luke 7:16	Luke 7:11-17
+141	Ord Time XXIV:Wed	I	1 Tim 3:14-16	Ps 111:1-2,3-4,5-6	cf. John 6:63c,68c	Luke 7:31-35
+142	Ord Time XXIV:Thu	I	1 Tim 4:12-16	Ps 111:7-8,9,10	Matt 11:28	Luke 7:36-50
+143	Ord Time XXIV:Fri	I	1 Tim 6:2c-12	Ps 49:6-7,8-10,17-18,19-20	cf. Matt 11:25	Luke 8:1-3
+144	Ord Time XXIV:Sat	I	1 Tim 6:13-16	Ps 100:1b-2,3,4,5	cf. Luke 8:15	Luke 8:4-15
+145	Ord Time XXV:Mon	I	Ezra 1:1-6	Ps 126:1b-2ab,2cd-3,4-5,6	Matt 5:16	Luke 8:16-18
+146	Ord Time XXV:Tue	I	Ezra 6:7-8,12b,14-20	Ps 122:1-2,3-4ab,4cd-5	Luke 11:28	Luke 8:19-21
+147	Ord Time XXV:Wed	I	Ezra 9:5-9	Tob 13:2,3-4a,6,7,10 [Vulg.]	Mark 1:15	Luke 9:1-6
+148	Ord Time XXV:Thu	I	Hag 1:1-8	Ps 149:1b-2,3-4,5-6a+9b	John 14:6	Luke 9:7-9
+149	Ord Time XXV:Fri	I	Hag 2:1-9	Ps 43:1,2,3,4	Mark 10:45	Luke 9:18-22
+150	Ord Time XXV:Sat	I	Zech 2:5-9,14-15a	Jer 31:10,11-12ab,13	cf. 2 Tim 1:10	Luke 9:43b-45
+151	Ord Time XXVI:Mon	I	Zech 8:1-8	Ps 102:16-18,19-21,29+22-23	Mark 10:45	Luke 9:46-50
+152	Ord Time XXVI:Tue	I	Zech 8:20-23	Ps 87:1b-3,4-5,6-7	Mark 10:45	Luke 9:51-56
+153	Ord Time XXVI:Wed	I	Neh 2:1-8	Ps 137:1-2,3,4-5,6	Phil 3:8-9	Luke 9:57-62
+154	Ord Time XXVI:Thu	I	Neh 8:1-4a,5-6,7b-12	Ps 19:8,9,10,11	Mark 1:15	Luke 10:1-12
+155	Ord Time XXVI:Fri	I	Bar 1:15-22	Ps 79:1b-2,3-5,8,9	Ps 95:8	Luke 10:13-16
+156	Ord Time XXVI:Sat	I	Bar 4:5-12,27-29	Ps 69:33-35,36-37	cf. Matt 11:25	Luke 10:17-24
+157	Ord Time XXVII:Mon	I	Jonah 1:1—2:2,11	Jonah 2:3,4,5,8	John 13:34	Luke 10:25-37
+158	Ord Time XXVII:Tue	I	Jonah 3:1-10	Ps 130:1b-2,3-4ab,7-8	Luke 11:28	Luke 10:38-42
+159	Ord Time XXVII:Wed	I	Jonah 4:1-11	Ps 86:3-4,5-6,9-10	Rom 8:15bc	Luke 11:1-4
+160	Ord Time XXVII:Thu	I	Mal 3:13-20b	Ps 1:1-2,3,4+6	cf. Acts 16:14b	Luke 11:5-13
+161	Ord Time XXVII:Fri	I	Joel 1:13-15;2:1-2	Ps 9:2-3,6+16,8-9	John 12:31b-32	Luke 11:15-26
+162	Ord Time XXVII:Sat	I	Joel 4:12-21	Ps 97:1-2,5-6,11-12	Luke 11:28	Luke 11:27-28
+163	Ord Time XXVIII:Mon	I	Rom 1:1-7	Ps 98:1bcde,2-3ab,3cd-4	Ps 95:8	Luke 11:29-32
+164	Ord Time XXVIII:Tue	I	Rom 1:16-25	Ps 19:2-3,4-5	Heb 4:12	Luke 11:37-41
+165	Ord Time XXVIII:Wed	I	Rom 2:1-11	Ps 62:2-3,6-7,9	John 10:27	Luke 11:42-46
+166	Ord Time XXVIII:Thu	I	Rom 3:21-30	Ps 130:1b-2,3-4,5-6ab	John 14:6	Luke 11:47-54
+167	Ord Time XXVIII:Fri	I	Rom 4:1-8	Ps 32:1b-2,5,11	Ps 33:22	Luke 12:1-7
+168	Ord Time XXVIII:Sat	I	Rom 4:13,16-18	Ps 105:6-7,8-9,42-43	John 15:26b,27a	Luke 12:8-12
+169	Ord Time XXIX:Mon	I	Rom 4:20-25	Luke 1:69-70,71-72,73-75	Matt 5:3	Luke 12:13-21
+170	Ord Time XXIX:Tue	I	Rom 5:12,15b,17-19,20b-21	Ps 40:7-8a,8b-9,10,17	Luke 21:36	Luke 12:35-38
+171	Ord Time XXIX:Wed	I	Rom 6:12-18	Ps 124:1b-3,4-6,7-8	Matt 24:42a,44	Luke 12:39-48
+172	Ord Time XXIX:Thu	I	Rom 6:19-23	Ps 1:1-2,3,4+6	Phil 3:8-9	Luke 12:49-53
+173	Ord Time XXIX:Fri	I	Rom 7:18-25a	Ps 119:66,68,76,77,93,94	cf. Matt 11:25	Luke 12:54-59
+174	Ord Time XXIX:Sat	I	Rom 8:1-11	Ps 24:1b-2,3-4ab,5-6	Ezek 33:11	Luke 13:1-9
+175	Ord Time XXX:Mon	I	Rom 8:12-17	Ps 68:2+4,6-7ab,20-21	John 17:17b,17a	Luke 13:10-17
+176	Ord Time XXX:Tue	I	Rom 8:18-25	Ps 126:1b-2ab,2cd-3,4-5,6	cf. Matt 11:25	Luke 13:18-21
+177	Ord Time XXX:Wed	I	Rom 8:26-30	Ps 13:4-5,6	cf. 2 Thess 2:14	Luke 13:22-30
+178	Ord Time XXX:Thu	I	Rom 8:31b-39	Ps 109:21-22,26-27,30-31	cf. Luke 19:38;2:14	Luke 13:31-35
+179	Ord Time XXX:Fri	I	Rom 9:1-5	Ps 147:12-13,14-15,19-20	John 10:27	Luke 14:1-6
+180	Ord Time XXX:Sat	I	Rom 11:1-2a,11-12,25-29	Ps 94:12-13a,14-15,17-18	Matt 11:29ab	Luke 14:1,7-11
+181	Ord Time XXXI:Mon	I	Rom 11:29-36	Ps 69:30-31,33-34,36-37	John 8:31b-32	Luke 14:12-14
+182	Ord Time XXXI:Tue	I	Rom 12:5-16ab	Ps 131:1bcde,2,3	Matt 11:28	Luke 14:15-24
+183	Ord Time XXXI:Wed	I	Rom 13:8-10	Ps 112:1b-2,4-5,9	1 Pet 4:14	Luke 14:25-33
+184	Ord Time XXXI:Thu	I	Rom 14:7-12	Ps 27:1bcde,4,13-14	Matt 11:28	Luke 15:1-10
+185	Ord Time XXXI:Fri	I	Rom 15:14-21	Ps 98:1,2-3ab,3cd-4	1 John 2:5	Luke 16:1-8
+186	Ord Time XXXI:Sat	I	Rom 16:3-9,16,22-27	Ps 145:2-3,4-5,10-11	2 Cor 8:9	Luke 16:9-15
+187	Ord Time XXXII:Mon	I	Wis 1:1-7	Ps 139:1b-3,4-6,7-8,9-10	Phil 2:15d,16a	Luke 17:1-6
+188	Ord Time XXXII:Tue	I	Wis 2:23—3:9	Ps 34:2-3,16-17,18-19	John 14:23	Luke 17:7-10
+189	Ord Time XXXII:Wed	I	Wis 6:1-11	Ps 82:3-4,6-7	1 Thess 5:18	Luke 17:11-19
+190	Ord Time XXXII:Thu	I	Wis 7:22b—8:1	Ps 119:89,90,91,130,135,175	John 15:5	Luke 17:20-25
+191	Ord Time XXXII:Fri	I	Wis 13:1-9	Ps 19:2-3,4-5ab	Luke 21:28	Luke 17:26-37
+192	Ord Time XXXII:Sat	I	Wis 18:14-16;19:6-9	Ps 105:2-3,36-37,42-43	cf. 2 Thess 2:14	Luke 18:1-8
+193	Ord Time XXXIII:Mon	I	1 Macc 1:10-15,41-43,54-57,62-63	Ps 119:53,61,134,150,155,158	John 8:12	Luke 18:35-43
+194	Ord Time XXXIII:Tue	I	2 Macc 6:18-31	Ps 3:2-3,4-5,6-7	1 John 4:10b	Luke 19:1-10
+195	Ord Time XXXIII:Wed	I	2 Macc 7:1,20-31	Ps 17:1bcd,5-6,8b+15	cf. John 15:16	Luke 19:11-28
+196	Ord Time XXXIII:Thu	I	1 Macc 2:15-29	Ps 50:1b-2,5-6,14-15	Ps 95:8	Luke 19:41-44
+197	Ord Time XXXIII:Fri	I	1 Macc 4:36-37,52-59	1 Chr 29:10bcd,11abc,11d-12a,12bcd	John 10:27	Luke 19:45-48
+198	Ord Time XXXIII:Sat	I	1 Macc 6:1-13	Ps 9:2-3,4+6,16+19	cf. 2 Tim 1:10	Luke 20:27-40
+199	Ord Time XXXIV:Mon	I	Dan 1:1-6,8-20	Dan 3:52,53,54,55,56	Matt 24:42a,44	Luke 21:1-4
+200	Ord Time XXXIV:Tue	I	Dan 2:31-45	Dan 3:57,58,59,60,61	Rev 2:10c	Luke 21:5-11
+201	Ord Time XXXIV:Wed	I	Dan 5:1-6,13-14,16-17,23-28	Dan 3:62,63,64,65,66,67	Rev 2:10c	Luke 21:12-19
+202	Ord Time XXXIV:Thu	I	Dan 6:12-28	Dan 3:68,69,70,71,72,73,74	Luke 21:28	Luke 21:20-28
+203	Ord Time XXXIV:Fri	I	Dan 7:2-14	Dan 3:75,76,77,78,79,80,81	Luke 21:28	Luke 21:29-33
+204	Ord Time XXXIV:Sat	I	Dan 7:15-27	Dan 3:82,83,84,85,86,87	Luke 21:36	Luke 21:34-36
+205	Ord Time I:Mon	II	1 Sam 1:1-8	Ps 116:12-13,14-17,18-19	Mark 1:15	Mark 1:14-22
+206	Ord Time I:Tue	II	1 Sam 1:9-22	1 Sam 2:1,4-5,6-7,8abcd	cf. 1 Thess 2:13	Mark 1:21-28
+207	Ord Time I:Wed	II	1 Sam 3:1-10,19-22	Ps 40:2+5,7-8a,8b-9,10	John 10:27	Mark 1:29-39
+208	Ord Time I:Thu	II	1 Sam 4:1-11	Ps 44:10-11,14-15,24-25	cf. Matt 4:23	Mark 1:40-45
+209	Ord Time I:Fri	II	1 Sam 8:4-7,10-22a	Ps 89:16-17,18-19	Luke 7:16	Mark 2:1-12
+210	Ord Time I:Sat	II	1 Sam 9:1-4,17-19;10:1	Ps 21:2-3,4-5,6-7	Luke 4:18	Mark 2:13-17
+211	Ord Time II:Mon	II	1 Sam 15:16-23	Ps 50:8-9,16bc-17,21+23	Heb 4:12	Mark 2:18-22
+212	Ord Time II:Tue	II	1 Sam 16:1-13	Ps 89:20,21-22,27-28	cf. Eph 1:17-18	Mark 2:23-28
+213	Ord Time II:Wed	II	1 Sam 17:32-33,37,40-51	Ps 144:1b,2,9-10	cf. Matt 4:23	Mark 3:1-6
+214	Ord Time II:Thu	II	1 Sam 18:6-9;19:1-7	Ps 56:2-3,9-10a,10b-11,12-13	cf. 2 Tim 1:10	Mark 3:7-12
+215	Ord Time II:Fri	II	1 Sam 24:3-21	Ps 57:2,3-4,6+11	2 Cor 5:19	Mark 3:13-19
+216	Ord Time II:Sat	II	2 Sam 1:1-4,11-12,19,23-27	Ps 80:2-3,5-7	cf. Acts 16:14b	Mark 3:20-21
+217	Ord Time III:Mon	II	2 Sam 5:1-7,10	Ps 89:20,21-22,25-26	cf. 2 Tim 1:10	Mark 3:22-30
+218	Ord Time III:Tue	II	2 Sam 6:12b-15,17-19	Ps 24:7,8,9,10	cf. Matt 11:25	Mark 3:31-35
+219	Ord Time III:Wed	II	2 Sam 7:4-17	Ps 89:4-5,27-28,29-30		Mark 4:1-22
+220	Ord Time III:Thu	II	2 Sam 7:18-19,24-29	Ps 132:1-2,3-5,11,12,13-14	Ps 119:105	Mark 4:21-25
+221	Ord Time III:Fri	II	2 Sam 11:1-4a,5-10a,13-17	Ps 51:3-4,5-6a,6bcd-7,10-11	cf. Matt 11:25	Mark 4:26-34
+222	Ord Time III:Sat	II	2 Sam 12:1-7a,10-17	Ps 51:12-13,14-15,16-17	John 3:16	Mark 4:35-41
+223	Ord Time IV:Mon	II	2 Sam 15:13-14,30;16:5-13	Ps 3:2-3,4-5,6-7	Luke 7:16	Mark 5:1-22
+224	Ord Time IV:Tue	II	2 Sam 18:9-10,14b,24-25a,30—19:3	Ps 86:1-2,3-4,5-6	Matt 8:17	Mark 5:21-43
+225	Ord Time IV:Wed	II	2 Sam 24:2,9-17	Ps 32:1-2,5,6,7	John 10:27	Mark 6:1-6
+226	Ord Time IV:Thu	II	1 Kgs 2:1-4,10-12	1 Chr 29:10bcd,11ab,11d-12a,12bcd	Mark 1:15	Mark 6:7-13
+227	Ord Time IV:Fri	II	Sir 47:2-11	Ps 18:31,47+50,51	cf. Luke 8:15	Mark 6:14-29
+228	Ord Time IV:Sat	II	1 Kgs 3:4-13	Ps 119:9,10,11,12,13,14	John 10:27	Mark 6:30-34
+229	Ord Time V:Mon	II	1 Kgs 8:1-7,9-13	Ps 132:6-7,8-10	cf. Matt 4:23	Mark 6:53-56
+230	Ord Time V:Tue	II	1 Kgs 8:22-23,27-30	Ps 84:3,4,5+10,11	Ps 119:36,29b	Mark 7:1-13
+231	Ord Time V:Wed	II	1 Kgs 10:1-10	Ps 37:5-6,30-31,39-40	cf. John 17:17b,17a	Mark 7:14-23
+232	Ord Time V:Thu	II	1 Kgs 11:4-13	Ps 106:3-4,35-36,37+40	James 1:21bc	Mark 7:24-30
+233	Ord Time V:Fri	II	1 Kgs 11:29-32;12:19	Ps 81:10-11ab,12-13,14-15	cf. Acts 16:14b	Mark 7:31-37
+234	Ord Time V:Sat	II	1 Kgs 12:26-32;13:33-34	Ps 106:6-7ab,19-22,21-22	Matt 4:4b	Mark 8:1-10
+235	Ord Time VI:Mon	II	Jas 1:1-11	Ps 119:67,68,71,72,75,76	John 14:6	Mark 8:11-13
+236	Ord Time VI:Tue	II	Jas 1:12-18	Ps 94:12-13a,14-15,18-19	John 14:23	Mark 8:14-21
+237	Ord Time VI:Wed	II	Jas 1:19-27	Ps 15:2-3a,3bc-4ab,5	cf. Eph 1:17-18	Mark 8:22-26
+238	Ord Time VI:Thu	II	Jas 2:1-9	Ps 34:2-3,4-5,6-7	cf. John 6:63c,68c	Mark 8:27-33
+239	Ord Time VI:Fri	II	Jas 2:14-24,26	Ps 112:1-2,3-4,5-6	John 15:15b	Mark 8:34—9:1
+240	Ord Time VI:Sat	II	Jas 3:1-10	Ps 12:2-3,4-5,7-8	cf. Mark 9:6	Mark 9:2-13
+241	Ord Time VII:Mon	II	Jas 3:13-18	Ps 19:8,9,10,15	cf. 2 Tim 1:10	Mark 9:14-29
+242	Ord Time VII:Tue	II	Jas 4:1-10	Ps 55:7-8,9-10a,10b-11a,23	Gal 6:14	Mark 9:30-37
+243	Ord Time VII:Wed	II	Jas 4:13-17	Ps 49:2-3,6-7,8-10,11	John 14:6	Mark 9:38-40
+244	Ord Time VII:Thu	II	Jas 5:1-6	Ps 49:14-15ab,15cd-16,17-18,19-22	cf. 1 Thess 2:13	Mark 9:41-50
+245	Ord Time VII:Fri	II	Jas 5:9-12	Ps 103:1-2,3-4,8-9,11-12	cf. John 17:17b,17a	Mark 10:1-12
+246	Ord Time VII:Sat	II	Jas 5:13-22	Ps 141:1-2,3+8	cf. Matt 11:25	Mark 10:13-16
+247	Ord Time VIII:Mon	II	1 Pet 1:3-9	Ps 111:1-2,5-6,9,+10c	2 Cor 8:9	Mark 10:17-27
+248	Ord Time VIII:Tue	II	1 Pet 1:10-16	Ps 98:1,2-3ab,3cd-4	cf. Matt 11:25	Mark 10:28-31
+249	Ord Time VIII:Wed	II	1 Pet 1:18-25	Ps 147:12-13,14-15,19-22	Mark 10:45	Mark 10:32-45
+250	Ord Time VIII:Thu	II	1 Pet 2:2-5,9-12	Ps 100:2,3,4,5	John 8:12	Mark 10:46-52
+251	Ord Time VIII:Fri	II	1 Pet 4:7-13	Ps 96:10,11-12,13	cf. John 15:16	Mark 11:11-26
+252	Ord Time VIII:Sat	II	Jude 17,20b-25	Ps 63:2,3-4,5-6	cf. Col 3:16a,17c	Mark 11:27-33
+253	Ord Time IX:Mon	II	2 Pet 1:2-7	Ps 91:1-2,14-15ab,15c-16	cf. Rev 1:5ab	Mark 12:1-12
+254	Ord Time IX:Tue	II	2 Pet 3:12-15a,17-18	Ps 90:2,3-4,10,14+16	cf. Eph 1:17-18	Mark 12:13-17
+255	Ord Time IX:Wed	II	2 Tim 1:1-3,6-12	Ps 123:1b-2ab,2cdef	John 11:25a,26	Mark 12:18-27
+256	Ord Time IX:Thu	II	2 Tim 2:8-15	Ps 25:4-5ab,8-9,10+14	cf. 2 Tim 1:10	Mark 12:28b-34
+257	Ord Time IX:Fri	II	2 Tim 3:10-17	Ps 119:157,160,161,165,166,168	John 14:23	Mark 12:35-37
+258	Ord Time IX:Sat	II	2 Tim 4:1-8	Ps 71:8-9,14-15ab,16-17,22	Matt 5:3	Mark 12:38-44
+259	Ord Time X:Mon	II	1 Kgs 17:1-6	Ps 121:1bc-2,3-4,5-6,7-8	Matt 5:12a	Matt 5:1-12
+260	Ord Time X:Tue	II	1 Kgs 17:7-16	Ps 4:2-3,4-5,7b-8	Matt 5:16	Matt 5:13-16
+261	Ord Time X:Wed	II	1 Kgs 18:20-39	Ps 16:1-2ab,4,5ab+8,11	Ps 25:4b,5a	Matt 5:17-19
+262	Ord Time X:Thu	II	1 Kgs 18:41-46	Ps 65:10,11,12-13	John 13:34	Matt 5:20-26
+263	Ord Time X:Fri	II	1 Kgs 19:9a,11-16	Ps 27:7-8a,8b-9abc,13-14	Phil 2:15d,16a	Matt 5:27-32
+264	Ord Time X:Sat	II	1 Kgs 19:19-21	Ps 16:1b-2a+5,7-8,9-10	Ps 119:36a,29b	Matt 5:33-37
+265	Ord Time XI:Mon	II	1 Kgs 21:1-16	Ps 5:2-3ab,4b-6a,6b-7	Ps 119:105	Matt 5:38-42
+266	Ord Time XI:Tue	II	1 Kgs 21:17-29	Ps 51:3-4,5-6ab,11+16	John 13:34	Matt 5:43-48
+267	Ord Time XI:Wed	II	2 Kgs 2:1,6-14	Ps 31:20,21,24	John 14:23	Matt 6:1-6,16-18
+268	Ord Time XI:Thu	II	Sir 48:1-14	Ps 97:1-2,3-4,5-6,7	Rom 8:15bc	Matt 6:7-15
+269	Ord Time XI:Fri	II	2 Kgs 11:1-4,9-18,20	Ps 132:11,12,13-14,17-18	Matt 5:3	Matt 6:19-23
+270	Ord Time XI:Sat	II	2 Chr 24:17-25	Ps 89:4-5,29-30,31-32,33-34	2 Cor 8:9	Matt 6:24-34
+271	Ord Time XII:Mon	II	2 Kgs 17:5-8,13-15a,18	Ps 60:3,4-5,12-13	Heb 4:12	Matt 7:1-5
+272	Ord Time XII:Tue	II	2 Kgs 19:9b-11,14-21,31-35a,36	Ps 48:2-3ab,3cd-4,10-11	John 8:12	Matt 7:6,12-14
+273	Ord Time XII:Wed	II	2 Kgs 22:8-13;23:1-3	Ps 119:33,34,35,36,37,40	John 15:4a,5b	Matt 7:15-22
+274	Ord Time XII:Thu	II	2 Kgs 24:8-17	Ps 79:1b-2,3-5,8,9	John 14:23	Matt 7:21-29
+275	Ord Time XII:Fri	II	2 Kgs 25:1-12	Ps 137:1-2,3,4-5,6	Matt 8:17	Matt 8:1-4
+276	Ord Time XII:Sat	II	Lam 2:2,10-14,18-19	Ps 74:1b-2,3-5,6-7,20-21	Matt 8:17	Matt 8:5-17
+277	Ord Time XIII:Mon	II	Amos 2:6-10,13-16	Ps 50:16bc-17,18-19,20-21,22-23	Ps 95:8	Matt 8:18-22
+278	Ord Time XIII:Tue	II	Amos 3:1-8;4:11-12	Ps 5:4b-6a,6b-7,8	Ps 130:5	Matt 8:23-27
+279	Ord Time XIII:Wed	II	Amos 5:14-15,21-24	Ps 50:7,8-9,10-11,12-13,16bc-17	James 1:18	Matt 8:28-34
+280	Ord Time XIII:Thu	II	Amos 7:10-17	Ps 19:8,9,10,11	2 Cor 5:19	Matt 9:1-8
+281	Ord Time XIII:Fri	II	Amos 8:4-6,9-12	Ps 119:2,10,20,30,40,131	Matt 11:28	Matt 9:9-13
+282	Ord Time XIII:Sat	II	Amos 9:11-15	Ps 85:9ab+10,11-12,13-14	John 10:27	Matt 9:14-17
+283	Ord Time XIV:Mon	II	Hos 2:16,17c-18,21-22	Ps 145:2-3,4-5,6-7,8-9	cf. 2 Tim 1:10	Matt 9:18-26
+284	Ord Time XIV:Tue	II	Hos 8:4-7,11-13	Ps 115:3-4,5-6,7ab+8,9-10	John 10:14	Matt 9:32-38
+285	Ord Time XIV:Wed	II	Hos 10:1-3,7-8,12	Ps 105:2-3,4-5,6-7	Mark 1:15	Matt 10:1-7
+286	Ord Time XIV:Thu	II	Hos 11:1-4,8e-9	Ps 80:2ac+3b,15-16	Mark 1:15	Matt 10:7-15
+287	Ord Time XIV:Fri	II	Hos 14:2-10	Ps 51:3-4,8-9,12-13,14+17	John 16:13a;14:26d	Matt 10:16-23
+288	Ord Time XIV:Sat	II	Isa 6:1-8	Ps 93:1ab,1cd-2,5	1 Pet 4:14	Matt 10:24-33
+289	Ord Time XV:Mon	II	Isa 1:10-17	Ps 50:8-9,16bc-17,21+23	Matt 5:10	Matt 10:34—11:1
+290	Ord Time XV:Tue	II	Isa 7:1-9	Ps 48:2-3a,3b-4,5-6,7-8	Ps 95:8	Matt 11:20-24
+291	Ord Time XV:Wed	II	Isa 10:5-7,13b-16	Ps 94:5-6,7-8,9-10,14-15	cf. Matt 11:25	Matt 11:25-27
+292	Ord Time XV:Thu	II	Isa 26:7-9,12,16-19	Ps 102:13-14ab+15,16-18,19-21	Matt 11:28	Matt 11:28-30
+293	Ord Time XV:Fri	II	Isa 38:1-6,21-22,7-8	Isa 38:10,11,12abcd,16	John 10:27	Matt 12:1-8
+294	Ord Time XV:Sat	II	Mic 2:1-5	Ps 10:1-2,3-4,7-8,14	2 Cor 5:19	Matt 12:14-21
+295	Ord Time XVI:Mon	II	Mic 6:1-4,6-8	Ps 50:5-6,8-9,16bc-17,21+23	Ps 95:8	Matt 12:38-42
+296	Ord Time XVI:Tue	II	Mic 7:14-15,18-22	Ps 85:2-4,5-6,7-8	John 14:23	Matt 12:46-50
+297	Ord Time XVI:Wed	II	Jer 1:1,4-10	Ps 71:1-2,3-4a,5-6ab,15+17		Matt 13:1-9
+298	Ord Time XVI:Thu	II	Jer 2:1-3,7-8,12-13	Ps 36:6-7ab,8-9,10-11	cf. Matt 11:25	Matt 13:10-17
+299	Ord Time XVI:Fri	II	Jer 3:14-17	Jer 31:10,11-12abcd,13	cf. Luke 8:15	Matt 13:18-23
+300	Ord Time XVI:Sat	II	Jer 7:1-11	Ps 84:3,4,5-6a+8a,11	James 1:21bc	Matt 13:24-30
+301	Ord Time XVII:Mon	II	Jer 13:1-11	Deut 32:18-19,20,21	James 1:18	Matt 13:31-35
+302	Ord Time XVII:Tue	II	Jer 14:17-22	Ps 79:8,9,11+13		Matt 13:36-43
+303	Ord Time XVII:Wed	II	Jer 15:10,16-21	Ps 59:2-3,4,10-11,17,18	John 15:15b	Matt 13:44-46
+304	Ord Time XVII:Thu	II	Jer 18:1-6	Ps 146:1b-2,3-4,5-6ab	cf. Acts 16:14b	Matt 13:47-53
+305	Ord Time XVII:Fri	II	Jer 26:1-9	Ps 69:5,8-10,14	1 Pet 1:25	Matt 13:54-58
+306	Ord Time XVII:Sat	II	Jer 26:11-16,24	Ps 69:15-16,30-31,33-34	Matt 5:10	Matt 14:1-12
+307	Ord Time XVIII:Mon	II	Jer 28:1-17	Ps 119:29,43,79,80,95,102	Matt 4:4	Matt 14:13-21 or, in Year A, Matt 14:22-36
+308	Ord Time XVIII:Tue	II	Jer 30:1-2,12-15,18-22	Ps 102:16-18,19-21,29+22-23	John 1:49b	Matt 14:22-36  or, in Year A, Matt 15:1-2,10-14
+309	Ord Time XVIII:Wed	II	Jer 31:1-7	Jer 31:10,11-12ab,13	Luke 7:16	Matt 15:21-28
+310	Ord Time XVIII:Thu	II	Jer 31:31-34	Ps 51:12-13,14-15,18-19	Matt 16:18	Matt 16:13-23
+311	Ord Time XVIII:Fri	II	Nah 2:1,3;3:1-3,6-7	Deut 32:35cd-36ab,39abcd,41	Matt 5:10	Matt 16:24-28
+312	Ord Time XVIII:Sat	II	Hab 1:12—2:4	Ps 9:8-9,10-11,12-13	cf. 2 Tim 1:10	Matt 17:14-22
+313	Ord Time XIX:Mon	II	Ezek 1:2-5,24-28c	Ps 148:1-2,11-12,13,14	cf. 2 Thess 2:14	Matt 17:22-27
+314	Ord Time XIX:Tue	II	Ezek 2:8—3:4	Ps 119:14,24,72,103,111,131	Matt 11:29ab	Matt 18:1-5,10,12-14
+315	Ord Time XIX:Wed	II	Ezek 9:1-7;10:18-22	Ps 113:1-2,3-4,5-6	2 Cor 5:19	Matt 18:15-22
+316	Ord Time XIX:Thu	II	Ezek 12:1-12	Ps 78:56-57,58-59,61-62	Ps 119:135	Matt 18:21—19:1
+317	Ord Time XIX:Fri	II	Ezek 16:1-15,60,63|16:59-63	Isa 12:2-3,4bcd,5-6	cf. 1 Thess 2:13	Matt 19:3-12
+318	Ord Time XIX:Sat	II	Ezek 18:1-10,13b,30-32	Ps 51:12-13,14-15,18-19	cf. Matt 11:25	Matt 19:13-15
+319	Ord Time XX:Mon	II	Ezek 24:15-23	Deut 32:18-19,20,21	Matt 5:3	Matt 19:16-22
+320	Ord Time XX:Tue	II	Ezek 28:1-10	Deut 32:26-27ab,27cd-28,30,35cd-36ab	2 Cor 8:9	Matt 19:23-30
+321	Ord Time XX:Wed	II	Ezek 34:1-11	Ps 23:1-3a,3b-4,5,6	Heb 4:12	Matt 20:1-16
+322	Ord Time XX:Thu	II	Ezek 36:23-28	Ps 51:12-13,14-15,18-19	Ps 95:8	Matt 22:1-14
+323	Ord Time XX:Fri	II	Ezek 37:1-14	Ps 107:2-3,4-5,6-7,8-9	Ps 25:4b,5a	Matt 22:34-40
+324	Ord Time XX:Sat	II	Ezek 43:1-7ab	Ps 85:9ab+10,11-12,13-14	Matt 23:9b,10b	Matt 23:1-12
+325	Ord Time XXI:Mon	II	2 Thess 1:1-5,11-12	Ps 96:1-2a,2b-3,4-5	John 10:27	Matt 23:13-22
+326	Ord Time XXI:Tue	II	2 Thess 2:1-3a,14-17	Ps 96:10,11-12,13	Heb 4:12	Matt 23:23-26
+327	Ord Time XXI:Wed	II	2 Thess 3:6-10,16-18	Ps 128:1-2,4-5	1 John 2:5	Matt 23:27-32
+328	Ord Time XXI:Thu	II	1 Cor 1:1-9	Ps 145:2-3,4-5,6-7	Matt 24:42a,44	Matt 24:42-51
+329	Ord Time XXI:Fri	II	1 Cor 1:17-25	Ps 33:1-2,4-5,10-11	Luke 21:36	Matt 25:1-13
+330	Ord Time XXI:Sat	II	1 Cor 1:26-31	Ps 33:12-13,18-19,20-21	John 13:34	Matt 25:14-30
+331	Ord Time XXII:Mon	II	1 Cor 2:1-5	Ps 119:97,98,99,100,101,102	cf. Luke 4:18	Luke 4:16-30
+332	Ord Time XXII:Tue	II	1 Cor 2:10b-16	Ps 145:8-9,10-11,12-13ab,13cd-14	Luke 7:16	Luke 4:31-37
+333	Ord Time XXII:Wed	II	1 Cor 3:1-9	Ps 33:12-13,14-15,20-21	Luke 4:18	Luke 4:38-44
+334	Ord Time XXII:Thu	II	1 Cor 3:18-23	Ps 24:1bc-2,3-4ab,5-6	Matt 4:19	Luke 5:1-11
+335	Ord Time XXII:Fri	II	1 Cor 4:1-5	Ps 37:3-4,5-6,27-28,39-40	John 8:12	Luke 5:33-39
+336	Ord Time XXII:Sat	II	1 Cor 4:6b-15	Ps 145:17-18,19-22,21	John 14:6	Luke 6:1-5
+337	Ord Time XXIII:Mon	II	1 Cor 5:1-8	Ps 5:5-6,7,12	John 10:27	Luke 6:6-11
+338	Ord Time XXIII:Tue	II	1 Cor 6:1-11	Ps 149:1b-2,3-4,5-6a+9b	cf. John 15:16	Luke 6:12-19
+339	Ord Time XXIII:Wed	II	1 Cor 7:25-31	Ps 45:11-12,14-15,16-17	Luke 6:23ab	Luke 6:20-26
+340	Ord Time XXIII:Thu	II	1 Cor 8:1b-7,11-13	Ps 139:1b-3,13-14ab,23-24	1 John 4:12	Luke 6:27-38
+341	Ord Time XXIII:Fri	II	1 Cor 9:16-19,22b-27	Ps 84:3,4,5-6,12	cf. John 17:17b,17a	Luke 6:39-42
+342	Ord Time XXIII:Sat	II	1 Cor 10:14-22	Ps 116:12-13,17-18	John 14:23	Luke 6:43-49
+343	Ord Time XXIV:Mon	II	1 Cor 11:17-26,33	Ps 40:7-8a,8b-9,10,17	John 3:16	Luke 7:1-10
+344	Ord Time XXIV:Tue	II	1 Cor 12:12-14,27-31a	Ps 100:1b-2,3,4,5	Luke 7:16	Luke 7:11-17
+345	Ord Time XXIV:Wed	II	1 Cor 12:31—13:13	Ps 33:2-3,4-5,12+22	cf. John 6:63c,68c	Luke 7:31-35
+346	Ord Time XXIV:Thu	II	1 Cor 15:1-11	Ps 118:1b-2,16ab+17,28	Matt 11:28	Luke 7:36-50
+347	Ord Time XXIV:Fri	II	1 Cor 15:12-22	Ps 17:1bcd,6-7,8b+15	cf. Matt 11:25	Luke 8:1-3
+348	Ord Time XXIV:Sat	II	1 Cor 15:35-37,42-49	Ps 56:10c-12,13-14	cf. Luke 8:15	Luke 8:4-15
+349	Ord Time XXV:Mon	II	Prov 3:27-34	Ps 15:2-3a,3bc-4ab,5	Matt 5:16	Luke 8:16-18
+350	Ord Time XXV:Tue	II	Prov 21:1-6,10-13	Ps 119:1,27,30,34,35,44	Luke 11:28	Luke 8:19-21
+351	Ord Time XXV:Wed	II	Prov 30:5-9	Ps 119:29,72,89,101,104,163	Mark 1:15	Luke 9:1-6
+352	Ord Time XXV:Thu	II	Eccl/Qoh 1:2-11	Ps 90:3-4,5-6,12-13,14+17bc	John 14:6	Luke 9:7-9
+353	Ord Time XXV:Fri	II	Eccl/Qoh 3:1-11	Ps 144:1b+2abc,3-4	Mark 10:45	Luke 9:18-22
+354	Ord Time XXV:Sat	II	Eccl/Qoh 11:9—12:8	Ps 90:3-4,5-6,12-13,14+17	cf. 2 Tim 1:10	Luke 9:43b-45
+355	Ord Time XXVI:Mon	II	Job 1:6-22	Ps 17:1bcd,2-3,6-7	Mark 10:45	Luke 9:46-50
+356	Ord Time XXVI:Tue	II	Job 3:1-3,11-17,20-23	Ps 88:2-3,4-5,6,7-8	Mark 10:45	Luke 9:51-56
+357	Ord Time XXVI:Wed	II	Job 9:1-12,14-16	Ps 88:10bc-11,12-13,14-15	Phil 3:8-9	Luke 9:57-62
+358	Ord Time XXVI:Thu	II	Job 19:21-27	Ps 27:7-8a,8b-9abc,13-14	Mark 1:15	Luke 10:1-12
+359	Ord Time XXVI:Fri	II	Job 38:1,12-21;40:3-5	Ps 139:1-3,7-8,9-10,13-14ab	Ps 95:8	Luke 10:13-16
+360	Ord Time XXVI:Sat	II	Job 42:1-3,5-6,12-17	Ps 119:66,71,75,91,125,130	cf. Matt 11:25	Luke 10:17-24
+361	Ord Time XXVII:Mon	II	Gal 1:6-12	Ps 111:1b-2,7-8,9+10c	John 13:34	Luke 10:25-37
+362	Ord Time XXVII:Tue	II	Gal 1:13-24	Ps 139:1b-3,13-14ab,14c-15	Luke 11:28	Luke 10:38-42
+363	Ord Time XXVII:Wed	II	Gal 2:1-2,7-14	Ps 117:1bc,2	Rom 8:15bc	Luke 11:1-4
+364	Ord Time XXVII:Thu	II	Gal 3:1-5	Luke 1:69-70,71-72,73-75	cf. Acts 16:14b	Luke 11:5-13
+365	Ord Time XXVII:Fri	II	Gal 3:7-14	Ps 111:1b-2,3-4,5-6	John 12:31b-32	Luke 11:15-26
+366	Ord Time XXVII:Sat	II	Gal 3:22-29	Ps 105:2-3,4-5,6-7	Luke 11:28	Luke 11:27-28
+367	Ord Time XXVIII:Mon	II	Gal 4:22-24,26-27,31—5:1	Ps 113:1b-2,3-4,5a+6-7	Ps 95:8	Luke 11:29-32
+368	Ord Time XXVIII:Tue	II	Gal 5:1-6	Ps 119:41,43,44,45,47,48	Heb 4:12	Luke 11:37-41
+369	Ord Time XXVIII:Wed	II	Gal 5:18-25	Ps 1:1-2,3,4+6	John 10:27	Luke 11:42-46
+370	Ord Time XXVIII:Thu	II	Eph 1:1-10	Ps 98:1,2-3ab,3cd-4,5-6	John 14:6	Luke 11:47-54
+371	Ord Time XXVIII:Fri	II	Eph 1:11-14	Ps 33:1-2,4-5,12-13	Ps 33:22	Luke 12:1-7
+372	Ord Time XXVIII:Sat	II	Eph 1:15-23	Ps 8:2-3ab,4-5,6-7	John 15:26b,27a	Luke 12:8-12
+373	Ord Time XXIX:Mon	II	Eph 2:1-10	Ps 100:1b-2,3,4ab,4c-5	Matt 5:3	Luke 12:13-21
+374	Ord Time XXIX:Tue	II	Eph 2:12-22	Ps 85:9ab+10,11-12,13-14	Luke 21:36	Luke 12:35-38
+375	Ord Time XXIX:Wed	II	Eph 3:2-12	Isa 12:2-3,4bcd,5-6	Matt 24:42a,44	Luke 12:39-48
+376	Ord Time XXIX:Thu	II	Eph 3:14-21	Ps 33:1-2,4-5,11-12,18-19	Phil 3:8-9	Luke 12:49-53
+377	Ord Time XXIX:Fri	II	Eph 4:1-6	Ps 24:1-2,3-4ab,5-6	cf. Matt 11:25	Luke 12:54-59
+378	Ord Time XXIX:Sat	II	Eph 4:7-16	Ps 122:1-2,3-4ab,4cd-5	Ezek 33:11	Luke 13:1-9
+379	Ord Time XXX:Mon	II	Eph 4:32—5:8	Ps 1:1-2,3,4+6	John 17:17b,17a	Luke 13:10-17
+380	Ord Time XXX:Tue	II	Eph 5:21-33	Ps 128:1-2,3,4-5	cf. Matt 11:25	Luke 13:18-21
+381	Ord Time XXX:Wed	II	Eph 6:1-9	Ps 145:10-11,12-13ab,13cd-14	cf. 2 Thess 2:14	Luke 13:22-30
+382	Ord Time XXX:Thu	II	Eph 6:10-22	Ps 144:1b,2,9-10	cf. Luke 19:38;2:14	Luke 13:31-35
+383	Ord Time XXX:Fri	II	Phil 1:1-11	Ps 111:1-2,3-4,5-6	John 10:27	Luke 14:1-6
+384	Ord Time XXX:Sat	II	Phil 1:18b-26	Ps 42:2,3,5cdef	Matt 11:29ab	Luke 14:1,7-11
+385	Ord Time XXXI:Mon	II	Phil 2:1-4	Ps 131:1bcde,2,3	John 8:31b-32	Luke 14:12-14
+386	Ord Time XXXI:Tue	II	Phil 2:5-11	Ps 22:26b-27,28-30ab,30e,31-32	Matt 11:28	Luke 14:15-24
+387	Ord Time XXXI:Wed	II	Phil 2:12-18	Ps 27:1,4,13-14	1 Pet 4:14	Luke 14:25-33
+388	Ord Time XXXI:Thu	II	Phil 3:3-8a	Ps 105:2-3,4-5,6-7	Matt 11:28	Luke 15:1-10
+389	Ord Time XXXI:Fri	II	Phil 3:17—4:1	Ps 122:1-2,3-4ab,4cd-5	1 John 2:5	Luke 16:1-8
+390	Ord Time XXXI:Sat	II	Phil 4:10-19	Ps 112:1b-2,5-6,8a+9	2 Cor 8:9	Luke 16:9-15
+391	Ord Time XXXII:Mon	II	Titus 1:1-9	Ps 24:1b-2,3-4ab,5-6	Phil 2:15d,16a	Luke 17:1-6
+392	Ord Time XXXII:Tue	II	Titus 2:1-8,11-14	Ps 37:3-4,18+23,27+29	John 14:23	Luke 17:7-10
+393	Ord Time XXXII:Wed	II	Titus 3:1-7	Ps 23:1b-3a,3bc-4,5,6	1 Thess 5:18	Luke 17:11-19
+394	Ord Time XXXII:Thu	II	Phlm 7-22	Ps 146:7,8-9a,9bc-10	John 15:5	Luke 17:20-25
+395	Ord Time XXXII:Fri	II	2 John 4-9	Ps 119:1,2,10,11,17,18	Luke 21:28	Luke 17:26-37
+396	Ord Time XXXII:Sat	II	3 John 5-8	Ps 112:1-2,3-4,5-6	cf. 2 Thess 2:14	Luke 18:1-8
+397	Ord Time XXXIII:Mon	II	Rev 1:1-4;2:1-5	Ps 1:1-2,3,4+6	John 8:12	Luke 18:35-43
+398	Ord Time XXXIII:Tue	II	Rev 3:1-6,14-22	Ps 15:2-3a,3bc-4ab,5	1 John 4:10b	Luke 19:1-10
+399	Ord Time XXXIII:Wed	II	Rev 4:1-11	Ps 150:1b-2,3-4,5-6	cf. John 15:16	Luke 19:11-28
+400	Ord Time XXXIII:Thu	II	Rev 5:1-10	Ps 149:1b-2,3-4,5-6a+9b	Ps 95:8	Luke 19:41-44
+401	Ord Time XXXIII:Fri	II	Rev 10:8-11	Ps 119:14,24,72,103,111,131	John 10:27	Luke 19:45-48
+402	Ord Time XXXIII:Sat	II	Rev 11:4-12	Ps 144:1,2,9-10	cf. 2 Tim 1:10	Luke 20:27-40
+403	Ord Time XXXIV:Mon	II	Rev 14:1-3,4b-5	Ps 24:1bc-2,3-4ab,5-6	Matt 24:42a,44	Luke 21:1-4
+404	Ord Time XXXIV:Tue	II	Rev 14:14-19	Ps 96:10,11-12,13	Rev 2:10c	Luke 21:5-11
+405	Ord Time XXXIV:Wed	II	Rev 15:1-4	Ps 98:1,2-3ab,7-8,9	Rev 2:10c	Luke 21:12-19
+406	Ord Time XXXIV:Thu	II	Rev 18:1-2,21-23;19:1-3,9a	Ps 100:1b-2,3,4,5	Luke 21:28	Luke 21:20-28
+407	Ord Time XXXIV:Fri	II	Rev 20:1-4,11—21:2	Ps 84:3,4,5-6a+8a	Luke 21:28	Luke 21:29-33
+408	Ord Time XXXIV:Sat	II	Rev 22:1-7	Ps 95:1-2,3-5,6-7ab	Luke 21:36	Luke 21:34-36
+409	Advent I:Mon		Isa 2:1-5 (or, in Year A, Isa 4:2-6)	Ps 122:1-2,3-4b,4cd-5,6-7,8-9	cf. Ps 80:4	Matt 8:5-11
+410	Advent I:Tue		Isa 11:1-10	Ps 72:1-2,7-8,12-13,17		Luke 10:21-24
+411	Advent I:Wed		Isa 25:6-10a	Ps 23:1-3a,3b-4,5,6		Matt 15:29-37
+412	Advent I:Thu		Isa 26:1-6	Ps 118:1+8-9,19-21,25-27a	Isa 55:6	Matt 7:21,24-27
+413	Advent I:Fri		Isa 29:17-24	Ps 27:1,4,13-14		Matt 9:27-31
+414	Advent I:Sat		Isa 30:19-21,23-26	Ps 147:1-2,3-4,5-6	Isa 33:22	Matt 9:35—10:1,5a,6-8
+415	Advent II:Mon		Isa 35:1-10	Ps 85:9ab+10,11-12,13-14		Luke 5:17-26
+416	Advent II:Tue		Isa 40:1-11	Ps 96:1-2,3+10ac,11-12,13		Matt 18:12-14
+417	Advent II:Wed		Isa 40:25-31	Ps 103:1-2,3-4,8+10		Matt 11:28-30
+418	Advent II:Thu		Isa 41:13-20	Ps 145:1+9,10-11,12-13ab	cf. Isa 45:8	Matt 11:11-15
+419	Advent II:Fri		Isa 48:17-19	Ps 1:1-2,3,4+6		Matt 11:16-19
+420	Advent II:Sat		Sir 48:1-4,9-11	Ps 80:2ac+3b,15-16,18-19	Luke 3:4+6	Matt 17:9a,10-13
+421	Advent III:Mon		Num 24:2-7,15-17a	Ps 25:4-5ab,6+7bc,8-9	Ps 85:8	Matt 21:23-27
+422	Advent III:Tue		Zeph 3:1-2,9-13	Ps 34:2-3,6-7,17-18,19+23		Matt 21:28-32
+423	Advent III:Wed		Isa 45:6c-8,18,21c-25	Ps 85:9ab+10,11-12,13-14	cf. Isa 40:9-10	Luke 7:18b-23
+424	Advent III:Thu		Isa 54:1-10	Ps 30:2+4,5-6,11-12a+13b	Luke 3:4+6	Luke 7:24-30
+425	Advent III:Fri		Isa 56:1-3a,6-8	Ps 67:2-3,5,7-8		John 5:33-36
+426	17 Dec (O Sapientia)		Gen 49:2,8-10	Ps 72:1-2,3-4ab,7-8,17	O Antiphons	Matt 1:1-17
+427	18 Dec (O Adonai)		Jer 23:5-8	Ps 72:1-2,12-13,18-19	O Antiphons	Matt 1:18-24
+428	19 Dec (O Radix Jesse)		Judg 13:2-7,24-25a	Ps 71:3-4a,5-6ab,16-17	O Antiphons	Luke 1:5-25
+429	20 Dec (O Clavis David)		Isa 7:10-14	Ps 24:1-2,3-4ab,5-6	O Antiphons	Luke 1:26-38
+430	21 Dec (O Oriens)		Cant 2:8-14|Zeph 3:14-18a	Ps 33:2-3,11-12,20-21	O Antiphons	Luke 1:39-45
+431	22 Dec (O Rex Gentium)		1 Sam 1:24-28	1 Sam 2:1,4-5,6-7,8abcd	O Antiphons	Luke 1:46-56
+432	23 Dec (O Emmanuel)		Mal 3:1-4,23-24	Ps 25:4-5ab,8-9,10+14	O Antiphons	Luke 1:57-66
+433	24 Dec		2 Sam 7:1-5,8b-12,14a,16	Ps 89:2-3,4-5,27+29	O Antiphons	Luke 1:67-79
+434	29 Dec (Christmas Octave V)		1 John 2:3-11	Ps 96:1-2a,2b-3,5b-6	Luke 2:32	Luke 2:22-35
+435	30 Dec (Christmas Octave VI)		1 John 2:12-17	Ps 96:7-8a,8b-9,10		Luke 2:36-40
+436	31 Dec (Christmas Octave VII)		1 John 2:18-21	Ps 96:1-2,11-12,13	John 1:14a+12a	John 1:1-18
+442	6 Jan		1 John 5:5-13	Ps 147:12-13,14-15,19-20	cf. Mark 9:6	Mark 1:7-11|Luke 3:23-38|Luke 3:23,31-34,36,38
+443	7 Jan		1 John 5:14-21	Ps 149:1-2,3-4,5+6a+9b	Luke 7:16	John 2:1-11
+444	Epiphany of our Lord		(see the Sunday Lectionary)			
+445	Epiphanytide:Mon		1 John 3:22—4:6	Ps 2:7bc-8,10-12a	cf. Matt 4:23	Matt 4:12-17,23-25
+446	Epiphanytide:Tue		1 John 4:7-10	Ps 72:1-2,3-4,7-8	Luke 4:18	Mark 6:34-44
+447	Epiphanytide:Wed		1 John 4:11-18	Ps 72:1-2,10,12-13	cf. 1 Tim 3:16	Mark 6:45-52
+448	Epiphanytide:Thu		1 John 4:19—5:4	Ps 72:1-2,14+15bc,17	Luke 4:18	Luke 4:14-22a
+449	Epiphanytide:Fri		1 John 5:5-13	Ps 147:12-13,14-15,19-20	cf. Matt 4:23	Luke 5:12-16
+450	Epiphanytide:Sat		1 John 5:14-21	Ps 149:1-2,3-4,5+6a+9b	Matt 4:16	John 3:22-30
+452	Ash Wednesday		Joel 2:12-18 and 2 Cor 5:20—6:2	Ps 51:3-4,5-6ab,12-13,14+17	cf. Ps 95:8	Matt 6:1-6,16-18
+453	Thursday after Ash Wednesday		Deut 30:15-20	Ps 1:1-2,3,4+6	Matt 4:17	Luke 9:22-25
+454	Friday after Ash Wednesday		Isa 58:1-9a	Ps 51:3-4,5-6ab,18-19	cf. Amos 5:14	Matt 9:14-15
+455	Saturday after Ash Wednesday		Isa 58:9b-14	Ps 86:1-2,3-4,5-6	Ezek 33:11	Luke 5:27-32
+456	Lent I:Mon		Lev 19:1-2,11-18	Ps 19:8,9,10,15	2 Cor 6:2b	Matt 25:31-46
+457	Lent I:Tue		Isa 55:10-11	Ps 34:4-5,6-7,16-17,18-19	Matt 4:4b	Matt 6:7-15
+458	Lent I:Wed		Jonah 3:1-10	Ps 51:3-4,12-13,18-19	Joel 2:12-13	Luke 11:29-32
+459	Lent I:Thu		Esth C:12,14-16,23-25	Ps 138:1-2ab,2cde-3,7c-8	Ps 51:12a+14a	Matt 7:7-12
+460	Lent I:Fri		Ezek 18:21-28	Ps 130:1-2,3-4,5-7a,7bc-8	Ezek 18:31	Matt 5:20-26
+461	Lent I:Sat		Deut 26:16-19	Ps 119:1-2,4-5,7-8	2 Cor 6:2b	Matt 5:43-48
+462	Lent II:Mon		Dan 9:4b-10	Ps 78:8,9,11+13	cf. John 6:63c+68c	Luke 6:36-38
+463	Lent II:Tue		Isa 1:10,16-20	Ps 50:8-9,16bc-17,21+23	Ezek 18:31	Matt 23:1-12
+464	Lent II:Wed		Jer 18:18-20	Ps 31:5-6,14,15-16	John 8:12	Matt 20:17-28
+465	Lent II:Thu		Jer 17:5-10	Ps 1:1-2,3,4+6	cf. Luke 8:15	Luke 16:19-31
+466	Lent II:Fri		Gen 37:3-4,12-13a,17b-28a	Ps 105:16-17,18-19,20-21	John 3:16	Matt 21:33-43,45-46
+467	Lent II:Sat		Mic 7:14-15,18-20	Ps 103:1-2,3-4,9-10,11-12	Luke 15:18	Luke 15:1-3,11-32
+469	Lent III:Mon		2 Kgs 5:1-15a	Ps 42:2,3;43:3,4	cf. Ps 130:5+7	Luke 4:24-30
+470	Lent III:Tue		Dan 3:25,34-43	Ps 25:4-5ab,6+7bc,8-9	Joel 2:12-13	Matt 18:21-35
+471	Lent III:Wed		Deut 4:1,5-9	Ps 147:12-13,15-16,19-20	cf. John 6:63c+68c	Matt 5:17-19
+472	Lent III:Thu		Jer 7:23-28	Ps 95:1-2,6-7,8-9	Joel 2:12-13	Luke 11:14-23
+473	Lent III:Fri		Hos 14:2-10	Ps 81:6c-8a,8bc-9,10-11ab,14+17	Matt 4:17	Mark 12:28b-34
+474	Lent III:Sat		Hos 6:1-6	Ps 51:3-4,18-19,20-21ab	Ps 95:8	Luke 18:9-14
+476	Lent IV:Mon		Isa 65:17-21	Ps 30:2+4,5-6,11-12a+13b	Amos 5:14	John 4:43-54
+477	Lent IV:Tue		Ezek 47:1-9,12	Ps 46:2-3,5-6,8-9	Ps 51:12a+14a	John 5:1-3a,5-16
+478	Lent IV:Wed		Isa 49:8-15	Ps 145:8-9,13cd-14,17-18	John 11:25a+26	John 5:17-30
+479	Lent IV:Thu		Exod 32:7-14	Ps 106:19-20,21-22,23	John 3:16	John 5:31-47
+480	Lent IV:Fri		Wis 2:1a,12-22	Ps 34:17-18,19-20,21+23	Matt 4:4b	John 7:1-2,10,25-30
+481	Lent IV:Sat		Jer 11:18-20	Ps 7:2-3,9bc-10,11-12	cf. Luke 8:15	John 7:40-53
+483	Lent V:Mon		Dan 13:1-9,15-17,19-30,33-62|13:41c-62	Ps 23:1-3a,3b-4,5,6	Ezek 33:11	John 8:1-11 or, in Year C, John 8:12-20
+484	Lent V:Tue		Num 21:4-9	Ps 102:2-3,16-18,19-21		John 8:21-30
+485	Lent V:Wed		Dan 3:14-20,91-92,95	Dan 3:52,53,54,55,56	cf. Luke 8:15	John 8:31-42
+486	Lent V:Thu		Gen 17:3-9	Ps 105:4-5,6-7,8-9	Ps 95:8	John 8:51-59
+487	Lent V:Fri		Jer 20:10-13	Ps 18:2-3a,3bc-4,5-6,7	cf. John 6:63c+68c	John 10:31-42
+488	Lent V:Sat		Ezek 37:21-28	Jer 31:10,11-12abcd,13	Ezek 18:31	John 11:45-56
+489	Holy Monday		Isa 42:1-7	Ps 27:1,2,3,13-14		John 12:1-11
+490	Holy Tuesday		Isa 49:1-6	Ps 71:1-2,3-4a,5-6ab,15+17		John 13:21-33,36-38
+491	Holy Wednesday		Isa 50:4-9a	Ps 69:8-10,21-22,31+33-34		Matt 26:14-25
+492	Chrism Mass		Isa 61:1-3a,6a,8b-9 and Rev 1:5-8	Ps 89:21-22,25+27	Isa 61:1 (cited in Luke 4:18)	Luke 4:16-21
+493	Easter Monday		Acts 2:14,22-33	Ps 16:1-2a+5,7-8,9-10,11	Ps 118:24	Matt 28:8-15
+494	Easter Tuesday		Acts 2:36-41	Ps 33:4-5,18-19,20+22	Ps 118:24	John 20:11-18
+495	Easter Wednesday		Acts 3:1-10	Ps 105:1-2,3-4,6-7,8-9	Ps 118:24	Luke 24:13-35
+496	Easter Thursday		Acts 3:11-26	Ps 8:2ab+5,6-7,8-9	Ps 118:24	Luke 24:35-48
+497	Easter Friday		Acts 4:1-12	Ps 118:1-2+4,22-24,25-27a	Ps 118:24	John 21:1-14
+498	Easter Saturday		Acts 4:13-21	Ps 118:1+14-15ab,16-18,19-21	Ps 118:24	Mark 16:9-15
+499	Easter II:Mon		Acts 4:23-31	Ps 2:1-3,4-7a,7b-9	Col 3:1	John 3:1-8
+500	Easter II:Tues		Acts 4:32-37	Ps 93:1ab,1cd-2,5	John 3:14-15	John 3:7b-15
+501	Easter II:Wed		Acts 5:17-26	Ps 34:2-3,4-5,6-7,8-9	John 3:16	John 3:16-21
+502	Easter II:Thu		Acts 5:27-33	Ps 34:2+9,17-18,19-20	John 20:29	John 3:31-36
+503	Easter II:Fri		Acts 5:34-42	Ps 27:1,4,13-14	Matt 4:4b	John 6:1-15
+504	Easter II:Sat		Acts 6:1-7	Ps 33:1-2,4-5,18-19		John 6:16-21
+505	Easter III:Mon		Acts 6:8-15	Ps 119:23-24,26-27,29-30	Matt 4:4b	John 6:22-29
+506	Easter III:Tue		Acts 7:51—8:1a	Ps 31:3cd-4,6+7b+8a,17+21ab	John 6:35ab	John 6:30-35
+507	Easter III:Wed		Acts 8:1b-8	Ps 66:1-3a,4-5,6-7a	cf. John 6:40	John 6:35-40
+508	Easter III:Thu		Acts 8:26-40	Ps 66:8-9,16-17,20	John 6:51	John 6:44-51
+509	Easter III:Fri		Acts 9:1-20	Ps 117:1,2	John 6:56	John 6:52-59
+510	Easter III:Sat		Acts 9:31-42	Ps 116:12-13,14-15,16-17	cf. John 6:63c+68c	John 6:60-69
+511	Easter IV:Mon		Acts 11:1-18	Ps 42:2-3;42:3,4	John 10:14	John 10:1-10 or, in Yr A, Jn 10:11-18
+512	Easter IV:Tue		Acts 11:19-26	Ps 87:1b-3,4-5,6-7	John 10:27	John 10:22-30
+513	Easter IV:Wed		Acts 12:24—13:5a	Ps 67:2-3,5,6+8	John 8:12	John 12:44-50
+514	Easter IV:Thu		Acts 13:13-25	Ps 89:2-3,21-22,25+27	cf. Rev 1:5ab	John 13:16-20
+515	Easter IV:Fri		Acts 13:26-33	Ps 2:6-7,8-9,10-11ab	John 14:6	John 14:1-6
+516	Easter IV:Sat		Acts 13:44-52	Ps 98:1,2-3ab,3cd-4	John 8:31b-32	John 14:7-14
+517	Easter V:Mon		Acts 14:5-18	Ps 115:1-2,3-4,15-16	John 14:26	John 14:21-26
+518	Easter V:Tue		Acts 14:19-28	Ps 145:10-11,12-13ab,21	cf. Luke 24:46+26	John 14:27-31a
+519	Easter V:Wed		Acts 15:1-6	Ps 122:1-2,3-4ab,4cd-5	John 15:4a+5b	John 15:1-8
+520	Easter V:Thu		Acts 15:7-21	Ps 96:1-2a,2b-3,10	John 10:27	John 15:9-11
+521	Easter V:Fri		Acts 15:22-31	Ps 57:8-9,10+12	John 15:15b	John 15:12-17
+522	Easter V:Sat		Acts 16:1-10	Ps 100:1b-2,3,5	Col 3:1	John 15:18-21
+523	Easter VI:Mon		Acts 16:11-15	Ps 149:1b-2,3-4,5-6a+9b	John 15:26b-27a	John 15:26-16:4a
+524	Easter VI:Tue		Acts 16:22-34	Ps 138:1-2ab,2cde-3,7c-8	cf. John 16:7+13	John 16:5-11
+525	Easter VI:Wed		Acts 17:15,22—18:1	Ps 148:1-2,11-12,13,14	John 14:16	John 16:12-15
+526	Easter VI:Thu		Acts 18:1-8	Ps 98:1,2-3ab,3cd-4	cf. John 14:18	John 16:16-20
+527	Easter VI:Fri		Acts 18:9-18	Ps 47:2-3,4-5,6-7	cf. Luke 24:46+26	John 16:20-23
+528	Easter VI:Sat		Acts 18:23-28	Ps 47:2-3,8-9,10	John 16:28	John 16:23b-28
+529	Easter VII:Mon		Acts 19:1-8	Ps 68:2-3ab,4-5acd,6-7ab	Col 3:1	John 16:29-33
+530	Easter VII:Tue		Acts 20:17-27	Ps 68:10-11,20-21	John 14:16	John 17:1-11a
+531	Easter VII:Wed		Acts 20:28-38	Ps 68:29-30,33-35a,35bc-36ab	cf. John 17:17b+17a	John 17:11b-19
+532	Easter VII:Thu		Acts 22:30;23:6-11	Ps 16:1-2a+5,7-8,9-10,11	John 17:21	John 17:20-26
+533	Easter VII:Fri		Acts 25:13b-21	Ps 103:1-2,11-12,19-20ab	John 14:26	John 21:15-19
+534	Easter VII:Sat		Acts 28:16-20,30-31	Ps 11:4,5+7	John 16:7+13	John 21:20-25

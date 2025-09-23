@@ -1,0 +1,1526 @@
+[CommonTexts]
+Apostles-Creed = '''
+Apostles Creed
+
+I believe in God the Father almighty,
+Creator of heaven and earth.
+And in Jesus Christ, His only Son,
+our Lord, Who was conceived by the Holy Spirit,
+born of the Virgin Mary,
+suffered under Pontius Pilate,
+was crucified, died, and was buried.
+He descended into hell; the third day
+He rose again from the dead;
+He ascended into heaven, and sits at
+the right hand of God the Father
+almighty, from thence He shall come
+to judge the living and the dead.
+I believe in the Holy Spirit,
+the holy Catholic Church,
+the communion of saints,
+the forgiveness of sins,
+the resurrection of the body
+and life everlasting.
+Amen.
+'''
+Apostles-Creed-Latin = '''
+Symbolum Apostolicum
+
+Credo in Deum Patrem omnipote'ntem,
+Creatorem caeli et terrae,
+
+et in Iesum Christum,
+Filium Eius unicum,
+Dominum nostrum,
+qui conce'ptus est de Spi'ritu Sancto,
+natus ex Maria Virgine,
+passus sub Po'ntio Pila'to,
+crucifixus, mo'rtuus, et sepu'ltus,
+desce'ndit ad i'nferos,
+te'rtia die resurre'xit a mo'rtuis,
+asce'ndit ad caelos,
+sedet ad de'xteram Dei Patris
+omnipote'ntis, inde ventu'rus est iudica're vivos et mo'rtuos'.
+
+Et in Spi'ritum Sanctum,
+sanctam Eccle'siam catho'licam,
+sancto'rum communio'nem,
+remissio'nem peccato'rum,
+carnis resurrectio'nem,
+vitam aete'rnam. Amen.
+'''
+Nicene-Constantinopolitan-Creed = '''
+Nicene-Constantinopolitan Creed
+
+I believe in one God,
+the Father, the Almighty,
+maker of heaven and earth,
+Nicene-Constantinopolitan Creed
+Nicene-Constantinopolitan Creed
+
+I believe in one God,
+the Father, the Almighty,
+maker of heaven and earth,
+of all that is, seen and unseen.
+
+I believe one Lord, Jesus Christ,
+the only-begotten Son of God,
+eternally begotten of the Father,
+God from God, Light from Light,
+true God from true God,
+begotten, not made,
+one in Being with the Father.
+Through Him all things were made.
+
+For us men and for our salvation,
+He came down from heaven: by the
+power of the Holy Spirit He was
+born of the Virgin Mary,
+and became Man.
+
+For our sake He was crucified
+under Pontius Pilate;
+He suffered, died, and was buried.
+
+On the third day He rose again
+in fulfillment of the Scriptures;
+
+He ascended into heaven,
+and is seated at the right hand of the
+Father. He will come again in glory
+to judge the living and the dead,
+and His kingdom will have no end.
+
+I believe in the Holy Spirit,
+the Lord, the Giver of life,
+Who proceeds from the Father and
+the Son. With the Father and the Son
+He is worshiped and glorified.
+He has spoken through the prophets.
+
+I believe in one, holy, catholic,
+and apostolic Church.
+
+I acknowledge one Baptism
+for the forgiveness of sins.
+I look for the resurrection of the dead,
+and the life of the world to come.
+
+Amen.
+'''
+Nicene-Constantinopolitan-Creed-Latin = '''
+Symbolum Nicaenum Constantinopolitanum
+
+Credo in unum Deum,
+Patrem omnipote'ntem,
+Factorem caeli et terrae,
+visibi'lium o'mnium et invisibilium
+
+Et in unum Do'minum Iesum Christum,
+Filium Dei unige'nitum
+et ex Patre natum
+ante o'mnia sae'cula:
+Deum de Deo, Lumen de Lu'mine,
+Deum verum de Deo vero,
+ge'nitum, non factum, consubstantia'lem Patri:
+per quem o'mnia facta sunt;
+qui propter nos ho'mines
+et propter nostram salu'tem,
+desce'ndit de caelis,
+et incarna'tus est de Spi'ritu Sancto ex Maria Vi'irgine
+et homo factus est,
+crucifi'xus e'tiam pro nobis sub Po'ntio Pila'to,
+passus et sepu'ltus est,
+et resurre'xit te'rtia die secu'ndum Scriptu'ras,
+et asce'ndit in caelum,
+sedet ad de'xteram Patris,
+et i'terum ventu'rus est cum glo'ria,
+iudica're vivos et mo'rtuos,
+cuius regni non erit finis.
+
+Credo in Spi'ritum Sanctum,
+Dominum et vivifica'ntem,
+qui ex Patre Filio'que proce'dit,
+qui cum Patre et Fi'lio simul adora'tur et conglorifica'tur,
+qui locu'tus est per prophe'tas.
+Et unam sanctam catho'licam
+et aposto'licam Eccle'siam.
+Confi'teor unum Bapti'sma
+in remissio'nem peccato'rum.
+Et exspe'cto resurrectio'nem mortuo'rum,
+et vitam ventu'ri saeculi.
+Amen.
+'''
+Seven-Sacraments = '''
+Seven Sacraments
+
+Baptism
+Confirmation
+Holy Eucharist
+Penance
+Anointing of the Sick
+Holy Orders
+Matrimony
+'''
+Seven-Sacraments-Latin = '''
+Septem Ecclesiae Sacramenta
+
+Bapti'smum
+Confirma'tio
+Euchari'stia
+Paenite'ntia
+u'nctio infirmo'rum
+Ordo
+Matrimo'nium
+'''
+Ten-Commandments = '''
+Ten Commandments
+
+1. I am the LORD your God: you shall not have strange Gods before me.
+2. You shall not take the name of the LORD your God in vain.
+3. Remember to keep holy the LORDS day.
+4. Honor your father and your mother.
+5. You shall not kill.
+6. You shall not commit adultery.
+7. You shall not steal.
+8. You shall not bear false witness against your neighbor.
+9. You shall not covet your neighbors wife.
+10. You shall not covet your neighbors goods.
+
+Exodus 20:2-17
+
+I am the LORD your God, who brought you out of the land of Egypt, out of the house of bondage.
+You shall have no other gods before me. You shall not make for yourself a graven image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; you shall not bow down to them or serve them; for I the LORD your God am a jealous God, visiting the iniquity of the fathers upon the children to the third and the fourth generation of those who hate me, but showing steadfast love to thousands of those who love me and keep my commandments.
+You shall not take the name of the LORD your God in vain; for the LORD will not hold him guiltless who takes his name in vain.
+Remember the sabbath day, to keep it holy. Six days you shall labor, and do all your work; but the seventh day is a sabbath to the LORD your God; in it you shall not do any work, you, or your son, or your daughter, your manservant, or your maidservant, or your cattle, or the sojourner who is within your gates; for in six days the LORD made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore the LORD blessed the sabbath day and hallowed it.
+Honor your father and your mother, that your days may be long in the land which the LORD your God gives you.
+You shall not kill.
+You shall not commit adultery.
+You shall not steal.
+You shall not bear false witness against your neighbor.
+You shall not covet your neighbors house; you shall not covet your neighbors wife, or his manservant, or his maidservant, or his ox, or his ass, or anything that is your neighbors.
+
+Deuteronomy 5:6-21
+
+I am the LORD your God, who brought you out of the land of Egypt, out of the house of bondage.
+You shall have no other gods before me...
+You shall not take the name of the LORD your God in vain...
+Observe the sabbath day, to keep it holy...
+Honor your father and your mother...
+You shall not kill.
+Neither shall you commit adultery.
+Neither shall you steal.
+Neither shall you bear false witness against your neighbor.
+Neither shall you covet your neighbors wife...
+You shall not desire...  anything that is your neighbors.
+'''
+Our-Father = '''
+Our Father
+
+Our Father who art in heaven,
+hallowed be thy name.
+Thy kingdom come.
+Thy will be done
+on earth, as it is in heaven.
+Give us this day
+our daily bread,
+and forgive us our trespasses,
+as we forgive those who trespass against us,
+and lead us not into temptation,
+but deliver us from evil.
+Amen.
+'''
+Our-Father-Latin = '''
+Pater Noster
+
+Pater noster, qui es in caelis:
+sanctifice'tur Nomen Tuum:
+adve'niat Regnum Tuum:
+fiat volu'ntas Tua,
+sicut in caelo, et in terra.
+Panem nostrum
+cotidia'num da nobis ho'die,
+et dimi'tte nobis de'bita nostra,
+sicut et nos
+dimi'ttimus debito'ribus nostris.
+et ne nos indu'cas in tentatio'nem;
+sed li'bera nos a Malo.
+Amen.
+'''
+Sign-of-the-Cross = '''
+Sign of the Cross
+
++In the name of the Father
+and of the Son
+and of the Holy Spirit. Amen.
+'''
+Sign-of-the-Cross-Latin = '''
+Signum Crucis
+
++In no'mine Patris
+et Fi'lii
+et Spi'ritus Sancti. Amen.
+'''
+Glory-be = '''
+Glory be
+
++Glory be to the Father
+and to the Son
+and to the Holy Spirit:
+as it was in the beginning
+is now, and ever shall be
+world without end. Amen.
+'''
+Glory-be-Latin = '''
+Gloria Patri
+
++Glo'ria Patri
+et Fi'lio
+et Spiri'tui Sancto.
+Sicut erat in princi'pio,
+et nunc et semper
+et in sae'cula saeculo'rum. Amen.
+'''
+Hail-Mary = '''
+Hail Mary
+
+Hail, Mary, full of grace,
+the Lord is with thee.
+Blessed art thou among women
+and blessed is the fruit of thy womb, Jesus.
+Holy Mary, Mother of God,
+pray for us sinners,
+now and at the hour of our death.
+Amen.
+'''
+Hail-Mary-Latin = '''
+Ave Maria
+
+Ave, Mari'a, gra'tia plena,
+Do'minus tecum.
+Benedi'cta tu in mulie'ribus,
+et benedi'ctus fructus ventris tui, Iesus.
+Sancta Mari'a, Mater Dei,
+ora pro nobis peccato'ribus,
+nunc et in hora mortis nostrae.
+Amen.
+'''
+Angel-of-God = '''
+Angel of God
+
+Angel of God,
+my guardian dear,
+to whom Gods love commits me here,
+ever this day be at my side,
+to light and guard, to rule and guide.
+Amen.
+'''
+Angel-of-God-Latin = '''
+Angele Dei
+
+a'ngele Dei,
+qui custos es mei,
+me, tibi commi'ssum pieta'te supe'rna,
+illu'mina, custo'di,
+rege et gube'rna.
+Amen.
+'''
+Eternal-Rest = '''
+Eternal Rest
+
+Eternal rest grant unto them, O Lord,
+and let perpetual light shine upon them.
+May they rest in peace. Amen.
+'''
+Eternal-Rest-Latin = '''
+Requiem aeternam
+
+Re'quiem aete'rnam dona eis, Do'mine,
+et lux perpe'tua lu'ceat eis.
+Requie'scant in pace. Amen.
+'''
+Angelus = '''
+Angelus
+
+V. The Angel of the Lord declared unto Mary.
+R. And she conceived of the Holy Spirit.
+
+Hail, Mary, full of grace, the Lord is with thee.
+Blessed art thou among women,
+and blessed is the fruit of thy womb, Jesus.
+Holy Mary, Mother of God,
+pray for us sinners,
+now and at the hour of our death. Amen.
+
+V. Behold the handmaid of the Lord.
+R. Be it done unto me according to thy word.
+Hail Mary.
+
+V. And the Word was made flesh.
+R. And dwelt among us.
+Hail Mary.
+
+V. Pray for us, O holy Mother of God.
+R. That we may be made worthy of the promises of Christ.
+
+Let us pray;
+
+Pour forth, we beseech thee, O Lord, thy grace into our hearts; that
+we, to whom the Incarnation of Christ, thy Son, was made known by the
+message of an angel, may by his Passion and Cross be brought to the
+glory of his Resurrection. Through the same Christ, our Lord.
+Amen.
+
+Glory be to the Father...
+'''
+Angelus-Latin = '''
+Angelus Domini
+
+A'ngelus Do'mini nuntia'vit Mari'ae.
+Et conce'pit de Spi'ritu Sancto.
+
+Ave, Mari'a...
+
+Ecce anci'lla Do'mini.
+Fiat mihi secu'ndum verbum tuum.
+
+Ave, Mari'a...
+
+Et Verbum caro factum est.
+Et habita'vit in nobis.
+
+Ave, Mari'a...
+
+Ora pro nobis, sancta Dei ge'netrix.
+Ut digni efficia'mur promissio'nibus Christi.
+
+Ore'mus.
+
+Gra'tiam tuam, quaesumus,
+Do'mine, me'ntibus nostris infu'nde;
+ut qui, a'ngelo nuntia'nte,
+Christi Fi'lii tui incarnatio'nem cogno'vimus,
+per passio'nem eius et crucem,
+ad resurrectio'nis glo'riam perduca'mur.
+
+Per eu'ndem Christum Do'minum nostrum. Amen.
+
+Glo'ria Patri...
+'''
+Regina-Caeli = '''
+Regina Caeli
+
+Queen of heaven, rejoice, alleluia!
+for he whom you were worthy to bear, alleluia!
+has risen as he said, alleluia!
+Pray for us to God, alleluia!
+
+Let us pray;
+
+O God, who through the resurrection of your Son, our Lord Jesus Christ,
+did vouchsafe to give joy to the world; grant, we beseech you, that
+through his Mother, the Virgin Mary, we may obtain the joys of
+everlasting life. Through the same Christ our Lord. Amen.
+'''
+Regina-Caeli-USA = '''
+Regina Caeli
+
+Queen of heaven, rejoice, alleluia.
+The Son whom you merited to bear, alleluia,
+has risen as he said, alleluia.
+Rejoice and be glad, O Virgin Mary, alleluia!
+For the Lord has truly risen, alleluia.
+
+Let us pray;
+
+O God, who through the resurrection of your Son, our Lord Jesus Christ,
+did vouchsafe to give joy to the world; grant, we beseech you, that
+through his Mother, the Virgin Mary, we may obtain the joys of
+everlasting life. Through the same Christ our Lord. Amen.
+'''
+Regina-Caeli-Latin = '''
+Regina Caeli
+
+Regi'na caeli laeta're, allelu'ia.
+Quia quem merui'sti porta're, allelu'ia.
+
+Resurre'xit, sicut dixit, allelu'ia.
+Ora pro nobis Deum, allelu'ia.
+
+Gaude et laeta're, Virgo Mari'a, allelu'ia.
+Quia surre'xit Do'minus vere, allelu'ia.
+
+Ore'mus.
+
+Deus, qui per resurrectio'nem Fi'lii tui Do'mini nostri Iesu Christi
+mundum laetifica're digna'tus es, praesta, quaesumus, ut per eius Genetri'cem
+Vi'rginem Mari'am perpe'tuae capia'mus ga'udia vitae.
+Per Christum Do'minum nostrum. Amen.
+'''
+Hail-Holy-Queen = '''
+Hail Holy Queen
+
+Hail, Holy Queen, Mother of Mercy,
+Hail our life, our sweetness and our hope!
+To thee do we cry, poor banished children of Eve.
+To thee do we send up our sighs,
+mourning and weeping in this vale of tears!
+Turn, then, most gracious Advocate,
+thine eyes of mercy toward us,
+and after this, our exile,
+show unto us the blessed fruit of thy womb, Jesus.
+O clement,
+O loving,
+O sweet Virgin Mary.
+'''
+Hail-Holy-Queen-USA = '''
+Hail Holy Queen
+
+Hail, Holy Queen, Mother of Mercy,
+our life, our sweetness and our hope.
+To you do we cry,
+poor banished children of Eve.
+To you do we send up our sighs,
+mourning and weeping in this valley of tears
+Turn then, most gracious advocate,
+your eyes of mercy toward us,
+and after this exile
+show unto us the blessed fruit of thy womb, Jesus.
+O clement, O loving,
+O sweet Virgin Mary.
+'''
+Hail-Holy-Queen-Latin = '''
+Salve, Regina
+
+Salve, Regi'na,
+Mater miserico'rdiae,
+vita, dulce'do et spes nostra, salve.
+Ad te clama'mus,
+e'xsules fi'lii Evae.
+Ad te suspira'mus geme'ntes et flentes
+in hac lacrima'rum valle.
+Eia ergo, advoca'ta nostra,
+illos tuos miserico'rdes o'culos
+ad nos conve'rte.
+Et Iesum benedi'ctum fructum ventris tui,
+nobis, post hoc exsi'lium, oste'nde.
+O clemens, o pia, o dulcis Virgo Mari'a!
+'''
+Magnificat = '''
+Magnificat
+
+My soul glorifies the Lord,
+My spirit rejoices in God my Saviour.
+He looks on his servant in her lowliness;
+Henceforth all generations will call me blessed.
+The Almighty works marvels for me.
+Holy his name!
+His mercy is from age to age,
+on those who fear him.
+He puts forth his arm in strength
+And scatters the proud hearted.
+He casts the mighty from their thrones
+And raises the lowly.
+He fills the starving with good things,
+Sends the rich away empty.
+He protects Israel, his servant,
+remembering his mercy,
+the mercy promised to our fathers,
+to Abraham and his sons for ever.
+
+Glory be ...
+'''
+Magnificat-Ordinariate = '''
+Magnificat
+
+My soul doth magnify the Lord.
+And my spirit hath rejoiced in God my Saviour.
+For he hath regarded:
+the lowliness of his handmaiden:
+For behold, from henceforth:
+all generations shall call me blessed.
+For he that is mighty hath magnified me:
+and holy is his Name.
+And his mercy is on them that fear him:
+throughout all generations.
+He hath shewed strength with his arm:
+he hath scattered the proud in the imagination of their hearts.
+He hath put down the mighty from their seat:
+and hath exalted the humble and meek.
+He hath filled the hungry with good things:
+and the rich he hath sent empty away.
+He remembering his mercy hath holpen his servant Israel:
+As he promised to our forefathers, Abraham and his seed for ever.
+
+Glory be to the Father, and to the Son:
+and to the Holy Ghost;
+As it was in the beginning, is now, and ever shall be:
+world without end. Amen.
+'''
+Magnificat-USA = '''
+Magnificat
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior,
+for he has looked with favor on his lowly servant.
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+He has mercy on those who fear him
+in every generation.
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children forever.
+
+Glory to ...
+'''
+Magnificat-Latin = '''
+Magnificat
+
+Magni'ficat a'nima mea Do'minum,
+et exsulta'vit spi'ritus meus
+in Deo salvato're meo,
+quia respe'xit humilita'tem
+anci'llae suae.
+
+Ecce enim ex hoc bea'tam
+me dicent omnes generatio'nes,
+quia fecit mihi magna,
+qui potens est,
+et sanctum nomen eius,
+et miserico'rdia eius in proge'nies
+et proge'nies time'ntibus eum.
+Fecit pote'ntiam in bra'chio suo,
+dispe'rsit supe'rbos mente cordis sui;
+depo'suit pote'ntes de sede
+et exalta'vit hu'miles.
+Esurie'ntes imple'vit bonis
+et di'vites dimi'sit ina'nes.
+Susce'pit i'srael pu'erum suum,
+recorda'tus miserico'rdiae,
+sicut locu'tus est ad patres nostros,
+a'braham et se'mini eius in saecula.
+
+Glo'ria Patri et Fi'lio
+et Spiri'tui Sancto.
+Sicut erat in princi'pio,
+et nunc et semper,
+et in saecula saeculo'rum.
+Amen.
+'''
+Under-Your-Protection = '''
+Under Your Protection
+
+We fly to thy protection,
+O holy Mother of God.
+Despise not our petitions
+in our necessities,
+but deliver us always
+from all dangers
+O glorious and blessed Virgin.
+'''
+Under-Your-Protection-Latin = '''
+Sub tuum praesidium
+
+Sub tuum praesi'dium confu'gimus,
+sancta Dei Ge'netrix;
+nostras deprecatio'nes ne despi'cias
+in necessita'tibus;
+sed a peri'culis cunctis
+li'bera nos semper,
+Virgo glorio'sa et benedi'cta.
+'''
+Benedictus = '''
+Benedictus
+
+Blessed be the Lord, the God of Israel!
+He has visited his people and redeemed them.
+He has raised up for us a mighty saviour
+In the house of David his servant,
+As he promised by the lips of holy men,
+Those who were his prophets from of old.
+A saviour who would free us from our foes,
+From the hands of all who hate us.
+So his love for our fathers is fulfilled
+And his holy covenant remembered.
+He swore to Abraham our father to grant us,
+that free from fear, and saved from the hands of our foes,
+we might serve him in holiness and justice
+all the days of our life in his presence.
+As for you, little child,
+you shall be called a prophet of God, the Most High.
+You shall go ahead of the Lord
+To prepare his ways before him.
+To make known to his people their salvation
+Through forgiveness of all their sins,
+The loving-kindness of the heart of our God
+Who visits us like the dawn from on high.
+He will give light to those in darkness,
+Those who dwell in the shadow of death,
+And guide us into the way of peace.
+
+Glory be ...
+'''
+Benedictus-Ordinariate = '''
+Benedictus
+
+Blessed be the Lord God of Israel:
+for he hath visited, and redeemed his people;
+And hath raised up a mighty salvation for us:
+in the house of his servant David;
+As he spake by the mouth of his holy Prophets:
+which have been since the world began;
+That we should be saved from our enemies:
+and from the hands of all that hate us;
+To perform the mercy promised to our forefathers:
+and to remember his holy Covenant;
+To perform the oath which he sware to our forefather Abraham:
+that he would give us;
+That we being delivered out of the hands of our enemies:
+might serve him without fear;
+In holiness and righteousness before him:
+all the days of our life.
+And thou, Child, shalt be called the Prophet of the Highest:
+for thou shalt go before the face of the Lord to prepare his ways;
+To give knowledge of salvation unto his people:
+for the remission of their sins,
+Through the tender mercy of our God:
+whereby the day-spring from on high hath visited us;
+To give light to them that sit in darkness, and in the shadow of death:
+and to guide our feet into the way of peace.
+
+Glory be to the Father, and to the Son:
+and to the Holy Ghost;
+As it was in the beginning, is now, and ever shall be:
+world without end. Amen.
+'''
+Benedictus-USA = '''
+Benedictus
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+Glory be ...
+'''
+Benedictus-Latin = '''
+Benedictus
+
+Benedi'ctus Do'minus, Deus i'srael,
+quia visita'vit
+et fecit redemptio'nem plebi suae,
+et ere'xit cornu salu'tis nobis
+in domo David pu'eri sui,
+sicut locu'tus est per os sancto'rum,
+qui a saeculo sunt, propheta'rum eius,
+salu'tem ex inimi'cis nostris
+et de manu o'mnium,
+qui ode'runt nos;
+ad facie'ndam miserico'rdiam
+cum pa'tribus nostris
+et memora'ri testame'nti sui sancti,
+iusiura'ndum, quod iura'vit
+ad a'braham patrem nostrum,
+datu'rum se nobis,
+ut sine timo're,
+de manu inimico'rum libera'ti,
+servia'mus illi
+in sanctita'te et iusti'tia coram ipso
+o'mnibus die'bus nostris.
+Et tu, puer,
+prophe'ta Alti'ssimi voca'beris:
+praei'bis enim ante fa'ciem Do'mini
+para're vias eius,
+ad dandam scie'ntiam salu'tis
+plebi eius
+in remissio'nem peccato'rum eo'rum,
+per vi'scera miserico'rdiae Dei nostri,
+in quibus visita'bit nos o'riens ex alto,
+illumina're his, qui in te'nebris
+et in umbra mortis sedent,
+ad dirige'ndos pedes nostros
+in viam pacis.
+
+Glo'ria Patri et Fi'lio
+et Spiri'tui Sancto.
+Sicut erat in princi'pio,
+et nunc
+et semper,
+et in saecula saeculo'rum. Amen.
+'''
+Nunc-Dimittis-Ordinariate = '''
+Nunc Dimittis
+
+Lord, now lettest thou thy servant:
+depart in peace according to thy word.
+For mine eyes have seen:
+thy salvation,
+Which thou hast prepared:
+before the face of all people;
+To be a light to lighten the Gentiles:
+and to be the glory of thy people Israel.
+
+Glory be to the Father, and to the Son:
+and to the Holy Ghost;
+As it was in the beginning, is now, and ever shall be:
+world without end. Amen.
+'''
+Te-Deum = '''
+Te Deum
+
+We praise you, O God:
+We acclaim you as Lord.
+Everlasting Father,
+All the world bows down before you.
+All the angels sing your praise,
+The hosts of heaven and all the angelic powers,
+All the cherubim and seraphim
+Call out to you in unending song:
+Holy, Holy, Holy,
+Is the Lord God of angel hosts!
+The heavens and the earth are filled
+With your majesty and glory.
+The glorious band of apostles,
+The noble company of prophets,
+The white-robed army who shed their blood for Christ,
+All sing your praise.
+And to the ends of the earth
+Your holy Church proclaims her faith in you:
+Father, whose majesty is boundless,
+Your true and only son, who is to be adored,
+The Holy Spirit sent to be our Advocate.
+You, Christ, are the king of glory,
+Son of the eternal Father.
+When you took our nature to save mankind
+You did not shrink from birth in the Virgins womb.
+You overcame the power of death
+Opening the Fathers kingdom to all who believe in you.
+Enthroned at Gods right hand in the glory of the Father,
+You will come in judgement according to your promise.
+You redeemed your people by your precious blood.
+Coe, we implore you, to our aid.
+Grant us with the saints
+a place in eternal glory.
+Lord, save your people
+And bless your inheritance.
+Rule them and uphold them
+For ever and ever.
+Day by day we praise you:
+We acclaim you now and to all eternity.
+In your goodness, Lord, keep us free from sin.
+Have mercy on us, Lord, have mercy.
+May your mercy always be with us, Lord,
+For we have hoped in you.
+In you, Lord, we put our trust:
+We shall not be put to shame.
+'''
+Te-Deum-Ordinariate = '''
+Te Deum
+
+We praise thee, O God:
+we acknowledge thee to be the Lord.
+All the earth doth worship thee:
+the Father everlasting.
+To thee all Angels cry aloud:
+the Heavens, and all the Powers therein.
+To thee Cherubin and Seraphim:
+continually do cry,
+Holy, Holy, Holy:
+Lord God of Sabaoth;
+Heaven and earth are full of the Majesty:
+of thy glory.
+The glorious company of the Apostles:
+praise thee.
+The goodly fellowship of the Prophets:
+praise thee.
+The noble army of Martyrs:
+praise thee.
+The holy Church throughout all the world:
+doth acknowledge thee;
+The Father:
+of an infinite Majesty;
+Thine honourable, true:
+and only Son;
+Also the Holy Ghost:
+the Comforter.
+Thou art the King of Glory:
+O Christ.
+Thou art the everlasting Son:
+of the Father.
+When thou tookest upon thee to deliver man:
+thou didst not abhor the Virgin's womb.
+When thou hadst overcome the sharpness of death:
+thou didst open the Kingdom of Heaven to all believers.
+Thou sittest at the right hand of God:
+in the glory of the Father.
+We believe that thou shalt come:
+to be our Judge.
+We therefore pray thee, help thy servants:
+whom thou hast redeemed with thy precious blood.
+Make them to be numbered with thy Saints:
+in glory everlasting.
+O Lord, save thy people:
+and bless thine heritage.
+Govern them:
+and lift them up for ever.
+Day by day:
+we magnify thee;
+And we worship thy Name:
+ever world without end.
+Vouchsafe, O Lord:
+to keep us this day without sin.
+O Lord, have mercy upon us:
+have mercy upon us.
+O Lord, let thy mercy lighten upon us:
+as our trust is in thee.
+O Lord, in thee have I trusted:
+let me never be confounded.
+'''
+Te-Deum-USA = '''
+Te Deum
+
+You are God: we praise you;
+You are God: we acclaim you;
+You are the eternal Father:
+All creation worships you.
+To you all angels, all the powers of heaven,
+Cherubim and Seraphim, sing in endless praise:
+Holy, holy, holy, Lord, God of power and might,
+Heaven and earth are full of your glory.
+The glorious company of apostles praise you.
+The noble fellowship of prophets praise you.
+The white-robed army of martyrs praise you.
+Throughout the world the holy Church acclaims you:
+Father, of majesty unbounded,
+Your true and only Son, worthy of all worship,
+And the Holy Spirit, advocate and guide.
+You, Christ, are the king of glory,
+The eternal Son of the Father.
+When you became man to set us free
+You did not spurn the Virgins womb.
+You overcame the sting of death,
+And opened the kingdom of heaven to all believers.
+You are seated at Gods right hand in glory.
+We believe that you will come, and be our judge.
+Come then, Lord, and help your people,
+Bought with the price of your own blood,
+And bring us with your saints
+To glory everlasting.
+Save your people, Lord, and bless your inheritance.
+Govern and uphold them now and always.
+Day by day we bless you.
+We praise your name forever.
+Keep us today, Lord, from all sin.
+Have mercy on us, Lord, have mercy.
+Lord, show us your love and mercy;
+For we put our trust in you.
+In you, Lord, is our hope:
+And we shall never hope in vain.
+'''
+Te-Deum-Latin = '''
+Te Deum
+
+Te Deum lauda'mus:
+te Do'minum confite'mur.
+Te aete'rnum Patrem,
+omnis terra venera'tur.
+tibi omnes a'ngeli,
+tibi caeli et unive'rsae potesta'tes:
+tibi che'rubim et se'raphim
+incessa'bili voce procla'mant:
+Sanctus, Sanctus, Sanctus,
+Do'minus Deus Sa'baoth.
+Pleni sunt caeli et terra
+maiesta'tis glo'riae tuae.
+Te glorio'sus
+apostolo'rum chorus,
+te propheta'rum
+lauda'bilis nu'merus,
+te ma'rtyrum candida'tus
+laudat exe'rcitus.
+Te per orbem terra'rum
+sancta confite'tur Eccle'sia,
+Patrem imme'nsae maiesta'tis;
+venera'ndum tuum verum
+et u'nicum Fi'lium;
+Sanctum quoque
+Para'clitum Spi'ritum.
+Tu rex glo'riae, Christe.
+Tu Patris sempite'rnus es Fi'lius.
+Tu, ad libera'ndum susceptu'rus
+ho'minem,
+non horrui'sti Vi'rginis u'terum.
+Tu, devi'cto mortis acu'leo,
+aperui'sti crede'ntibus regna caelo'rum.
+Tu ad de'xteram Dei sedes,
+in glo'ria Patris.
+Iudex cre'deris esse ventu'rus.
+Te ergo quaesumus,
+tuis fa'mulis su'bveni,
+quos pretio'so sa'nguine redemi'sti.
+aete'rna fac cum sanctis tuis
+in glo'ria numera'ri.
+Salvum fac po'pulum tuum, Do'mine,
+et be'nedic heredita'ti tuae.
+Et rege eos, et exto'lle illos
+usque in aete'rnum.
+Per si'ngulos dies benedi'cimus te;
+et lauda'mus nomen tuum
+in saeculum, et in saeculum saeculi.
+Digna're, Do'mine,
+die isto sine pecca'to nos custodi're.
+Misere're nostri, Do'mine, misere're nostri.
+Fiat miserico'rdia tua,
+Do'mine, super nos,
+quema'dmodum spera'vimus in te.
+In te, Do'mine, spera'vi:
+non confu'ndar in aete'rnum.
+'''
+Come-Creator-Spirit = '''
+Come Creator Spirit
+
+Come, Holy Spirit, Creator come,
+From your bright heavenly throne!
+Come, take possession of our souls,
+And make them all your own.
+You who are called the Paraclete,
+Best gift of God above,
+The living spring, the living fire,
+Sweet unction, and true love!
+You who are sevenfold in your grace,
+Finger of God's right hand,
+His promise, teaching little ones
+To speak and understand!
+O guide our minds with your blessed light,
+With love our hearts inflame,
+And with your strength which never decays
+Confirm our mortal frame.
+Far from us drive our hellish foe
+True peace unto us bring,
+And through all perils guide us safe
+Beneath your sacred wing.
+Through you may we the Father know,
+Through you the eternal Son
+And you the Spirit of them both
+Thrice-blessed three in one.
+All glory to the Father be,
+And to the risen Son;
+The same to you, O Paraclete,
+While endless ages run. Amen.
+'''
+Come-Creator-Spirit-Latin = '''
+Veni Creator Spiritus
+
+Veni, crea'tor Spi'ritus,
+mentes tuo'rum vi'sita,
+imple supe'rna gra'tia,
+quae tu crea'sti pe'ctora.
+Qui di'ceris Para'clitus,
+alti'ssimi donum Dei,
+fons vivus, ignis, ca'ritas,
+et spirita'lis u'nctio.
+Tu septifo'rmis mu'nere,
+di'gitus pate'rnae de'xterae,
+tu rite promi'ssum Patris,
+sermo'ne ditans gu'ttura.
+Acce'nde lumen se'nsibus,
+infu'nde amo'rem co'rdibus,
+infi'rma nostri co'rporis
+virtu'te firmans pe'rpeti.
+Hostem repe'llas lo'ngius
+pace'mque dones pro'tinus;
+ducto're sic te praevio
+vite'mus omne no'xium.
+Per Te scia'mus da Patrem
+nosca'mus atque Fi'lium,
+teque utriu'sque Spi'ritum
+creda'mus omni te'mpore.
+Deo Patri sit glo'ria,
+et Fi'lio, qui a mo'rtuis
+surre'xit, ac Para'clito,
+in saeculo'rum saecula. Amen.
+'''
+Come-Holy-Spirit = '''
+Come Holy Spirit
+
+Come, Holy Spirit, come!
+And from your celestial home
+Shed a ray of light divine!
+Come, Father of the poor!
+Come, source of all our store!
+Come, within our bosoms shine.
+You, of comforters the best;
+You, the souls most welcome guest;
+Sweet refreshment here below;
+In our labor, rest most sweet;
+Grateful coolness in the heat;
+Solace in the midst of woe.
+O most blessed Light divine,
+Shine within these hearts of yours,
+And our inmost being fill!
+Where you are not, we have naught,
+Nothing good in deed or thought,
+Nothing free from taint of ill.
+Heal our wounds, our strength renew;
+On our dryness pour your dew;
+Wash the stains of guilt away:
+Bend the stubborn heart and will;
+Melt the frozen, warm the chill;
+Guide the steps that go astray.
+On the faithful, who adore
+And confess you, evermore
+In your sevenfold gift descend:
+Give them virtues sure reward;
+Give them your salvation, Lord;
+Give them joys that never end.
+'''
+Come-Holy-Spirit-Latin = '''
+Veni Sancte Spiritus
+
+Veni, Sancte Spi'ritus,
+et emi'tte caelitus
+lucis tuae ra'dium.
+Veni, pater pa'uperum,
+veni, dator mu'nerum,
+veni, lumen co'rdium.
+Consola'tor o'ptime,
+dulcis hospes a'nimae,
+dulce refrige'rium.
+In labo're re'quies,
+in aestu tempe'ries,
+in fletu sola'cium.
+O lux beati'ssima,
+reple cordis i'ntima
+tuo'rum fide'lium.
+Sine tuo nu'mine,
+nihil est in ho'mine
+nihil est inno'xium.
+Lava quod est so'rdidum,
+riga quod est a'ridum,
+sana quod est sa'ucium.
+Flecte quod est ri'gidum,
+fove quod est fri'gidum,
+rege quod est de'vium.
+Da tuis fide'libus,
+in te confide'ntibus,
+sacrum septena'rium.
+Da virtu'tis me'ritum,
+da salu'tis e'xitum,
+da pere'nne ga'udium. Amen.
+'''
+Anima-Christi = '''
+Anima Christi
+
+Soul of Christ, be my sanctification.
+Body of Christ, be my salvation.
+Blood of Christ, fill all my veins.
+Water of Christs side, wash out my stains.
+Passion of Christ, my comfort be.
+O good Jesus, listen to me.
+In Thy wounds I fain would hide,
+Ner to be parted from Thy side,
+Guard me, should the foe assail me.
+Call me when my life shall fail me.
+Bid me come to Thee above,
+With Thy saints to sing Thy love,
+World without end. Amen.
+'''
+Anima-Christi-Latin = '''
+Anima Christi
+
+A'nima Christi, sancti'fica me.
+Corpus Christi, salva me.
+Sanguis Christi, ine'bria me.
+Aqua la'teris Christi, lava me.
+Pa'ssio Christi, confo'rta me.
+O bone Iesu, exa'udi me.
+Intra tua vu'lnera absco'nde me.
+Ne permi'ttas me separa'ri a te.
+Ab hoste mali'gno defe'nde me.
+In hora mortis meae voca me.
+Et iube me veni're ad te,
+ut cum Sanctis tuis laudem te
+in saecula saeculo'rum. Amen
+'''
+Memorare = '''
+Memorare
+
+Remember, O most gracious Virgin Mary,
+that never was it known
+that anyone who fled to thy protection,
+implored thy help,
+or sought thy intercession,
+was left unaided.
+Inspired by this confidence
+I fly unto thee,
+O Virgin of virgins, my Mother.
+To thee do I come,
+before thee I stand,
+sinful and sorrowful.
+O Mother of the Word Incarnate,
+despise not my petitions,
+but in thy mercy hear and answer me.
+Amen.
+'''
+Memorare-Latin = '''
+Memorare
+
+Memora're, o pii'ssima Virgo Mari'a,
+non esse audi'tum a saeculo,
+quemquam ad tua curre'ntem praesi'dia,
+tua implora'ntem auxi'lia,
+tua pete'ntem suffra'gia, esse dereli'ctum.
+Ego tali anima'tus confide'ntia,
+ad te, Virgo Vi'rginum, Mater,
+curro, ad te ve'nio,
+coram te gemens pecca'tor assi'sto.
+Noli, Mater Verbi, verba mea despi'cere;
+sed a'udi propi'tia et exa'udi. Amen.
+'''
+Holy-Rosary = '''
+Holy Rosary
+
+The Joyful Mysteries (recited Monday and Saturday)
+
+The Annunciation
+The Visitation
+The Nativity
+The Presentation
+The Finding in the Temple
+
+The Mysteries of Light (recited Thursday)
+
+The Baptism of Jesus
+The Wedding Feast of Cana
+The Proclamation of the Kingdom, with the call to Conversion
+The Transfiguration
+The Institution of the Eucharist
+
+The Sorrowful Mysteries (recited Tuesday and Friday)
+
+The Agony in the Garden
+The Scourging at the Pillar
+The Crowning with Thorns
+The Carrying of the Cross
+The Crucifixion
+
+The Glorious Mysteries (recited Wednesday and Sunday)
+
+The Resurrection
+The Ascension
+The Descent of the Holy Spirit
+The Assumption
+The Coronation of Mary Queen of Heaven and Earth
+
+Prayer concluding the Rosary
+
+Hail, Holy Queen, etc. as above
+
+V. Pray for us, O holy Mother of God.
+R. That we may be made worthy of the promises of Christ.
+
+Let us pray.
+O God, whose only-begotten Son,
+by his life, death and resurrection,
+has purchased for us
+the rewards of eternal life,
+grant, we beseech thee,
+that meditating on these mysteries
+of the most holy Rosary of the Blessed Virgin Mary,
+we may imitate what they contain
+and obtain what they promise,
+through the same Christ our Lord.
+Amen.
+'''
+Holy-Rosary-Latin = '''
+Rosarium
+
+Myste'ria gaudio'sa (in feria secunda et sabbato)
+
+Annuntia'tio.
+Visita'tio.
+Nati'vitas.
+Praesenta'tio.
+Inve'ntio in Templo.
+
+Myste'ria lumino'sa (in feria quinta)
+
+Bapti'sma apud Iorda'nem.
+Autorevela'tio apud Canane'nse matrimo'nium.
+Regni Dei proclama'tio coniu'ncta cum invitame'nto ad conversio'nem.
+Transfigura'tio.
+Euchari'stiae Institu'tio.
+
+Myste'ria doloro'sa (in feria tertia et feria sexta)
+
+Agoni'a in Hortu.
+Flagella'tio.
+Corona'tio Spinis.
+Baiula'tio Crucis.
+Crucifi'xio et Mors.
+
+Myste'ria glorio'sa (in feria quarta et Dominica)
+
+Resurre'ctio.
+Asce'nsio.
+Desce'nsus Spi'ritus Sancti.
+Assu'mptio.
+Corona'tio in Caelo.
+
+Oratio ad finem Rosarii dicenda
+
+Ora pro nobis, sancta Dei ge'netrix.
+Ut digni efficia'mur promissio'nibus Christi.
+
+Ore'mus.
+
+Deus, cuius Unige'nitus per vitam,
+mortem et resurrectio'nem suam
+nobis salu'tis aete'rnae
+praemia compara'vit,
+conce'de, quaesumus:
+ut haec myste'ria sacrati'ssimo bea'tae Mari'ae Vi'rginis
+Rosa'rio recole'ntes,
+et imite'mur quod co'ntinent,
+et quod promi'ttunt assequa'mur.
+Per Christum Do'minum nostrum.
+Amen.
+'''
+Act-of-Faith = '''
+Act of Faith
+
+O my God, I firmly believe
+that you are one God in three divine Persons,
+Father, Son, and Holy Spirit.
+I believe that your divine Son became man
+and died for our sins and that he will come
+to judge the living and the dead.
+I believe these and all the truths
+which the Holy Catholic Church teaches
+because you have revealed them
+who are eternal truth and wisdom,
+who can neither deceive nor be deceived.
+In this faith I intend to live and die.
+Amen.
+'''
+Act-of-Faith-Latin = '''
+Actus Fidei
+
+Do'mine Deus,
+firma fide credo et confi'teor
+o'mnia et si'ngula quae
+sancta Eccle'sia Catho'lica propo'nit,
+quia tu, Deus, ea o'mnia revela'sti,
+qui es aete'rna ve'ritas et sapie'ntia
+quae nec fa'llere nec falli potest.
+In hac fide vi'vere et mori sta'tuo.
+Amen.
+'''
+Act-of-Hope = '''
+Act of Hope
+
+O Lord God,
+I hope by your grace for the pardon
+of all my sins
+and after life here to gain eternal happiness
+because you have promised it
+who are infinitely powerful, faithful, kind,
+and merciful.
+In this hope I intend to live and die.
+Amen.
+'''
+Act-of-Hope-Latin = '''
+Actus Spei
+
+Do'mine Deus, spero per gra'tiam tuam
+remissio'nem o'mnium peccato'rum,
+et post hanc vitam aete'rnam felicita'tem
+me esse consecutu'rum:
+quia tu promisi'sti, qui es infini'te
+potens, fide'lis, beni'gnus, et mise'ricors.
+In hac spe vi'vere et mori sta'tuo.
+Amen.
+'''
+Act-of-Love = '''
+Act of Love
+
+O Lord God, I love you above all things
+and I love my neighbor for your sake
+because you are the highest, infinite and perfect
+good, worthy of all my love.
+In this love I intend to live and die.
+Amen.
+'''
+Act-of-Love-Latin = '''
+Actus Caritatis
+
+Do'mine Deus,
+amo te super o'mnia
+et pro'ximum meum propter te,
+quia tu es summum, infini'tum,
+et perfecti'ssimum bonum,
+omni dilectio'ne dignum.
+In hac carita'te
+vi'vere et mori sta'tuo.
+Amen.
+'''
+Act-of-Contrition = '''
+Act of Contrition
+
+O my God, I am heartily sorry for having offended Thee, and I detest
+all my sins because of thy just punishments, but most of all because
+they offend Thee, my God, who art all good and deserving of all my
+love. I firmly resolve with the help of Thy grace to sin no more and to
+avoid the near occasion of sin. Amen.
+'''
+Act-of-Contrition-Latin = '''
+Actus Contritionis
+
+Deus meus, ex toto corde paenitet me o'mnium meo'rum peccato'rum, e'aque
+dete'stor, quia pecca'ndo, non solum pnas a te iuste statu'tas prome'ritus
+sum, sed praese'rtim quia offe'ndi te, summum bonum, ac dignum qui super
+o'mnia diliga'ris. i'deo fi'rmiter propo'no, adiuva'nte gra'tia tua, de ce'tero
+me non peccatu'rum peccandi'que occasio'nes pro'ximas fugitu'rum. Amen.
+'''
+Two-Commandments-of-Love = '''
+Two Commandments of Love
+
+1. You shall love the Lord your God with all your heart, with all your soul, and with all your mind.
+2. You shall love your neighbour as yourself.
+'''
+Golden-Rule = '''
+Golden Rule
+
+Do to others as you would have them do to you. (Matthew 7:12)
+'''
+Beatitudes = '''
+Beatitudes
+
+Blessed are the poor in spirit, for theirs is the kingdom of heaven.
+Blessed are they who mourn, for they will be comforted.
+Blessed are the meek, for they will inherit the earth.
+Blessed are they who hunger and thirst for righteousness, for they will be satisfied.
+Blessed are the merciful, for they will be shown mercy.
+Blessed are the pure of heart, for they will see God.
+Blessed are the peacemakers, for they will be called children of God.
+Blessed are those who are persecuted for righteousness sake, for theirs is the kingdom of heaven.
+Blessed are you when people revile you and persecute you and utter all kinds of evil against you falsely on my account.
+Rejoice and be glad, for your reward will be great in heaven. (Matthew 5:3-12)
+'''
+Three-Theological-Virtues = '''
+Three Theological Virtues
+
+1. Faith
+2. Hope
+3. Charity
+'''
+Four-Cardinal-Virtues = '''
+Four Cardinal Virtues
+
+1. Prudence
+2. Justice
+3. Fortitude
+4. Temperance
+'''
+Seven-Gifts-of-the-Holy-Spirit = '''
+Seven Gifts of the Holy Spirit
+
+1. Wisdom
+2. Understanding
+3. Counsel
+4. Fortitude
+5. Knowledge
+6. Piety
+7. Fear of the Lord
+'''
+Twelve-Fruits-of-the-Holy-Spirit = '''
+Twelve Fruits of the Holy Spirit
+
+1. Charity
+2. Joy
+3. Peace
+4. Patience
+5. Kindness
+6. Goodness
+7. Generosity
+8. Gentleness
+9. Faithfulness
+10. Modesty
+11. Self-control
+12. Chastity
+'''
+Five-Precepts-of-the-Church = '''
+Five Precepts of the Church
+
+1. You shall attend Mass on Sundays and on holy days of obligation and remain free from work or activity that could impede the sanctification of such days.
+2. You shall confess your sins at least once a year.
+3. You shall receive the sacrament of the Eucharist at least during the Easter season.
+4. You shall observe the days of fasting and abstinence established by the Church.
+5. You shall help to provide for the needs of the Church.
+'''
+Seven-Corporal-Works-of-Mercy = '''
+Seven Corporal Works of Mercy
+
+1. Feed the hungry.
+2. Give drink to the thirsty.
+3. Clothe the naked.
+4. Shelter the homeless.
+5. Visit the sick.
+6. Visit the imprisoned.
+7. Bury the dead.
+'''
+Seven-Spiritual-Works-of-Mercy = '''
+Seven Spiritual Works of Mercy
+
+1. Counsel the doubtful.
+2. Instruct the ignorant.
+3. Admonish sinners.
+4. Comfort the afflicted.
+5. Forgive offenses.
+6. Bear wrongs patiently.
+7. Pray for the living and the dead.
+'''
+Seven-Capital-Sins = '''
+Seven Capital Sins
+
+1. Pride
+2. Covetousness
+3. Lust
+4. Anger
+5. Gluttony
+6. Envy
+7. Sloth
+'''
+Four-Last-Things = '''
+Four Last Things
+
+1. Death
+2. Judgment
+3. Hell
+4. Heaven
+'''
