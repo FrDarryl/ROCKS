@@ -1,0 +1,19 @@
+~/GitRepos/ROCKS/help
+
+https://stackoverflow.com/questions/18178084/pandoc-and-foreign-characters
+
+Use bash function 'glff xx' to create file 'xx_FreeFonts.lst' where xx is one of the Language Codes in file 'ISOLanguageCodes.tsv' derived from https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
+
+Use command 'combine xx_FreeFonts.lst and yy_FreeFonts.lst' (from moreurils Ubuntu package) to output common fonts for Language Codes xx amd yy
+
+Run typst fonts to see the fonts that Typst has discovered on your system. Note that you can pass the --ignore-system-fonts parameter to the CLI to ensure Typst won't search for system fonts.
+
+moreutils combine
+    $ combine file1 and file2
+        Outputs lines that are in file1 if they are also present in file2.
+    $ combine file1 not file2
+        Outputs lines that are in file1 but not in file2.
+    $ combine file1 or file2
+        Outputs lines that are in file1 or file2.
+    $ combine file1 xor file2
+        Outputs lines that are in either file1 or file2, but not in both files.

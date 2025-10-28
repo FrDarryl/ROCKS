@@ -1,0 +1,211 @@
+[2]
+"1" = '''
+:sup:`1` Estos son los hijos de la provincia que subieron del cautiverio de los deportados, que Nabucodonosor, rey de Babilonia, había llevado a Babilonia, y que volvieron a Jerusalén y a Judá, cada uno a su ciudad; 
+'''
+"2" = '''
+:sup:`2` que vinieron con Zorobabel, Jesúa, Nehemías, Seraías, Reelaías, Mardoqueo, Bilsán, Mispar, Bigvai, Rehum y Baana. El número de los hombres del pueblo de Israel: 
+'''
+"3" = '''
+:sup:`3` Los hijos de Paros, dos mil ciento setenta y dos. 
+'''
+"4" = '''
+:sup:`4` Los hijos de Sefatías, trescientos setenta y dos. 
+'''
+"5" = '''
+:sup:`5` Los hijos de Ara, setecientos setenta y cinco. 
+'''
+"6" = '''
+:sup:`6` Los hijos de Pahatmoab, de los hijos de Jesúa y de Joab, dos mil ochocientos doce. 
+'''
+"7" = '''
+:sup:`7` Los hijos de Elam, mil doscientos cincuenta y cuatro. 
+'''
+"8" = '''
+:sup:`8` Los hijos de Zattu, novecientos cuarenta y cinco. 
+'''
+"9" = '''
+:sup:`9` Los hijos de Zacarías, setecientos sesenta. 
+'''
+"10" = '''
+:sup:`10` Los hijos de Bani, seiscientos cuarenta y dos. 
+'''
+"11" = '''
+:sup:`11` Los hijos de Bebai, seiscientos veintitrés. 
+'''
+"12" = '''
+:sup:`12` Los hijos de Azgad, mil doscientos veintidós. 
+'''
+"13" = '''
+:sup:`13` Los hijos de Adonikam, seiscientos sesenta y seis. 
+'''
+"14" = '''
+:sup:`14` Los hijos de Bigvai, dos mil cincuenta y seis. 
+'''
+"15" = '''
+:sup:`15` Los hijos de Adin, cuatrocientos cincuenta y cuatro. 
+'''
+"16" = '''
+:sup:`16` Los hijos de Ater, de Ezequías, noventa y ocho. 
+'''
+"17" = '''
+:sup:`17` Los hijos de Bezai, trescientos veintitrés. 
+'''
+"18" = '''
+:sup:`18` Los hijos de Jorah, ciento doce. 
+'''
+"19" = '''
+:sup:`19` Los hijos de Hasum, doscientos veintitrés. 
+'''
+"20" = '''
+:sup:`20` Los hijos de Gibbar, noventa y cinco. 
+'''
+"21" = '''
+:sup:`21` Los hijos de Belén, ciento veintitrés. 
+'''
+"22" = '''
+:sup:`22` Los de Netofa, cincuenta y seis. 
+'''
+"23" = '''
+:sup:`23` Los de Anatot, ciento veintiocho. 
+'''
+"24" = '''
+:sup:`24` Los hijos de Azmavet, cuarenta y dos. 
+'''
+"25" = '''
+:sup:`25` Los hijos de Quiriat Arim, Chefira y Beerot, setecientos cuarenta y tres. 
+'''
+"26" = '''
+:sup:`26` Los hijos de Ramá y Geba, seiscientos veintiuno. 
+'''
+"27" = '''
+:sup:`27` Los varones de Micmas, ciento veintidós. 
+'''
+"28" = '''
+:sup:`28` Los varones de Betel y de Hai, doscientos veintitrés. 
+'''
+"29" = '''
+:sup:`29` Los hijos de Nebo, cincuenta y dos. 
+'''
+"30" = '''
+:sup:`30` Los hijos de Magbis, ciento cincuenta y seis. 
+'''
+"31" = '''
+:sup:`31` Los hijos del otro Elam, mil doscientos cincuenta y cuatro. 
+'''
+"32" = '''
+:sup:`32` Los hijos de Harim, trescientos veinte. 
+'''
+"33" = '''
+:sup:`33` Los hijos de Lod, Hadid y Ono, setecientos veinticinco. 
+'''
+"34" = '''
+:sup:`34` Los hijos de Jericó, trescientos cuarenta y cinco. 
+'''
+"35" = '''
+:sup:`35` Los hijos de Senaa, tres mil seiscientos treinta. 
+'''
+"36" = '''
+:sup:`36` Los sacerdotes: los hijos de Jedaías, de la casa de Jesúa, novecientos setenta y tres. 
+'''
+"37" = '''
+:sup:`37` Los hijos de Immer, mil cincuenta y dos. 
+'''
+"38" = '''
+:sup:`38` Los hijos de Pashur, mil doscientos cuarenta y siete. 
+'''
+"39" = '''
+:sup:`39` Los hijos de Harim, mil diecisiete. 
+'''
+"40" = '''
+:sup:`40` Los levitas: los hijos de Jesúa y de Cadmiel, de los hijos de Hodavías, setenta y cuatro. 
+'''
+"41" = '''
+:sup:`41` Los cantores: los hijos de Asaf, ciento veintiocho. 
+'''
+"42" = '''
+:sup:`42` Los hijos de los porteros: los hijos de Salum, los hijos de Ater, los hijos de Talmón, los hijos de Acub, los hijos de Hatita, los hijos de Sobai, en total ciento treinta y nueve. 
+'''
+"43" = '''
+:sup:`43` Los servidores del templo: los hijos de Ziha, los hijos de Hasupha, los hijos de Tabbaoth, 
+'''
+"44" = '''
+:sup:`44` los hijos de Keros, los hijos de Siaha, los hijos de Padon, 
+'''
+"45" = '''
+:sup:`45` los hijos de Lebanah, los hijos de Hagabah, los hijos de Akkub, 
+'''
+"46" = '''
+:sup:`46` los hijos de Hagab, los hijos de Shamlai, los hijos de Hanan, 
+'''
+"47" = '''
+:sup:`47` los hijos de Giddel, los hijos de Gahar, los hijos de Reaiah, 
+'''
+"48" = '''
+:sup:`48` los hijos de Rezin, los hijos de Nekoda, los hijos de Gazzam, 
+'''
+"49" = '''
+:sup:`49` los hijos de Uzza, los hijos de Paseah, los hijos de Besai, 
+'''
+"50" = '''
+:sup:`50` los hijos de Asna, los hijos de Meunim, los hijos de Nefisim, 
+'''
+"51" = '''
+:sup:`51` los hijos de Bakbuk, los hijos de Hakupha, los hijos de Harhur, 
+'''
+"52" = '''
+:sup:`52` los hijos de Bazluth, los hijos de Mehida, los hijos de Harsha, 
+'''
+"53" = '''
+:sup:`53` los hijos de Barkos, los hijos de Sisera, los hijos de Temah, 
+'''
+"54" = '''
+:sup:`54` los hijos de Neziah, los hijos de Hatipha. 
+'''
+"55" = '''
+:sup:`55` Los hijos de los siervos de Salomón: los hijos de Sotai, los hijos de Hassophereth, los hijos de Peruda, 
+'''
+"56" = '''
+:sup:`56` los hijos de Jaalah, los hijos de Darkon, los hijos de Giddel, 
+'''
+"57" = '''
+:sup:`57` los hijos de Sefatías, los hijos de Hattil, los hijos de Pochereth Hazzebaim, los hijos de Ami. 
+'''
+"58" = '''
+:sup:`58` Todos los servidores del templo, y los hijos de los servidores de Salomón, fueron trescientos noventa y dos. 
+'''
+"59" = '''
+:sup:`59` Estos fueron los que subieron de Tel Melá, Tel Harsa, Querubín, Addán e Immer; pero no pudieron mostrar las casas de sus padres ni su descendencia, si eran de Israel: 
+'''
+"60" = '''
+:sup:`60` los hijos de Delaía, los hijos de Tobías, los hijos de Necoda, seiscientos cincuenta y dos. 
+'''
+"61" = '''
+:sup:`61` De los hijos de los sacerdotes: los hijos de Habaía, los hijos de Hakkoz, y los hijos de Barzilai, que tomó mujer de las hijas de Barzilai Galaadita, y se llamó como ellas. 
+'''
+"62" = '''
+:sup:`62` Estos buscaron su lugar entre los que estaban registrados por genealogía, pero no fueron encontrados; por lo tanto, fueron considerados descalificados y apartados del sacerdocio. 
+'''
+"63" = '''
+:sup:`63` El gobernador les dijo que no debían comer de las cosas más santas hasta que se levantara un sacerdote para servir con Urim y con Tumim. 
+'''
+"64" = '''
+:sup:`64` Toda la asamblea reunida era de cuarenta y dos mil trescientos sesenta, 
+'''
+"65" = '''
+:sup:`65` además de sus siervos y siervas, que eran siete mil trescientos treinta y siete; y tenían doscientos cantores y cantoras. 
+'''
+"66" = '''
+:sup:`66` Sus caballos eran setecientos treinta y seis; sus mulos, doscientos cuarenta y cinco; 
+'''
+"67" = '''
+:sup:`67` sus camellos, cuatrocientos treinta y cinco; sus asnos, seis mil setecientos veinte. 
+'''
+"68" = '''
+:sup:`68` Algunos de los jefes de familia de los padres, cuando llegaron a la casa de Yahvé que está en Jerusalén, ofrecieron voluntariamente por la casa de Dios para levantarla en su lugar. 
+'''
+"69" = '''
+:sup:`69` Dieron, según su capacidad, para el tesoro de la obra, sesenta y un mil dáricos de oro, cinco mil minas de plata, y cien vestidos sacerdotales. 
+'''
+"70" = '''
+:sup:`70` Así que los sacerdotes y los levitas, con parte del pueblo, los cantores, los porteros y los servidores del templo, vivían en sus ciudades, y todo Israel en sus ciudades. 
+'''

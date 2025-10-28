@@ -1,0 +1,117 @@
+Identifier	Number	English Name	Alternative name / Notes
+GEN	01	Genesis	‘1 Moses’ in some Bibles
+EXO	02	Exodus	‘2 Moses’ in some Bibles
+LEV	03	Leviticus	‘3 Moses’ in some Bibles
+NUM	04	Numbers	‘4 Moses’ in some Bibles
+DEU	05	Deuteronomy	‘5 Moses’ in some Bibles
+JOS	06	Joshua	
+JDG	07	Judges	
+RUT	08	Ruth	
+1SA	09	1 Samuel	1 Kings or Kingdoms in Orthodox Bibles; do not confuse this abbreviation with ISA for Isaiah
+2SA	10	2 Samuel	2 Kings or Kingdoms in Orthodox Bibles
+1KI	11	1 Kings	3 Kings or Kingdoms in Orthodox Bibles
+2KI	12	2 Kings	4 Kings or Kingdoms in Orthodox Bibles
+1CH	13	1 Chronicles	1 Paralipomenon in Orthodox Bibles
+2CH	14	2 Chronicles	2 Paralipomenon in Orthodox Bibles
+EZR	15	Ezra	This is for Hebrew Ezra, sometimes called 1 Ezra or 1 Esdras; also for Ezra-Nehemiah when one book
+NEH	16	Nehemiah	Sometimes appended to Ezra; called 2 Esdras in the Vulgate
+EST	17	Esther (Hebrew)	This is for Hebrew Esther; for the longer Greek LXX Esther use ESG
+JOB	18	Job	
+PSA	19	Psalms	150 Psalms in Hebrew, 151 Psalms in Orthodox Bibles, 155 Psalms in West Syriac Bibles, if you put Psalm 151 separately in an Apocrypha use PS2, for Psalms 152-155 use PS3
+PRO	20	Proverbs	31 Proverbs, but 24 Proverbs in the Ethiopian Bible
+ECC	21	Ecclesiastes	Qoholeth in Catholic Bibles; for Ecclesiasticus use SIR
+SNG	22	Song of Songs	Song of Solomon, or Canticles of Canticles in  Catholic Bibles
+ISA	23	Isaiah	Do not confuse this abbreviation with 1SA for 1 Samuel
+JER	24	Jeremiah	The Book of Jeremiah; for the Letter of Jeremiah use LJE
+LAM	25	Lamentations	The Lamentations of Jeremiah
+EZK	26	Ezekiel	
+DAN	27	Daniel (Hebrew)	This is for Hebrew Daniel; for the longer Greek LXX Daniel use DAG
+HOS	28	Hosea	
+JOL	29	Joel	
+AMO	30	Amos	
+OBA	31	Obadiah	
+JON	32	Jonah	Do not confuse this abbreviation with JHN for John
+MIC	33	Micah	
+NAM	34	Nahum	
+HAB	35	Habakkuk	
+ZEP	36	Zephaniah	
+HAG	37	Haggai	
+ZEC	38	Zechariah	
+MAL	39	Malachi	
+MAT	40	Matthew	The Gospel according to Matthew
+MRK	41	Mark	The Gospel according to Mark
+LUK	42	Luke	The Gospel according to Luke
+JHN	43	John	The Gospel according to John
+ACT	44	Acts	The Acts of the Apostles
+ROM	45	Romans	The Letter of Paul to the Romans
+1CO	46	1 Corinthians	The First Letter of Paul to the Corinthians
+2CO	47	2 Corinthians	The Second Letter of Paul to the Corinthians
+GAL	48	Galatians	The Letter of Paul to the Galatians
+EPH	49	Ephesians	The Letter of Paul to the Ephesians
+PHP	50	Philippians	The Letter of Paul to the Philippians
+COL	51	Colossians	The Letter of Paul to the Colossians
+1TH	52	1 Thessalonians	The First Letter of Paul to the Thessalonians
+2TH	53	2 Thessalonians	The Second Letter of Paul to the Thessalonians
+1TI	54	1 Timothy	The First Letter of Paul to Timothy
+2TI	55	2 Timothy	The Second Letter of Paul to Timothy
+TIT	56	Titus	The Letter of Paul to Titus
+PHM	57	Philemon	The Letter of Paul to Philemon
+HEB	58	Hebrews	The Letter to the Hebrews
+JAS	59	James	The Letter of James
+1PE	60	1 Peter	The First Letter of Peter
+2PE	61	2 Peter	The Second Letter of Peter
+1JN	62	1 John	The First Letter of John
+2JN	63	2 John	The Second Letter of John
+3JN	64	3 John	The Third Letter of John
+JUD	65	Jude	The Letter of Jude; do not confuse this abbreviation with JDG for Judges, or JDT for Judith
+REV	66	Revelation	The Revelation to John; called Apocalypse in Catholic Bibles
+TOB	67	Tobit	
+JDT	68	Judith	
+ESG	69	Esther Greek	
+WIS	70	Wisdom of Solomon	
+SIR	71	Sirach	Ecclesiasticus or Jesus son of Sirach
+BAR	72	Baruch	5 chapters in Orthodox Bibles (LJE is separate); 6 chapters in Catholic Bibles (includes LJE); called 1 Baruch in Syriac Bibles
+LJE	73	Letter of Jeremiah	Sometimes included in Baruch; called ‘Rest of Jeremiah’ in Ethiopia
+S3Y	74	Song of the 3 Young Men	Includes the Prayer of Azariah; sometimes included in Greek Daniel
+SUS	75	Susanna	Sometimes included in Greek Daniel
+BEL	76	Bel and the Dragon	Sometimes included in Greek Daniel; called ‘Rest of Daniel’ in Ethiopia
+1MA	77	1 Maccabees	Called ‘3 Maccabees’ in some traditions, printed in Catholic and Orthodox Bibles
+2MA	78	2 Maccabees	Called ‘1 Maccabees’ in some traditions, printed in Catholic and Orthodox Bibles
+3MA	79	3 Maccabees	Called ‘2 Maccabees’ in some traditions, printed in Orthodox Bibles
+4MA	80	4 Maccabees	In an appendix to the Greek Bible and in the Georgian Bible
+1ES	81	1 Esdras (Greek)	The 9 chapter book of Greek Ezra in the LXX,  called ‘2 Esdras’ in Russian Bibles, and called ‘3 Esdras’ in the Vulgate; when Ezra-Nehemiah is one book use EZR
+2ES	82	2 Esdras (Latin)	The 16 chapter book of Latin Esdras called ‘3 Esdras’ in Russian Bibles and called ‘4 Esdras’ in the Vulgate; for the 12 chapter Apocalypse of Ezra use EZA
+MAN	83	Prayer of Manasseh	Sometimes appended to 2 Chronicles, included in Orthodox Bibles
+PS2	84	Psalm 151	An additional Psalm in the Septuagint, appended to Psalms in Orthodox Bibles
+ODA	85	Odae/Odes	A book in some editions of the Septuagint; Odes has different contents in Greek, Russian, and Syriac traditions
+PSS	86	Psalms of Solomon	A book in some editions of the Septuagint, but not printed in modern Bibles
+EZA	A4	Ezra Apocalypse	12 chapter book of Ezra Apocalypse; called ‘3 Ezra’ in the Armenian Bible, called ‘Ezra Shealtiel’ in the Ethiopian Bible; formerly called 4ES; called ‘2 Esdras’ when it includes 5 Ezra and 6 Ezra
+5EZ	A5	5 Ezra	2 chapter Latin preface to Ezra Apocalypse; formerly called 5ES
+6EZ	A6	6 Ezra	2 chapter Latin conclusion to Ezra Apocalypse; formerly called 6ES
+DAG	B2	Daniel Greek	The 14 chapter version of Daniel from the Septuagint including Greek additions
+PS3	B3	Psalms 152-155	Additional Psalms 152-155 found in West Syriac manuscripts
+2BA	B4	2 Baruch (Apocalypse)	The Apocalypse of Baruch in Syriac Bibles
+LBA	B5	Letter of Baruch	Sometimes appended to 2 Baruch; sometimes separate in Syriac Bibles
+JUB	B6	Jubilees	Ancient Hebrew book used in the Ethiopian Bible
+ENO	B7	Enoch	Sometimes called ‘1 Enoch’; ancient Hebrew book in the Ethiopian Bible
+1MQ	B8	1 Meqabyan/Mekabis	Book of Mekabis of Benjamin in the Ethiopian Bible
+2MQ	B9	2 Meqabyan/Mekabis	Book of Mekabis of Moab in the Ethiopian Bible
+3MQ	C0	3 Meqabyan/Mekabis	Book of Meqabyan in the Ethiopian Bible
+REP	C1	Reproof	Proverbs part 2: Used in the Ethiopian Bible
+4BA	C2	4 Baruch	Paralipomenon of Jeremiah, called ‘Rest of the Words of Baruch’ in Ethiopia; may include or exclude the Letter of Jeremiah as chapter 1, used in the Ethiopian Bible
+LAO	C3	Letter to the Laodiceans	A Latin Vulgate book, found in the Vulgate and some medieval Catholic translations
+FRT	A0	Front Matter	
+BAK	A1	Back Matter	
+OTH	A2	Other Matter	
+INT	A7	Introduction Matter	
+CNC	A8	Concordance	
+GLO	A9	Glossary / Wordlist	
+TDX	B0	Topical Index	
+NDX	B1	Names Index	
+XXA	94	Extra material	
+XXB	95	Extra material	
+XXC	96	Extra material	
+XXD	97	Extra material	
+XXE	98	Extra material	
+XXF	99	Extra material	
+XXG	100	Extra material	

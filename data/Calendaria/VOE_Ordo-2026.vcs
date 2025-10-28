@@ -1,0 +1,3659 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Universalis
+X-WR-CALNAME:Universalis England - Ordinariate
+X-WR-CALDESC:Calendar for England - Ordinariate
+X-PUBLISHED-TTL:P13W
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260101
+UID:/europe.england.ordinariate/20260101/
+URL:http://universalis.com/europe.england.ordinariate/20260101/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260101/today.htm
+SUMMARY:Mary, the Holy Mother of God
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260102
+UID:/europe.england.ordinariate/20260102/
+URL:http://universalis.com/europe.england.ordinariate/20260102/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260102/today.htm
+SUMMARY:Saints Basil the Great and Gregory Nazianzen, Bishops, Doctors
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260103
+UID:/europe.england.ordinariate/20260103/
+URL:http://universalis.com/europe.england.ordinariate/20260103/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260103/today.htm
+SUMMARY:3 January,\n or The Most Holy Name of Jesus
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260104
+UID:/europe.england.ordinariate/20260104/
+URL:http://universalis.com/europe.england.ordinariate/20260104/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260104/today.htm
+SUMMARY:2nd Sunday of Christmas
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260105
+UID:/europe.england.ordinariate/20260105/
+URL:http://universalis.com/europe.england.ordinariate/20260105/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260105/today.htm
+SUMMARY:5 January
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260106
+UID:/europe.england.ordinariate/20260106/
+URL:http://universalis.com/europe.england.ordinariate/20260106/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260106/today.htm
+SUMMARY:The Epiphany of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260107
+UID:/europe.england.ordinariate/20260107/
+URL:http://universalis.com/europe.england.ordinariate/20260107/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260107/today.htm
+SUMMARY:7 January,\n or Saint Raymond of Penyafort, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260108
+UID:/europe.england.ordinariate/20260108/
+URL:http://universalis.com/europe.england.ordinariate/20260108/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260108/today.htm
+SUMMARY:8 January
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260109
+UID:/europe.england.ordinariate/20260109/
+URL:http://universalis.com/europe.england.ordinariate/20260109/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260109/today.htm
+SUMMARY:9 January
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260110
+UID:/europe.england.ordinariate/20260110/
+URL:http://universalis.com/europe.england.ordinariate/20260110/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260110/today.htm
+SUMMARY:10 January
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260111
+UID:/europe.england.ordinariate/20260111/
+URL:http://universalis.com/europe.england.ordinariate/20260111/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260111/today.htm
+SUMMARY:The Baptism of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260112
+UID:/europe.england.ordinariate/20260112/
+URL:http://universalis.com/europe.england.ordinariate/20260112/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260112/today.htm
+SUMMARY:Monday in the Week after Epiphany,\n or Saint Aelred of Rievaulx, Abbot,\n or Saint Benet (Benedict) Biscop, Abbot
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260113
+UID:/europe.england.ordinariate/20260113/
+URL:http://universalis.com/europe.england.ordinariate/20260113/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260113/today.htm
+SUMMARY:Tuesday in the Week after Epiphany,\n or Saint Kentigern (Mungo), Bishop,\n or Saint Hilary, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260114
+UID:/europe.england.ordinariate/20260114/
+URL:http://universalis.com/europe.england.ordinariate/20260114/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260114/today.htm
+SUMMARY:Wednesday in the Week after Epiphany
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260115
+UID:/europe.england.ordinariate/20260115/
+URL:http://universalis.com/europe.england.ordinariate/20260115/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260115/today.htm
+SUMMARY:Thursday in the Week after Epiphany
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260116
+UID:/europe.england.ordinariate/20260116/
+URL:http://universalis.com/europe.england.ordinariate/20260116/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260116/today.htm
+SUMMARY:Friday in the Week after Epiphany
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260117
+UID:/europe.england.ordinariate/20260117/
+URL:http://universalis.com/europe.england.ordinariate/20260117/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260117/today.htm
+SUMMARY:Saint Antony, Abbot
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260118
+UID:/europe.england.ordinariate/20260118/
+URL:http://universalis.com/europe.england.ordinariate/20260118/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260118/today.htm
+SUMMARY:Second Sunday after Epiphany
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260119
+UID:/europe.england.ordinariate/20260119/
+URL:http://universalis.com/europe.england.ordinariate/20260119/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260119/today.htm
+SUMMARY:Monday after the Second Sunday after Epiphany,\n or Saint Wulstan, Bishop, Religious
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260120
+UID:/europe.england.ordinariate/20260120/
+URL:http://universalis.com/europe.england.ordinariate/20260120/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260120/today.htm
+SUMMARY:Tuesday after the Second Sunday after Epiphany,\n or Saint Fabian, Pope, Martyr,\n or Saint Sebastian, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260121
+UID:/europe.england.ordinariate/20260121/
+URL:http://universalis.com/europe.england.ordinariate/20260121/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260121/today.htm
+SUMMARY:Saint Agnes, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260122
+UID:/europe.england.ordinariate/20260122/
+URL:http://universalis.com/europe.england.ordinariate/20260122/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260122/today.htm
+SUMMARY:Thursday after the Second Sunday after Epiphany,\n or Saint Vincent, Deacon, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260123
+UID:/europe.england.ordinariate/20260123/
+URL:http://universalis.com/europe.england.ordinariate/20260123/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260123/today.htm
+SUMMARY:Friday after the Second Sunday after Epiphany
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260124
+UID:/europe.england.ordinariate/20260124/
+URL:http://universalis.com/europe.england.ordinariate/20260124/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260124/today.htm
+SUMMARY:Saint Francis de Sales, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260125
+UID:/europe.england.ordinariate/20260125/
+URL:http://universalis.com/europe.england.ordinariate/20260125/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260125/today.htm
+SUMMARY:Third Sunday after Epiphany
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260126
+UID:/europe.england.ordinariate/20260126/
+URL:http://universalis.com/europe.england.ordinariate/20260126/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260126/today.htm
+SUMMARY:Saints Timothy and Titus, Bishops
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260127
+UID:/europe.england.ordinariate/20260127/
+URL:http://universalis.com/europe.england.ordinariate/20260127/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260127/today.htm
+SUMMARY:Tuesday after the Third Sunday after Epiphany,\n or Saint Angela Merici, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260128
+UID:/europe.england.ordinariate/20260128/
+URL:http://universalis.com/europe.england.ordinariate/20260128/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260128/today.htm
+SUMMARY:Saint Thomas Aquinas, Priest, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260129
+UID:/europe.england.ordinariate/20260129/
+URL:http://universalis.com/europe.england.ordinariate/20260129/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260129/today.htm
+SUMMARY:Thursday after the Third Sunday after Epiphany
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260130
+UID:/europe.england.ordinariate/20260130/
+URL:http://universalis.com/europe.england.ordinariate/20260130/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260130/today.htm
+SUMMARY:Friday after the Third Sunday after Epiphany
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260131
+UID:/europe.england.ordinariate/20260131/
+URL:http://universalis.com/europe.england.ordinariate/20260131/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260131/today.htm
+SUMMARY:Saint John Bosco, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260201
+UID:/europe.england.ordinariate/20260201/
+URL:http://universalis.com/europe.england.ordinariate/20260201/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260201/today.htm
+SUMMARY:Third Sunday before Lent (Septuagesima)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260202
+UID:/europe.england.ordinariate/20260202/
+URL:http://universalis.com/europe.england.ordinariate/20260202/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260202/today.htm
+SUMMARY:The Presentation of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260203
+UID:/europe.england.ordinariate/20260203/
+URL:http://universalis.com/europe.england.ordinariate/20260203/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260203/today.htm
+SUMMARY:Tuesday after Septuagesima,\n or Saint Ansgar (Oscar), Bishop,\n or Saint Blaise, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260204
+UID:/europe.england.ordinariate/20260204/
+URL:http://universalis.com/europe.england.ordinariate/20260204/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260204/today.htm
+SUMMARY:Wednesday after Septuagesima,\n or Saint Gilbert of Sempringham, Abbot
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260205
+UID:/europe.england.ordinariate/20260205/
+URL:http://universalis.com/europe.england.ordinariate/20260205/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260205/today.htm
+SUMMARY:Saint Agatha, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260206
+UID:/europe.england.ordinariate/20260206/
+URL:http://universalis.com/europe.england.ordinariate/20260206/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260206/today.htm
+SUMMARY:Saints Paul Miki and his Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260207
+UID:/europe.england.ordinariate/20260207/
+URL:http://universalis.com/europe.england.ordinariate/20260207/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260207/today.htm
+SUMMARY:Saturday after Septuagesima,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260208
+UID:/europe.england.ordinariate/20260208/
+URL:http://universalis.com/europe.england.ordinariate/20260208/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260208/today.htm
+SUMMARY:Second Sunday before Lent (Sexagesima)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260209
+UID:/europe.england.ordinariate/20260209/
+URL:http://universalis.com/europe.england.ordinariate/20260209/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260209/today.htm
+SUMMARY:Monday after Sexagesima
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260210
+UID:/europe.england.ordinariate/20260210/
+URL:http://universalis.com/europe.england.ordinariate/20260210/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260210/today.htm
+SUMMARY:Saint Scholastica, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260211
+UID:/europe.england.ordinariate/20260211/
+URL:http://universalis.com/europe.england.ordinariate/20260211/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260211/today.htm
+SUMMARY:Wednesday after Sexagesima,\n or Our Lady of Lourdes
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260212
+UID:/europe.england.ordinariate/20260212/
+URL:http://universalis.com/europe.england.ordinariate/20260212/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260212/today.htm
+SUMMARY:Thursday after Sexagesima
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260213
+UID:/europe.england.ordinariate/20260213/
+URL:http://universalis.com/europe.england.ordinariate/20260213/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260213/today.htm
+SUMMARY:Friday after Sexagesima
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260214
+UID:/europe.england.ordinariate/20260214/
+URL:http://universalis.com/europe.england.ordinariate/20260214/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260214/today.htm
+SUMMARY:Saints Cyril, monk, and Methodius, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260215
+UID:/europe.england.ordinariate/20260215/
+URL:http://universalis.com/europe.england.ordinariate/20260215/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260215/today.htm
+SUMMARY:Sunday next before Lent (Quinquagesima)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260216
+UID:/europe.england.ordinariate/20260216/
+URL:http://universalis.com/europe.england.ordinariate/20260216/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260216/today.htm
+SUMMARY:Monday after Quinquagesima
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260217
+UID:/europe.england.ordinariate/20260217/
+URL:http://universalis.com/europe.england.ordinariate/20260217/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260217/today.htm
+SUMMARY:Tuesday after Quinquagesima,\n or The Seven Holy Founders of the Servite Order
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260218
+UID:/europe.england.ordinariate/20260218/
+URL:http://universalis.com/europe.england.ordinariate/20260218/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260218/today.htm
+SUMMARY:Ash Wednesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260219
+UID:/europe.england.ordinariate/20260219/
+URL:http://universalis.com/europe.england.ordinariate/20260219/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260219/today.htm
+SUMMARY:Thursday after Ash Wednesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260220
+UID:/europe.england.ordinariate/20260220/
+URL:http://universalis.com/europe.england.ordinariate/20260220/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260220/today.htm
+SUMMARY:Friday after Ash Wednesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260221
+UID:/europe.england.ordinariate/20260221/
+URL:http://universalis.com/europe.england.ordinariate/20260221/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260221/today.htm
+SUMMARY:Saturday after Ash Wednesday,\n (commemoration of Saint Peter Damian, Bishop, Doctor)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260222
+UID:/europe.england.ordinariate/20260222/
+URL:http://universalis.com/europe.england.ordinariate/20260222/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260222/today.htm
+SUMMARY:1st Sunday of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260223
+UID:/europe.england.ordinariate/20260223/
+URL:http://universalis.com/europe.england.ordinariate/20260223/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260223/today.htm
+SUMMARY:Monday of the 1st week of Lent,\n (commemoration of Saint Polycarp, Bishop, Martyr)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260224
+UID:/europe.england.ordinariate/20260224/
+URL:http://universalis.com/europe.england.ordinariate/20260224/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260224/today.htm
+SUMMARY:Tuesday of the 1st week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260225
+UID:/europe.england.ordinariate/20260225/
+URL:http://universalis.com/europe.england.ordinariate/20260225/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260225/today.htm
+SUMMARY:Wednesday of the 1st week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260226
+UID:/europe.england.ordinariate/20260226/
+URL:http://universalis.com/europe.england.ordinariate/20260226/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260226/today.htm
+SUMMARY:Thursday of the 1st week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260227
+UID:/europe.england.ordinariate/20260227/
+URL:http://universalis.com/europe.england.ordinariate/20260227/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260227/today.htm
+SUMMARY:Friday of the 1st week of Lent,\n (commemoration of Saint Gregory of Narek, Abbot and Doctor of the Church)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260228
+UID:/europe.england.ordinariate/20260228/
+URL:http://universalis.com/europe.england.ordinariate/20260228/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260228/today.htm
+SUMMARY:Saturday of the 1st week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260301
+UID:/europe.england.ordinariate/20260301/
+URL:http://universalis.com/europe.england.ordinariate/20260301/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260301/today.htm
+SUMMARY:2nd Sunday of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260302
+UID:/europe.england.ordinariate/20260302/
+URL:http://universalis.com/europe.england.ordinariate/20260302/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260302/today.htm
+SUMMARY:Monday of the 2nd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260303
+UID:/europe.england.ordinariate/20260303/
+URL:http://universalis.com/europe.england.ordinariate/20260303/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260303/today.htm
+SUMMARY:Tuesday of the 2nd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260304
+UID:/europe.england.ordinariate/20260304/
+URL:http://universalis.com/europe.england.ordinariate/20260304/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260304/today.htm
+SUMMARY:Wednesday of the 2nd week of Lent,\n (commemoration of Saint Casimir)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260305
+UID:/europe.england.ordinariate/20260305/
+URL:http://universalis.com/europe.england.ordinariate/20260305/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260305/today.htm
+SUMMARY:Thursday of the 2nd week of Lent,\n (commemoration of Saint Piran, Abbot)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260306
+UID:/europe.england.ordinariate/20260306/
+URL:http://universalis.com/europe.england.ordinariate/20260306/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260306/today.htm
+SUMMARY:Friday of the 2nd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260307
+UID:/europe.england.ordinariate/20260307/
+URL:http://universalis.com/europe.england.ordinariate/20260307/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260307/today.htm
+SUMMARY:Saturday of the 2nd week of Lent,\n (commemoration of Saints Perpetua and Felicity, Martyrs)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260308
+UID:/europe.england.ordinariate/20260308/
+URL:http://universalis.com/europe.england.ordinariate/20260308/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260308/today.htm
+SUMMARY:3rd Sunday of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260309
+UID:/europe.england.ordinariate/20260309/
+URL:http://universalis.com/europe.england.ordinariate/20260309/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260309/today.htm
+SUMMARY:Monday of the 3rd week of Lent,\n (commemoration of Saint Frances of Rome, Religious)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260310
+UID:/europe.england.ordinariate/20260310/
+URL:http://universalis.com/europe.england.ordinariate/20260310/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260310/today.htm
+SUMMARY:Tuesday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260311
+UID:/europe.england.ordinariate/20260311/
+URL:http://universalis.com/europe.england.ordinariate/20260311/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260311/today.htm
+SUMMARY:Wednesday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260312
+UID:/europe.england.ordinariate/20260312/
+URL:http://universalis.com/europe.england.ordinariate/20260312/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260312/today.htm
+SUMMARY:Thursday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260313
+UID:/europe.england.ordinariate/20260313/
+URL:http://universalis.com/europe.england.ordinariate/20260313/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260313/today.htm
+SUMMARY:Friday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260314
+UID:/europe.england.ordinariate/20260314/
+URL:http://universalis.com/europe.england.ordinariate/20260314/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260314/today.htm
+SUMMARY:Saturday of the 3rd week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260315
+UID:/europe.england.ordinariate/20260315/
+URL:http://universalis.com/europe.england.ordinariate/20260315/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260315/today.htm
+SUMMARY:4th Sunday of Lent (Laetare Sunday)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260316
+UID:/europe.england.ordinariate/20260316/
+URL:http://universalis.com/europe.england.ordinariate/20260316/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260316/today.htm
+SUMMARY:Monday of the 4th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260317
+UID:/europe.england.ordinariate/20260317/
+URL:http://universalis.com/europe.england.ordinariate/20260317/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260317/today.htm
+SUMMARY:Saint Patrick, Bishop, Missionary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260318
+UID:/europe.england.ordinariate/20260318/
+URL:http://universalis.com/europe.england.ordinariate/20260318/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260318/today.htm
+SUMMARY:Wednesday of the 4th week of Lent,\n (commemoration of Saint Cyril of Jerusalem, Bishop, Doctor)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260319
+UID:/europe.england.ordinariate/20260319/
+URL:http://universalis.com/europe.england.ordinariate/20260319/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260319/today.htm
+SUMMARY:Saint Joseph, husband of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260320
+UID:/europe.england.ordinariate/20260320/
+URL:http://universalis.com/europe.england.ordinariate/20260320/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260320/today.htm
+SUMMARY:Friday of the 4th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260321
+UID:/europe.england.ordinariate/20260321/
+URL:http://universalis.com/europe.england.ordinariate/20260321/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260321/today.htm
+SUMMARY:Saturday of the 4th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260322
+UID:/europe.england.ordinariate/20260322/
+URL:http://universalis.com/europe.england.ordinariate/20260322/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260322/today.htm
+SUMMARY:5th Sunday of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260323
+UID:/europe.england.ordinariate/20260323/
+URL:http://universalis.com/europe.england.ordinariate/20260323/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260323/today.htm
+SUMMARY:Monday of the 5th week of Lent,\n (commemoration of Saint Turibius of Mongrovejo, Bishop)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260324
+UID:/europe.england.ordinariate/20260324/
+URL:http://universalis.com/europe.england.ordinariate/20260324/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260324/today.htm
+SUMMARY:Tuesday of the 5th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260325
+UID:/europe.england.ordinariate/20260325/
+URL:http://universalis.com/europe.england.ordinariate/20260325/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260325/today.htm
+SUMMARY:The Annunciation of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260326
+UID:/europe.england.ordinariate/20260326/
+URL:http://universalis.com/europe.england.ordinariate/20260326/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260326/today.htm
+SUMMARY:Thursday of the 5th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260327
+UID:/europe.england.ordinariate/20260327/
+URL:http://universalis.com/europe.england.ordinariate/20260327/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260327/today.htm
+SUMMARY:Friday of the 5th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260328
+UID:/europe.england.ordinariate/20260328/
+URL:http://universalis.com/europe.england.ordinariate/20260328/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260328/today.htm
+SUMMARY:Saturday of the 5th week of Lent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260329
+UID:/europe.england.ordinariate/20260329/
+URL:http://universalis.com/europe.england.ordinariate/20260329/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260329/today.htm
+SUMMARY:Palm Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260330
+UID:/europe.england.ordinariate/20260330/
+URL:http://universalis.com/europe.england.ordinariate/20260330/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260330/today.htm
+SUMMARY:Monday of Holy Week
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260331
+UID:/europe.england.ordinariate/20260331/
+URL:http://universalis.com/europe.england.ordinariate/20260331/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260331/today.htm
+SUMMARY:Tuesday of Holy Week
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260401
+UID:/europe.england.ordinariate/20260401/
+URL:http://universalis.com/europe.england.ordinariate/20260401/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260401/today.htm
+SUMMARY:Wednesday of Holy Week
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260402
+UID:/europe.england.ordinariate/20260402/
+URL:http://universalis.com/europe.england.ordinariate/20260402/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260402/today.htm
+SUMMARY:Maundy Thursday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260403
+UID:/europe.england.ordinariate/20260403/
+URL:http://universalis.com/europe.england.ordinariate/20260403/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260403/today.htm
+SUMMARY:Good Friday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260404
+UID:/europe.england.ordinariate/20260404/
+URL:http://universalis.com/europe.england.ordinariate/20260404/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260404/today.htm
+SUMMARY:Holy Saturday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260405
+UID:/europe.england.ordinariate/20260405/
+URL:http://universalis.com/europe.england.ordinariate/20260405/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260405/today.htm
+SUMMARY:Easter Sunday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260406
+UID:/europe.england.ordinariate/20260406/
+URL:http://universalis.com/europe.england.ordinariate/20260406/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260406/today.htm
+SUMMARY:Easter Monday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260407
+UID:/europe.england.ordinariate/20260407/
+URL:http://universalis.com/europe.england.ordinariate/20260407/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260407/today.htm
+SUMMARY:Easter Tuesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260408
+UID:/europe.england.ordinariate/20260408/
+URL:http://universalis.com/europe.england.ordinariate/20260408/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260408/today.htm
+SUMMARY:Easter Wednesday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260409
+UID:/europe.england.ordinariate/20260409/
+URL:http://universalis.com/europe.england.ordinariate/20260409/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260409/today.htm
+SUMMARY:Easter Thursday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260410
+UID:/europe.england.ordinariate/20260410/
+URL:http://universalis.com/europe.england.ordinariate/20260410/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260410/today.htm
+SUMMARY:Easter Friday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260411
+UID:/europe.england.ordinariate/20260411/
+URL:http://universalis.com/europe.england.ordinariate/20260411/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260411/today.htm
+SUMMARY:Easter Saturday
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260412
+UID:/europe.england.ordinariate/20260412/
+URL:http://universalis.com/europe.england.ordinariate/20260412/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260412/today.htm
+SUMMARY:Divine Mercy Sunday (2nd Sunday of Easter)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260413
+UID:/europe.england.ordinariate/20260413/
+URL:http://universalis.com/europe.england.ordinariate/20260413/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260413/today.htm
+SUMMARY:Monday of the 2nd week of Eastertide,\n or Saint Martin I, Pope, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260414
+UID:/europe.england.ordinariate/20260414/
+URL:http://universalis.com/europe.england.ordinariate/20260414/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260414/today.htm
+SUMMARY:Tuesday of the 2nd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260415
+UID:/europe.england.ordinariate/20260415/
+URL:http://universalis.com/europe.england.ordinariate/20260415/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260415/today.htm
+SUMMARY:Wednesday of the 2nd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260416
+UID:/europe.england.ordinariate/20260416/
+URL:http://universalis.com/europe.england.ordinariate/20260416/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260416/today.htm
+SUMMARY:Thursday of the 2nd week of Eastertide,\n or Saint Magnus of Orkney, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260417
+UID:/europe.england.ordinariate/20260417/
+URL:http://universalis.com/europe.england.ordinariate/20260417/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260417/today.htm
+SUMMARY:Friday of the 2nd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260418
+UID:/europe.england.ordinariate/20260418/
+URL:http://universalis.com/europe.england.ordinariate/20260418/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260418/today.htm
+SUMMARY:Saturday of the 2nd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260419
+UID:/europe.england.ordinariate/20260419/
+URL:http://universalis.com/europe.england.ordinariate/20260419/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260419/today.htm
+SUMMARY:3rd Sunday of Easter
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260420
+UID:/europe.england.ordinariate/20260420/
+URL:http://universalis.com/europe.england.ordinariate/20260420/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260420/today.htm
+SUMMARY:Monday of the 3rd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260421
+UID:/europe.england.ordinariate/20260421/
+URL:http://universalis.com/europe.england.ordinariate/20260421/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260421/today.htm
+SUMMARY:Tuesday of the 3rd week of Eastertide,\n or Saint Anselm of Canterbury, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260422
+UID:/europe.england.ordinariate/20260422/
+URL:http://universalis.com/europe.england.ordinariate/20260422/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260422/today.htm
+SUMMARY:Wednesday of the 3rd week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260423
+UID:/europe.england.ordinariate/20260423/
+URL:http://universalis.com/europe.england.ordinariate/20260423/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260423/today.htm
+SUMMARY:Saint George, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260424
+UID:/europe.england.ordinariate/20260424/
+URL:http://universalis.com/europe.england.ordinariate/20260424/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260424/today.htm
+SUMMARY:Friday of the 3rd week of Eastertide,\n or Saint Fidelis of Sigmaringen, Priest, Martyr,\n or Saint Mellitus, Bishop of London,\n or Saint Adalbert of Prague, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260425
+UID:/europe.england.ordinariate/20260425/
+URL:http://universalis.com/europe.england.ordinariate/20260425/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260425/today.htm
+SUMMARY:Saint Mark, Evangelist
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260426
+UID:/europe.england.ordinariate/20260426/
+URL:http://universalis.com/europe.england.ordinariate/20260426/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260426/today.htm
+SUMMARY:4th Sunday of Easter
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260427
+UID:/europe.england.ordinariate/20260427/
+URL:http://universalis.com/europe.england.ordinariate/20260427/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260427/today.htm
+SUMMARY:Monday of the 4th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260428
+UID:/europe.england.ordinariate/20260428/
+URL:http://universalis.com/europe.england.ordinariate/20260428/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260428/today.htm
+SUMMARY:Tuesday of the 4th week of Eastertide,\n or Saint Peter Chanel, Priest, Martyr,\n or Saint Louis Marie Grignion de Montfort, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260429
+UID:/europe.england.ordinariate/20260429/
+URL:http://universalis.com/europe.england.ordinariate/20260429/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260429/today.htm
+SUMMARY:Saint Catherine of Siena, Virgin, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260430
+UID:/europe.england.ordinariate/20260430/
+URL:http://universalis.com/europe.england.ordinariate/20260430/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260430/today.htm
+SUMMARY:Thursday of the 4th week of Eastertide,\n or Saint Pius V, Pope
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260501
+UID:/europe.england.ordinariate/20260501/
+URL:http://universalis.com/europe.england.ordinariate/20260501/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260501/today.htm
+SUMMARY:Friday of the 4th week of Eastertide,\n or Saint Joseph the Worker
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260502
+UID:/europe.england.ordinariate/20260502/
+URL:http://universalis.com/europe.england.ordinariate/20260502/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260502/today.htm
+SUMMARY:Saint Athanasius, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260503
+UID:/europe.england.ordinariate/20260503/
+URL:http://universalis.com/europe.england.ordinariate/20260503/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260503/today.htm
+SUMMARY:5th Sunday of Easter
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260504
+UID:/europe.england.ordinariate/20260504/
+URL:http://universalis.com/europe.england.ordinariate/20260504/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260504/today.htm
+SUMMARY:The English Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260505
+UID:/europe.england.ordinariate/20260505/
+URL:http://universalis.com/europe.england.ordinariate/20260505/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260505/today.htm
+SUMMARY:Tuesday of the 5th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260506
+UID:/europe.england.ordinariate/20260506/
+URL:http://universalis.com/europe.england.ordinariate/20260506/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260506/today.htm
+SUMMARY:Wednesday of the 5th week of Eastertide,\n or Saint John the Apostle in Eastertide (St John ad Portam Latinam)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260507
+UID:/europe.england.ordinariate/20260507/
+URL:http://universalis.com/europe.england.ordinariate/20260507/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260507/today.htm
+SUMMARY:Thursday of the 5th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260508
+UID:/europe.england.ordinariate/20260508/
+URL:http://universalis.com/europe.england.ordinariate/20260508/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260508/today.htm
+SUMMARY:Friday of the 5th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260509
+UID:/europe.england.ordinariate/20260509/
+URL:http://universalis.com/europe.england.ordinariate/20260509/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260509/today.htm
+SUMMARY:Saturday of the 5th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260510
+UID:/europe.england.ordinariate/20260510/
+URL:http://universalis.com/europe.england.ordinariate/20260510/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260510/today.htm
+SUMMARY:6th Sunday of Easter
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260511
+UID:/europe.england.ordinariate/20260511/
+URL:http://universalis.com/europe.england.ordinariate/20260511/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260511/today.htm
+SUMMARY:Monday of the 6th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260512
+UID:/europe.england.ordinariate/20260512/
+URL:http://universalis.com/europe.england.ordinariate/20260512/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260512/today.htm
+SUMMARY:Tuesday of the 6th week of Eastertide,\n or Saints Nereus and Achilleus, Martyrs,\n or Saint Pancras, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260513
+UID:/europe.england.ordinariate/20260513/
+URL:http://universalis.com/europe.england.ordinariate/20260513/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260513/today.htm
+SUMMARY:Wednesday of the 6th week of Eastertide,\n or Our Lady of Fátima
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260514
+UID:/europe.england.ordinariate/20260514/
+URL:http://universalis.com/europe.england.ordinariate/20260514/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260514/today.htm
+SUMMARY:The Ascension of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260515
+UID:/europe.england.ordinariate/20260515/
+URL:http://universalis.com/europe.england.ordinariate/20260515/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260515/today.htm
+SUMMARY:Friday of the 6th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260516
+UID:/europe.england.ordinariate/20260516/
+URL:http://universalis.com/europe.england.ordinariate/20260516/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260516/today.htm
+SUMMARY:Saturday of the 6th week of Eastertide
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260517
+UID:/europe.england.ordinariate/20260517/
+URL:http://universalis.com/europe.england.ordinariate/20260517/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260517/today.htm
+SUMMARY:7th Sunday of Easter
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260518
+UID:/europe.england.ordinariate/20260518/
+URL:http://universalis.com/europe.england.ordinariate/20260518/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260518/today.htm
+SUMMARY:Monday of the 7th week of Eastertide,\n or Saint John I, Pope, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260519
+UID:/europe.england.ordinariate/20260519/
+URL:http://universalis.com/europe.england.ordinariate/20260519/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260519/today.htm
+SUMMARY:Tuesday of the 7th week of Eastertide,\n or St Dunstan, Archbishop of Canterbury
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260520
+UID:/europe.england.ordinariate/20260520/
+URL:http://universalis.com/europe.england.ordinariate/20260520/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260520/today.htm
+SUMMARY:Wednesday of the 7th week of Eastertide,\n or Saint Bernardine of Siena, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260521
+UID:/europe.england.ordinariate/20260521/
+URL:http://universalis.com/europe.england.ordinariate/20260521/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260521/today.htm
+SUMMARY:Thursday of the 7th week of Eastertide,\n or Saint Christopher Magallanes and his Companions, Martyrs,\n or Saint Godric of Finchale, Religious,\n or Saint Helena
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260522
+UID:/europe.england.ordinariate/20260522/
+URL:http://universalis.com/europe.england.ordinariate/20260522/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260522/today.htm
+SUMMARY:Friday of the 7th week of Eastertide,\n or Saint Rita of Cascia
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260523
+UID:/europe.england.ordinariate/20260523/
+URL:http://universalis.com/europe.england.ordinariate/20260523/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260523/today.htm
+SUMMARY:Saturday of the 7th week of Eastertide,\n or Saint Petroc, Abbot
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260524
+UID:/europe.england.ordinariate/20260524/
+URL:http://universalis.com/europe.england.ordinariate/20260524/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260524/today.htm
+SUMMARY:Pentecost (Whit-Sunday)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260525
+UID:/europe.england.ordinariate/20260525/
+URL:http://universalis.com/europe.england.ordinariate/20260525/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260525/today.htm
+SUMMARY:Mary, Mother of the Church
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260526
+UID:/europe.england.ordinariate/20260526/
+URL:http://universalis.com/europe.england.ordinariate/20260526/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260526/today.htm
+SUMMARY:Saint Philip Neri, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260527
+UID:/europe.england.ordinariate/20260527/
+URL:http://universalis.com/europe.england.ordinariate/20260527/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260527/today.htm
+SUMMARY:Saint Augustine of Canterbury, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260528
+UID:/europe.england.ordinariate/20260528/
+URL:http://universalis.com/europe.england.ordinariate/20260528/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260528/today.htm
+SUMMARY:Our Lord Jesus Christ the Eternal High Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260529
+UID:/europe.england.ordinariate/20260529/
+URL:http://universalis.com/europe.england.ordinariate/20260529/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260529/today.htm
+SUMMARY:Friday after Pentecost,\n or Saint Paul VI, Pope
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260530
+UID:/europe.england.ordinariate/20260530/
+URL:http://universalis.com/europe.england.ordinariate/20260530/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260530/today.htm
+SUMMARY:Saturday after Pentecost,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260531
+UID:/europe.england.ordinariate/20260531/
+URL:http://universalis.com/europe.england.ordinariate/20260531/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260531/today.htm
+SUMMARY:The Most Holy Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260601
+UID:/europe.england.ordinariate/20260601/
+URL:http://universalis.com/europe.england.ordinariate/20260601/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260601/today.htm
+SUMMARY:Saint Justin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260602
+UID:/europe.england.ordinariate/20260602/
+URL:http://universalis.com/europe.england.ordinariate/20260602/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260602/today.htm
+SUMMARY:Tuesday after the Most Holy Trinity,\n or Saints Marcellinus and Peter, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260603
+UID:/europe.england.ordinariate/20260603/
+URL:http://universalis.com/europe.england.ordinariate/20260603/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260603/today.htm
+SUMMARY:Saints Charles Lwanga and his Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260604
+UID:/europe.england.ordinariate/20260604/
+URL:http://universalis.com/europe.england.ordinariate/20260604/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260604/today.htm
+SUMMARY:Thursday after the Most Holy Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260605
+UID:/europe.england.ordinariate/20260605/
+URL:http://universalis.com/europe.england.ordinariate/20260605/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260605/today.htm
+SUMMARY:Saint Boniface, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260606
+UID:/europe.england.ordinariate/20260606/
+URL:http://universalis.com/europe.england.ordinariate/20260606/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260606/today.htm
+SUMMARY:Saturday after the Most Holy Trinity,\n or Saint Norbert, Bishop,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260607
+UID:/europe.england.ordinariate/20260607/
+URL:http://universalis.com/europe.england.ordinariate/20260607/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260607/today.htm
+SUMMARY:The Most Holy Body and Blood of Christ
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260608
+UID:/europe.england.ordinariate/20260608/
+URL:http://universalis.com/europe.england.ordinariate/20260608/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260608/today.htm
+SUMMARY:Monday after the First Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260609
+UID:/europe.england.ordinariate/20260609/
+URL:http://universalis.com/europe.england.ordinariate/20260609/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260609/today.htm
+SUMMARY:Tuesday after the First Sunday after Trinity,\n or Saint Ephraem, Deacon, Doctor,\n or Saint Columba (Colum Cille), Abbot
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260610
+UID:/europe.england.ordinariate/20260610/
+URL:http://universalis.com/europe.england.ordinariate/20260610/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260610/today.htm
+SUMMARY:Wednesday after the First Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260611
+UID:/europe.england.ordinariate/20260611/
+URL:http://universalis.com/europe.england.ordinariate/20260611/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260611/today.htm
+SUMMARY:Saint Barnabas, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260612
+UID:/europe.england.ordinariate/20260612/
+URL:http://universalis.com/europe.england.ordinariate/20260612/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260612/today.htm
+SUMMARY:The Most Sacred Heart of Jesus
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260613
+UID:/europe.england.ordinariate/20260613/
+URL:http://universalis.com/europe.england.ordinariate/20260613/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260613/today.htm
+SUMMARY:Saint Antony of Padua, Priest, Doctor,\n or The Immaculate Heart of Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260614
+UID:/europe.england.ordinariate/20260614/
+URL:http://universalis.com/europe.england.ordinariate/20260614/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260614/today.htm
+SUMMARY:Second Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260615
+UID:/europe.england.ordinariate/20260615/
+URL:http://universalis.com/europe.england.ordinariate/20260615/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260615/today.htm
+SUMMARY:Monday after the Second Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260616
+UID:/europe.england.ordinariate/20260616/
+URL:http://universalis.com/europe.england.ordinariate/20260616/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260616/today.htm
+SUMMARY:Tuesday after the Second Sunday after Trinity,\n or Saint Richard of Chichester, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260617
+UID:/europe.england.ordinariate/20260617/
+URL:http://universalis.com/europe.england.ordinariate/20260617/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260617/today.htm
+SUMMARY:Wednesday after the Second Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260618
+UID:/europe.england.ordinariate/20260618/
+URL:http://universalis.com/europe.england.ordinariate/20260618/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260618/today.htm
+SUMMARY:Thursday after the Second Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260619
+UID:/europe.england.ordinariate/20260619/
+URL:http://universalis.com/europe.england.ordinariate/20260619/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260619/today.htm
+SUMMARY:Friday after the Second Sunday after Trinity,\n or Saint Romuald, Abbot
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260620
+UID:/europe.england.ordinariate/20260620/
+URL:http://universalis.com/europe.england.ordinariate/20260620/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260620/today.htm
+SUMMARY:Saturday after the Second Sunday after Trinity,\n or Saint Alban, first martyr of England,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260621
+UID:/europe.england.ordinariate/20260621/
+URL:http://universalis.com/europe.england.ordinariate/20260621/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260621/today.htm
+SUMMARY:Third Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260622
+UID:/europe.england.ordinariate/20260622/
+URL:http://universalis.com/europe.england.ordinariate/20260622/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260622/today.htm
+SUMMARY:Saints John Fisher, Bishop, and Thomas More, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260623
+UID:/europe.england.ordinariate/20260623/
+URL:http://universalis.com/europe.england.ordinariate/20260623/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260623/today.htm
+SUMMARY:Tuesday after the Third Sunday after Trinity,\n or Saint Etheldreda (or Audrey), Abbess
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260624
+UID:/europe.england.ordinariate/20260624/
+URL:http://universalis.com/europe.england.ordinariate/20260624/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260624/today.htm
+SUMMARY:The Nativity of Saint John the Baptist
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260625
+UID:/europe.england.ordinariate/20260625/
+URL:http://universalis.com/europe.england.ordinariate/20260625/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260625/today.htm
+SUMMARY:Thursday after the Third Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260626
+UID:/europe.england.ordinariate/20260626/
+URL:http://universalis.com/europe.england.ordinariate/20260626/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260626/today.htm
+SUMMARY:Friday after the Third Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260627
+UID:/europe.england.ordinariate/20260627/
+URL:http://universalis.com/europe.england.ordinariate/20260627/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260627/today.htm
+SUMMARY:Saturday after the Third Sunday after Trinity,\n or Saint Cyril of Alexandria, Bishop, Doctor,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260628
+UID:/europe.england.ordinariate/20260628/
+URL:http://universalis.com/europe.england.ordinariate/20260628/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260628/today.htm
+SUMMARY:Saints Peter and Paul, Apostles
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260629
+UID:/europe.england.ordinariate/20260629/
+URL:http://universalis.com/europe.england.ordinariate/20260629/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260629/today.htm
+SUMMARY:Monday after the Fourth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260630
+UID:/europe.england.ordinariate/20260630/
+URL:http://universalis.com/europe.england.ordinariate/20260630/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260630/today.htm
+SUMMARY:Tuesday after the Fourth Sunday after Trinity,\n or The First Martyrs of the See of Rome
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260701
+UID:/europe.england.ordinariate/20260701/
+URL:http://universalis.com/europe.england.ordinariate/20260701/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260701/today.htm
+SUMMARY:Wednesday after the Fourth Sunday after Trinity,\n or Saint Oliver Plunket, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260702
+UID:/europe.england.ordinariate/20260702/
+URL:http://universalis.com/europe.england.ordinariate/20260702/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260702/today.htm
+SUMMARY:Thursday after the Fourth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260703
+UID:/europe.england.ordinariate/20260703/
+URL:http://universalis.com/europe.england.ordinariate/20260703/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260703/today.htm
+SUMMARY:Saint Thomas, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260704
+UID:/europe.england.ordinariate/20260704/
+URL:http://universalis.com/europe.england.ordinariate/20260704/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260704/today.htm
+SUMMARY:Saturday after the Fourth Sunday after Trinity,\n or Saint Elizabeth of Portugal,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260705
+UID:/europe.england.ordinariate/20260705/
+URL:http://universalis.com/europe.england.ordinariate/20260705/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260705/today.htm
+SUMMARY:Fifth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260706
+UID:/europe.england.ordinariate/20260706/
+URL:http://universalis.com/europe.england.ordinariate/20260706/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260706/today.htm
+SUMMARY:Monday after the Fifth Sunday after Trinity,\n or Saint Maria Goretti, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260707
+UID:/europe.england.ordinariate/20260707/
+URL:http://universalis.com/europe.england.ordinariate/20260707/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260707/today.htm
+SUMMARY:Tuesday after the Fifth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260708
+UID:/europe.england.ordinariate/20260708/
+URL:http://universalis.com/europe.england.ordinariate/20260708/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260708/today.htm
+SUMMARY:Wednesday after the Fifth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260709
+UID:/europe.england.ordinariate/20260709/
+URL:http://universalis.com/europe.england.ordinariate/20260709/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260709/today.htm
+SUMMARY:Thursday after the Fifth Sunday after Trinity,\n or Saint Augustine Zhao Rong and his Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260710
+UID:/europe.england.ordinariate/20260710/
+URL:http://universalis.com/europe.england.ordinariate/20260710/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260710/today.htm
+SUMMARY:Friday after the Fifth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260711
+UID:/europe.england.ordinariate/20260711/
+URL:http://universalis.com/europe.england.ordinariate/20260711/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260711/today.htm
+SUMMARY:Saint Benedict, Abbot, Co-Patron of Europe
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260712
+UID:/europe.england.ordinariate/20260712/
+URL:http://universalis.com/europe.england.ordinariate/20260712/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260712/today.htm
+SUMMARY:Sixth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260713
+UID:/europe.england.ordinariate/20260713/
+URL:http://universalis.com/europe.england.ordinariate/20260713/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260713/today.htm
+SUMMARY:Monday after the Sixth Sunday after Trinity,\n or Saint Henry
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260714
+UID:/europe.england.ordinariate/20260714/
+URL:http://universalis.com/europe.england.ordinariate/20260714/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260714/today.htm
+SUMMARY:Tuesday after the Sixth Sunday after Trinity,\n or Saint Camillus of Lellis, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260715
+UID:/europe.england.ordinariate/20260715/
+URL:http://universalis.com/europe.england.ordinariate/20260715/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260715/today.htm
+SUMMARY:Wednesday after the Sixth Sunday after Trinity,\n or Saint Bonaventure, Bishop, Doctor,\n or Saint Swithun, Bishop,\n or Saint Osmund, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260716
+UID:/europe.england.ordinariate/20260716/
+URL:http://universalis.com/europe.england.ordinariate/20260716/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260716/today.htm
+SUMMARY:Thursday after the Sixth Sunday after Trinity,\n or Our Lady of Mount Carmel
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260717
+UID:/europe.england.ordinariate/20260717/
+URL:http://universalis.com/europe.england.ordinariate/20260717/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260717/today.htm
+SUMMARY:Friday after the Sixth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260718
+UID:/europe.england.ordinariate/20260718/
+URL:http://universalis.com/europe.england.ordinariate/20260718/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260718/today.htm
+SUMMARY:Saturday after the Sixth Sunday after Trinity,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260719
+UID:/europe.england.ordinariate/20260719/
+URL:http://universalis.com/europe.england.ordinariate/20260719/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260719/today.htm
+SUMMARY:Seventh Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260720
+UID:/europe.england.ordinariate/20260720/
+URL:http://universalis.com/europe.england.ordinariate/20260720/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260720/today.htm
+SUMMARY:Monday after the Seventh Sunday after Trinity,\n or Saint Apollinaris, Bishop, Martyr,\n or Saint Margaret of Antioch, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260721
+UID:/europe.england.ordinariate/20260721/
+URL:http://universalis.com/europe.england.ordinariate/20260721/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260721/today.htm
+SUMMARY:Tuesday after the Seventh Sunday after Trinity,\n or Saint Laurence of Brindisi, Priest, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260722
+UID:/europe.england.ordinariate/20260722/
+URL:http://universalis.com/europe.england.ordinariate/20260722/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260722/today.htm
+SUMMARY:Saint Mary Magdalen
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260723
+UID:/europe.england.ordinariate/20260723/
+URL:http://universalis.com/europe.england.ordinariate/20260723/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260723/today.htm
+SUMMARY:Saint Bridget of Sweden, Patroness of Europe
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260724
+UID:/europe.england.ordinariate/20260724/
+URL:http://universalis.com/europe.england.ordinariate/20260724/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260724/today.htm
+SUMMARY:Friday after the Seventh Sunday after Trinity,\n or Saint Charbel Makhlouf, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260725
+UID:/europe.england.ordinariate/20260725/
+URL:http://universalis.com/europe.england.ordinariate/20260725/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260725/today.htm
+SUMMARY:Saint James, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260726
+UID:/europe.england.ordinariate/20260726/
+URL:http://universalis.com/europe.england.ordinariate/20260726/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260726/today.htm
+SUMMARY:Eighth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260727
+UID:/europe.england.ordinariate/20260727/
+URL:http://universalis.com/europe.england.ordinariate/20260727/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260727/today.htm
+SUMMARY:Monday after the Eighth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260728
+UID:/europe.england.ordinariate/20260728/
+URL:http://universalis.com/europe.england.ordinariate/20260728/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260728/today.htm
+SUMMARY:Tuesday after the Eighth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260729
+UID:/europe.england.ordinariate/20260729/
+URL:http://universalis.com/europe.england.ordinariate/20260729/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260729/today.htm
+SUMMARY:Saints Martha, Mary and Lazarus
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260730
+UID:/europe.england.ordinariate/20260730/
+URL:http://universalis.com/europe.england.ordinariate/20260730/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260730/today.htm
+SUMMARY:Thursday after the Eighth Sunday after Trinity,\n or Saint Peter Chrysologus, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260731
+UID:/europe.england.ordinariate/20260731/
+URL:http://universalis.com/europe.england.ordinariate/20260731/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260731/today.htm
+SUMMARY:Saint Ignatius Loyola, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260801
+UID:/europe.england.ordinariate/20260801/
+URL:http://universalis.com/europe.england.ordinariate/20260801/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260801/today.htm
+SUMMARY:Saint Alphonsus Mary de' Liguori, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260802
+UID:/europe.england.ordinariate/20260802/
+URL:http://universalis.com/europe.england.ordinariate/20260802/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260802/today.htm
+SUMMARY:Ninth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260803
+UID:/europe.england.ordinariate/20260803/
+URL:http://universalis.com/europe.england.ordinariate/20260803/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260803/today.htm
+SUMMARY:Monday after the Ninth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260804
+UID:/europe.england.ordinariate/20260804/
+URL:http://universalis.com/europe.england.ordinariate/20260804/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260804/today.htm
+SUMMARY:Saint John Mary Vianney, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260805
+UID:/europe.england.ordinariate/20260805/
+URL:http://universalis.com/europe.england.ordinariate/20260805/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260805/today.htm
+SUMMARY:Wednesday after the Ninth Sunday after Trinity,\n or Dedication of the Basilica of Saint Mary Major,\n or Saint Oswald, King and Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260806
+UID:/europe.england.ordinariate/20260806/
+URL:http://universalis.com/europe.england.ordinariate/20260806/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260806/today.htm
+SUMMARY:The Transfiguration of the Lord
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260807
+UID:/europe.england.ordinariate/20260807/
+URL:http://universalis.com/europe.england.ordinariate/20260807/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260807/today.htm
+SUMMARY:Friday after the Ninth Sunday after Trinity,\n or Saints Sixtus II, Pope, and his Companions, Martyrs,\n or Saint Cajetan, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260808
+UID:/europe.england.ordinariate/20260808/
+URL:http://universalis.com/europe.england.ordinariate/20260808/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260808/today.htm
+SUMMARY:Saint Dominic, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260809
+UID:/europe.england.ordinariate/20260809/
+URL:http://universalis.com/europe.england.ordinariate/20260809/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260809/today.htm
+SUMMARY:Tenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260810
+UID:/europe.england.ordinariate/20260810/
+URL:http://universalis.com/europe.england.ordinariate/20260810/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260810/today.htm
+SUMMARY:Saint Laurence, Deacon, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260811
+UID:/europe.england.ordinariate/20260811/
+URL:http://universalis.com/europe.england.ordinariate/20260811/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260811/today.htm
+SUMMARY:Saint Clare, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260812
+UID:/europe.england.ordinariate/20260812/
+URL:http://universalis.com/europe.england.ordinariate/20260812/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260812/today.htm
+SUMMARY:Wednesday after the Tenth Sunday after Trinity,\n or Saint Jane Frances de Chantal, Religious
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260813
+UID:/europe.england.ordinariate/20260813/
+URL:http://universalis.com/europe.england.ordinariate/20260813/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260813/today.htm
+SUMMARY:Thursday after the Tenth Sunday after Trinity,\n or Saints Pontian, Pope, and Hippolytus, Priest, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260814
+UID:/europe.england.ordinariate/20260814/
+URL:http://universalis.com/europe.england.ordinariate/20260814/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260814/today.htm
+SUMMARY:Saint Maximilian Kolbe, Priest, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260815
+UID:/europe.england.ordinariate/20260815/
+URL:http://universalis.com/europe.england.ordinariate/20260815/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260815/today.htm
+SUMMARY:Saturday after the Tenth Sunday after Trinity,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260816
+UID:/europe.england.ordinariate/20260816/
+URL:http://universalis.com/europe.england.ordinariate/20260816/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260816/today.htm
+SUMMARY:The Assumption of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260817
+UID:/europe.england.ordinariate/20260817/
+URL:http://universalis.com/europe.england.ordinariate/20260817/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260817/today.htm
+SUMMARY:Monday after the Eleventh Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260818
+UID:/europe.england.ordinariate/20260818/
+URL:http://universalis.com/europe.england.ordinariate/20260818/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260818/today.htm
+SUMMARY:Tuesday after the Eleventh Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260819
+UID:/europe.england.ordinariate/20260819/
+URL:http://universalis.com/europe.england.ordinariate/20260819/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260819/today.htm
+SUMMARY:Wednesday after the Eleventh Sunday after Trinity,\n or Saint John Eudes, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260820
+UID:/europe.england.ordinariate/20260820/
+URL:http://universalis.com/europe.england.ordinariate/20260820/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260820/today.htm
+SUMMARY:Saint Bernard, Abbot, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260821
+UID:/europe.england.ordinariate/20260821/
+URL:http://universalis.com/europe.england.ordinariate/20260821/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260821/today.htm
+SUMMARY:Saint Pius X, Pope
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260822
+UID:/europe.england.ordinariate/20260822/
+URL:http://universalis.com/europe.england.ordinariate/20260822/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260822/today.htm
+SUMMARY:Our Lady, Mother and Queen
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260823
+UID:/europe.england.ordinariate/20260823/
+URL:http://universalis.com/europe.england.ordinariate/20260823/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260823/today.htm
+SUMMARY:Twelfth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260824
+UID:/europe.england.ordinariate/20260824/
+URL:http://universalis.com/europe.england.ordinariate/20260824/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260824/today.htm
+SUMMARY:Saint Bartholomew, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260825
+UID:/europe.england.ordinariate/20260825/
+URL:http://universalis.com/europe.england.ordinariate/20260825/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260825/today.htm
+SUMMARY:Tuesday after the Twelfth Sunday after Trinity,\n or Saint Louis,\n or Saint Joseph of Calasanz, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260826
+UID:/europe.england.ordinariate/20260826/
+URL:http://universalis.com/europe.england.ordinariate/20260826/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260826/today.htm
+SUMMARY:Wednesday after the Twelfth Sunday after Trinity,\n or Blessed Dominic of the Mother of God (Dominic Barberi), Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260827
+UID:/europe.england.ordinariate/20260827/
+URL:http://universalis.com/europe.england.ordinariate/20260827/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260827/today.htm
+SUMMARY:Saint Monica
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260828
+UID:/europe.england.ordinariate/20260828/
+URL:http://universalis.com/europe.england.ordinariate/20260828/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260828/today.htm
+SUMMARY:Saint Augustine, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260829
+UID:/europe.england.ordinariate/20260829/
+URL:http://universalis.com/europe.england.ordinariate/20260829/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260829/today.htm
+SUMMARY:The Beheading of Saint John the Baptist
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260830
+UID:/europe.england.ordinariate/20260830/
+URL:http://universalis.com/europe.england.ordinariate/20260830/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260830/today.htm
+SUMMARY:Thirteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260831
+UID:/europe.england.ordinariate/20260831/
+URL:http://universalis.com/europe.england.ordinariate/20260831/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260831/today.htm
+SUMMARY:Monday after the Thirteenth Sunday after Trinity,\n or Saint Aidan, Bishop and Missionary, and the saints of Lindisfarne
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260901
+UID:/europe.england.ordinariate/20260901/
+URL:http://universalis.com/europe.england.ordinariate/20260901/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260901/today.htm
+SUMMARY:Tuesday after the Thirteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260902
+UID:/europe.england.ordinariate/20260902/
+URL:http://universalis.com/europe.england.ordinariate/20260902/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260902/today.htm
+SUMMARY:Wednesday after the Thirteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260903
+UID:/europe.england.ordinariate/20260903/
+URL:http://universalis.com/europe.england.ordinariate/20260903/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260903/today.htm
+SUMMARY:Saint Gregory the Great, Pope, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260904
+UID:/europe.england.ordinariate/20260904/
+URL:http://universalis.com/europe.england.ordinariate/20260904/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260904/today.htm
+SUMMARY:Friday after the Thirteenth Sunday after Trinity,\n or Saint Cuthbert, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260905
+UID:/europe.england.ordinariate/20260905/
+URL:http://universalis.com/europe.england.ordinariate/20260905/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260905/today.htm
+SUMMARY:Saturday after the Thirteenth Sunday after Trinity,\n or Saint Teresa of Calcutta (Mother Teresa),\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260906
+UID:/europe.england.ordinariate/20260906/
+URL:http://universalis.com/europe.england.ordinariate/20260906/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260906/today.htm
+SUMMARY:Fourteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260907
+UID:/europe.england.ordinariate/20260907/
+URL:http://universalis.com/europe.england.ordinariate/20260907/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260907/today.htm
+SUMMARY:Monday after the Fourteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260908
+UID:/europe.england.ordinariate/20260908/
+URL:http://universalis.com/europe.england.ordinariate/20260908/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260908/today.htm
+SUMMARY:The Birthday of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260909
+UID:/europe.england.ordinariate/20260909/
+URL:http://universalis.com/europe.england.ordinariate/20260909/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260909/today.htm
+SUMMARY:Wednesday after the Fourteenth Sunday after Trinity,\n or Saint Peter Claver
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260910
+UID:/europe.england.ordinariate/20260910/
+URL:http://universalis.com/europe.england.ordinariate/20260910/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260910/today.htm
+SUMMARY:Thursday after the Fourteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260911
+UID:/europe.england.ordinariate/20260911/
+URL:http://universalis.com/europe.england.ordinariate/20260911/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260911/today.htm
+SUMMARY:Friday after the Fourteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260912
+UID:/europe.england.ordinariate/20260912/
+URL:http://universalis.com/europe.england.ordinariate/20260912/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260912/today.htm
+SUMMARY:Saturday after the Fourteenth Sunday after Trinity,\n or The Most Holy Name of Mary,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260913
+UID:/europe.england.ordinariate/20260913/
+URL:http://universalis.com/europe.england.ordinariate/20260913/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260913/today.htm
+SUMMARY:Fifteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260914
+UID:/europe.england.ordinariate/20260914/
+URL:http://universalis.com/europe.england.ordinariate/20260914/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260914/today.htm
+SUMMARY:The Exaltation of the Holy Cross
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260915
+UID:/europe.england.ordinariate/20260915/
+URL:http://universalis.com/europe.england.ordinariate/20260915/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260915/today.htm
+SUMMARY:Our Lady of Sorrows
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260916
+UID:/europe.england.ordinariate/20260916/
+URL:http://universalis.com/europe.england.ordinariate/20260916/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260916/today.htm
+SUMMARY:Saints Cornelius, Pope, and Cyprian, Bishop, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260917
+UID:/europe.england.ordinariate/20260917/
+URL:http://universalis.com/europe.england.ordinariate/20260917/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260917/today.htm
+SUMMARY:Thursday after the Fifteenth Sunday after Trinity,\n or Saint Robert Bellarmine, Bishop, Doctor,\n or Saint Ninian, Bishop,\n or Saint Edith of Kemsing,\n or Saint Hildegard of Bingen, Virgin, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260918
+UID:/europe.england.ordinariate/20260918/
+URL:http://universalis.com/europe.england.ordinariate/20260918/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260918/today.htm
+SUMMARY:Friday after the Fifteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260919
+UID:/europe.england.ordinariate/20260919/
+URL:http://universalis.com/europe.england.ordinariate/20260919/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260919/today.htm
+SUMMARY:Saturday after the Fifteenth Sunday after Trinity,\n or Saint Januarius, Bishop, Martyr,\n or Saint Theodore of Tarsus, Archbishop of Canterbury,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260920
+UID:/europe.england.ordinariate/20260920/
+URL:http://universalis.com/europe.england.ordinariate/20260920/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260920/today.htm
+SUMMARY:Sixteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260921
+UID:/europe.england.ordinariate/20260921/
+URL:http://universalis.com/europe.england.ordinariate/20260921/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260921/today.htm
+SUMMARY:Saint Matthew, Apostle, Evangelist
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260922
+UID:/europe.england.ordinariate/20260922/
+URL:http://universalis.com/europe.england.ordinariate/20260922/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260922/today.htm
+SUMMARY:Tuesday after the Sixteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260923
+UID:/europe.england.ordinariate/20260923/
+URL:http://universalis.com/europe.england.ordinariate/20260923/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260923/today.htm
+SUMMARY:Saint Pius of Pietrelcina (Padre Pio), Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260924
+UID:/europe.england.ordinariate/20260924/
+URL:http://universalis.com/europe.england.ordinariate/20260924/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260924/today.htm
+SUMMARY:Our Lady of Walsingham
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260925
+UID:/europe.england.ordinariate/20260925/
+URL:http://universalis.com/europe.england.ordinariate/20260925/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260925/today.htm
+SUMMARY:Friday after the Sixteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260926
+UID:/europe.england.ordinariate/20260926/
+URL:http://universalis.com/europe.england.ordinariate/20260926/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260926/today.htm
+SUMMARY:Saturday after the Sixteenth Sunday after Trinity,\n or Saints Cosmas and Damian, Martyrs,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260927
+UID:/europe.england.ordinariate/20260927/
+URL:http://universalis.com/europe.england.ordinariate/20260927/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260927/today.htm
+SUMMARY:Seventeenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260928
+UID:/europe.england.ordinariate/20260928/
+URL:http://universalis.com/europe.england.ordinariate/20260928/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260928/today.htm
+SUMMARY:Monday after the Seventeenth Sunday after Trinity,\n or Saint Wenceslaus, Martyr,\n or Saints Laurence Ruiz and his Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260929
+UID:/europe.england.ordinariate/20260929/
+URL:http://universalis.com/europe.england.ordinariate/20260929/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260929/today.htm
+SUMMARY:Saints Michael, Gabriel and Raphael, Archangels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20260930
+UID:/europe.england.ordinariate/20260930/
+URL:http://universalis.com/europe.england.ordinariate/20260930/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20260930/today.htm
+SUMMARY:Saint Jerome, Priest, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261001
+UID:/europe.england.ordinariate/20261001/
+URL:http://universalis.com/europe.england.ordinariate/20261001/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261001/today.htm
+SUMMARY:Saint Thérèse of the Child Jesus, Virgin, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261002
+UID:/europe.england.ordinariate/20261002/
+URL:http://universalis.com/europe.england.ordinariate/20261002/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261002/today.htm
+SUMMARY:The Holy Guardian Angels
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261003
+UID:/europe.england.ordinariate/20261003/
+URL:http://universalis.com/europe.england.ordinariate/20261003/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261003/today.htm
+SUMMARY:Saturday after the Seventeenth Sunday after Trinity,\n or Saint Thomas of Hereford, Bishop,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261004
+UID:/europe.england.ordinariate/20261004/
+URL:http://universalis.com/europe.england.ordinariate/20261004/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261004/today.htm
+SUMMARY:Eighteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261005
+UID:/europe.england.ordinariate/20261005/
+URL:http://universalis.com/europe.england.ordinariate/20261005/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261005/today.htm
+SUMMARY:Monday after the Eighteenth Sunday after Trinity,\n or Saint Faustina Kowalska, Religious
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261006
+UID:/europe.england.ordinariate/20261006/
+URL:http://universalis.com/europe.england.ordinariate/20261006/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261006/today.htm
+SUMMARY:Tuesday after the Eighteenth Sunday after Trinity,\n or Saint Bruno, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261007
+UID:/europe.england.ordinariate/20261007/
+URL:http://universalis.com/europe.england.ordinariate/20261007/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261007/today.htm
+SUMMARY:Our Lady of the Rosary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261008
+UID:/europe.england.ordinariate/20261008/
+URL:http://universalis.com/europe.england.ordinariate/20261008/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261008/today.htm
+SUMMARY:Thursday after the Eighteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261009
+UID:/europe.england.ordinariate/20261009/
+URL:http://universalis.com/europe.england.ordinariate/20261009/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261009/today.htm
+SUMMARY:Saint John Henry Newman, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261010
+UID:/europe.england.ordinariate/20261010/
+URL:http://universalis.com/europe.england.ordinariate/20261010/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261010/today.htm
+SUMMARY:Saturday after the Eighteenth Sunday after Trinity,\n or Saints Denis, Bishop, and his Companions, Martyrs,\n or Saint John Leonardi, Priest,\n or Saint Paulinus of York, Bishop and Missionary,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261011
+UID:/europe.england.ordinariate/20261011/
+URL:http://universalis.com/europe.england.ordinariate/20261011/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261011/today.htm
+SUMMARY:Nineteenth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261012
+UID:/europe.england.ordinariate/20261012/
+URL:http://universalis.com/europe.england.ordinariate/20261012/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261012/today.htm
+SUMMARY:Monday after the Nineteenth Sunday after Trinity,\n or Saint Wilfrid, Bishop and Missionary,\n or Saint Ethelburga, Abbess
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261013
+UID:/europe.england.ordinariate/20261013/
+URL:http://universalis.com/europe.england.ordinariate/20261013/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261013/today.htm
+SUMMARY:Tuesday after the Nineteenth Sunday after Trinity,\n or Saint Edward the Confessor, King
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261014
+UID:/europe.england.ordinariate/20261014/
+URL:http://universalis.com/europe.england.ordinariate/20261014/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261014/today.htm
+SUMMARY:Wednesday after the Nineteenth Sunday after Trinity,\n or Saint Callistus, Pope, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261015
+UID:/europe.england.ordinariate/20261015/
+URL:http://universalis.com/europe.england.ordinariate/20261015/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261015/today.htm
+SUMMARY:Saint Teresa of Ávila, Virgin, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261016
+UID:/europe.england.ordinariate/20261016/
+URL:http://universalis.com/europe.england.ordinariate/20261016/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261016/today.htm
+SUMMARY:Friday after the Nineteenth Sunday after Trinity,\n or Saint Hedwig, Religious,\n or Saint Margaret Mary Alacoque, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261017
+UID:/europe.england.ordinariate/20261017/
+URL:http://universalis.com/europe.england.ordinariate/20261017/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261017/today.htm
+SUMMARY:Saint Ignatius of Antioch, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261018
+UID:/europe.england.ordinariate/20261018/
+URL:http://universalis.com/europe.england.ordinariate/20261018/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261018/today.htm
+SUMMARY:Twentieth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261019
+UID:/europe.england.ordinariate/20261019/
+URL:http://universalis.com/europe.england.ordinariate/20261019/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261019/today.htm
+SUMMARY:Monday after the Twentieth Sunday after Trinity,\n or Saints John de Brébeuf and Isaac Jogues, priests, and their Companions, Martyrs,\n or Saint Paul of the Cross, Priest,\n or Saint Frideswide, Abbess
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261020
+UID:/europe.england.ordinariate/20261020/
+URL:http://universalis.com/europe.england.ordinariate/20261020/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261020/today.htm
+SUMMARY:Tuesday after the Twentieth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261021
+UID:/europe.england.ordinariate/20261021/
+URL:http://universalis.com/europe.england.ordinariate/20261021/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261021/today.htm
+SUMMARY:Wednesday after the Twentieth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261022
+UID:/europe.england.ordinariate/20261022/
+URL:http://universalis.com/europe.england.ordinariate/20261022/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261022/today.htm
+SUMMARY:Thursday after the Twentieth Sunday after Trinity,\n or Saint John Paul II, Pope
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261023
+UID:/europe.england.ordinariate/20261023/
+URL:http://universalis.com/europe.england.ordinariate/20261023/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261023/today.htm
+SUMMARY:Friday after the Twentieth Sunday after Trinity,\n or Saint John of Capistrano, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261024
+UID:/europe.england.ordinariate/20261024/
+URL:http://universalis.com/europe.england.ordinariate/20261024/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261024/today.htm
+SUMMARY:Saturday after the Twentieth Sunday after Trinity,\n or Saint Antony Mary Claret, Bishop,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261025
+UID:/europe.england.ordinariate/20261025/
+URL:http://universalis.com/europe.england.ordinariate/20261025/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261025/today.htm
+SUMMARY:Twenty-first Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261026
+UID:/europe.england.ordinariate/20261026/
+URL:http://universalis.com/europe.england.ordinariate/20261026/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261026/today.htm
+SUMMARY:Monday after the Twenty-first Sunday after Trinity,\n or Saints Chad and Cedd, Bishops and Missionaries
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261027
+UID:/europe.england.ordinariate/20261027/
+URL:http://universalis.com/europe.england.ordinariate/20261027/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261027/today.htm
+SUMMARY:Tuesday after the Twenty-first Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261028
+UID:/europe.england.ordinariate/20261028/
+URL:http://universalis.com/europe.england.ordinariate/20261028/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261028/today.htm
+SUMMARY:Saints Simon and Jude, Apostles
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261029
+UID:/europe.england.ordinariate/20261029/
+URL:http://universalis.com/europe.england.ordinariate/20261029/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261029/today.htm
+SUMMARY:Thursday after the Twenty-first Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261030
+UID:/europe.england.ordinariate/20261030/
+URL:http://universalis.com/europe.england.ordinariate/20261030/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261030/today.htm
+SUMMARY:Friday after the Twenty-first Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261031
+UID:/europe.england.ordinariate/20261031/
+URL:http://universalis.com/europe.england.ordinariate/20261031/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261031/today.htm
+SUMMARY:Saturday after the Twenty-first Sunday after Trinity,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261101
+UID:/europe.england.ordinariate/20261101/
+URL:http://universalis.com/europe.england.ordinariate/20261101/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261101/today.htm
+SUMMARY:All Saints
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261102
+UID:/europe.england.ordinariate/20261102/
+URL:http://universalis.com/europe.england.ordinariate/20261102/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261102/today.htm
+SUMMARY:All Souls
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261103
+UID:/europe.england.ordinariate/20261103/
+URL:http://universalis.com/europe.england.ordinariate/20261103/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261103/today.htm
+SUMMARY:Tuesday after the Twenty-second Sunday after Trinity,\n or Saint Martin de Porres, Religious,\n or Saint Winifride, Virgin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261104
+UID:/europe.england.ordinariate/20261104/
+URL:http://universalis.com/europe.england.ordinariate/20261104/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261104/today.htm
+SUMMARY:Saint Charles Borromeo, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261105
+UID:/europe.england.ordinariate/20261105/
+URL:http://universalis.com/europe.england.ordinariate/20261105/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261105/today.htm
+SUMMARY:Thursday after the Twenty-second Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261106
+UID:/europe.england.ordinariate/20261106/
+URL:http://universalis.com/europe.england.ordinariate/20261106/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261106/today.htm
+SUMMARY:Friday after the Twenty-second Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261107
+UID:/europe.england.ordinariate/20261107/
+URL:http://universalis.com/europe.england.ordinariate/20261107/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261107/today.htm
+SUMMARY:Saturday after the Twenty-second Sunday after Trinity,\n or Saint Willibrord, Bishop and Missionary,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261108
+UID:/europe.england.ordinariate/20261108/
+URL:http://universalis.com/europe.england.ordinariate/20261108/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261108/today.htm
+SUMMARY:Twenty-third Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261109
+UID:/europe.england.ordinariate/20261109/
+URL:http://universalis.com/europe.england.ordinariate/20261109/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261109/today.htm
+SUMMARY:Dedication of the Lateran Basilica
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261110
+UID:/europe.england.ordinariate/20261110/
+URL:http://universalis.com/europe.england.ordinariate/20261110/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261110/today.htm
+SUMMARY:Saint Leo the Great, Pope, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261111
+UID:/europe.england.ordinariate/20261111/
+URL:http://universalis.com/europe.england.ordinariate/20261111/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261111/today.htm
+SUMMARY:Saint Martin of Tours, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261112
+UID:/europe.england.ordinariate/20261112/
+URL:http://universalis.com/europe.england.ordinariate/20261112/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261112/today.htm
+SUMMARY:Saint Josaphat, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261113
+UID:/europe.england.ordinariate/20261113/
+URL:http://universalis.com/europe.england.ordinariate/20261113/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261113/today.htm
+SUMMARY:Friday after the Twenty-third Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261114
+UID:/europe.england.ordinariate/20261114/
+URL:http://universalis.com/europe.england.ordinariate/20261114/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261114/today.htm
+SUMMARY:Saturday after the Twenty-third Sunday after Trinity,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261115
+UID:/europe.england.ordinariate/20261115/
+URL:http://universalis.com/europe.england.ordinariate/20261115/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261115/today.htm
+SUMMARY:Twenty-fourth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261116
+UID:/europe.england.ordinariate/20261116/
+URL:http://universalis.com/europe.england.ordinariate/20261116/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261116/today.htm
+SUMMARY:Monday after the Twenty-fourth Sunday after Trinity,\n or Saint Margaret of Scotland,\n or Saint Gertrude, Virgin,\n or Saint Edmund of Abingdon, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261117
+UID:/europe.england.ordinariate/20261117/
+URL:http://universalis.com/europe.england.ordinariate/20261117/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261117/today.htm
+SUMMARY:Tuesday after the Twenty-fourth Sunday after Trinity,\n or Saint Elizabeth of Hungary, Religious,\n or Saint Hilda of Whitby, Abbess,\n or Saint Hugh of Lincoln, Bishop
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261118
+UID:/europe.england.ordinariate/20261118/
+URL:http://universalis.com/europe.england.ordinariate/20261118/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261118/today.htm
+SUMMARY:Wednesday after the Twenty-fourth Sunday after Trinity,\n or Dedication of the Basilicas of Saints Peter and Paul, Apostles
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261119
+UID:/europe.england.ordinariate/20261119/
+URL:http://universalis.com/europe.england.ordinariate/20261119/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261119/today.htm
+SUMMARY:Thursday after the Twenty-fourth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261120
+UID:/europe.england.ordinariate/20261120/
+URL:http://universalis.com/europe.england.ordinariate/20261120/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261120/today.htm
+SUMMARY:Friday after the Twenty-fourth Sunday after Trinity,\n or Saint Edmund, King and Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261121
+UID:/europe.england.ordinariate/20261121/
+URL:http://universalis.com/europe.england.ordinariate/20261121/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261121/today.htm
+SUMMARY:The Presentation of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261122
+UID:/europe.england.ordinariate/20261122/
+URL:http://universalis.com/europe.england.ordinariate/20261122/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261122/today.htm
+SUMMARY:Christ the King
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261123
+UID:/europe.england.ordinariate/20261123/
+URL:http://universalis.com/europe.england.ordinariate/20261123/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261123/today.htm
+SUMMARY:Monday after the Twenty-fifth Sunday after Trinity,\n or Saint Clement I, Pope, Martyr,\n or Saint Columbanus, Abbot and Missionary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261124
+UID:/europe.england.ordinariate/20261124/
+URL:http://universalis.com/europe.england.ordinariate/20261124/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261124/today.htm
+SUMMARY:Saints Andrew Dũng-Lạc and his Companions, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261125
+UID:/europe.england.ordinariate/20261125/
+URL:http://universalis.com/europe.england.ordinariate/20261125/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261125/today.htm
+SUMMARY:Wednesday after the Twenty-fifth Sunday after Trinity,\n or Saint Catherine of Alexandria, Virgin, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261126
+UID:/europe.england.ordinariate/20261126/
+URL:http://universalis.com/europe.england.ordinariate/20261126/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261126/today.htm
+SUMMARY:Thursday after the Twenty-fifth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261127
+UID:/europe.england.ordinariate/20261127/
+URL:http://universalis.com/europe.england.ordinariate/20261127/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261127/today.htm
+SUMMARY:Friday after the Twenty-fifth Sunday after Trinity
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261128
+UID:/europe.england.ordinariate/20261128/
+URL:http://universalis.com/europe.england.ordinariate/20261128/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261128/today.htm
+SUMMARY:Saturday after the Twenty-fifth Sunday after Trinity,\n or Saturday memorial of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261129
+UID:/europe.england.ordinariate/20261129/
+URL:http://universalis.com/europe.england.ordinariate/20261129/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261129/today.htm
+SUMMARY:1st Sunday of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261130
+UID:/europe.england.ordinariate/20261130/
+URL:http://universalis.com/europe.england.ordinariate/20261130/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261130/today.htm
+SUMMARY:Saint Andrew, Apostle
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261201
+UID:/europe.england.ordinariate/20261201/
+URL:http://universalis.com/europe.england.ordinariate/20261201/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261201/today.htm
+SUMMARY:Tuesday of the 1st week of Advent,\n or Saint Edmund Campion, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261202
+UID:/europe.england.ordinariate/20261202/
+URL:http://universalis.com/europe.england.ordinariate/20261202/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261202/today.htm
+SUMMARY:Wednesday of the 1st week of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261203
+UID:/europe.england.ordinariate/20261203/
+URL:http://universalis.com/europe.england.ordinariate/20261203/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261203/today.htm
+SUMMARY:Saint Francis Xavier, Priest
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261204
+UID:/europe.england.ordinariate/20261204/
+URL:http://universalis.com/europe.england.ordinariate/20261204/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261204/today.htm
+SUMMARY:Friday of the 1st week of Advent,\n or Saint John Damascene, Priest, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261205
+UID:/europe.england.ordinariate/20261205/
+URL:http://universalis.com/europe.england.ordinariate/20261205/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261205/today.htm
+SUMMARY:Saturday of the 1st week of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261206
+UID:/europe.england.ordinariate/20261206/
+URL:http://universalis.com/europe.england.ordinariate/20261206/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261206/today.htm
+SUMMARY:2nd Sunday of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261207
+UID:/europe.england.ordinariate/20261207/
+URL:http://universalis.com/europe.england.ordinariate/20261207/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261207/today.htm
+SUMMARY:Saint Ambrose, Bishop, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261208
+UID:/europe.england.ordinariate/20261208/
+URL:http://universalis.com/europe.england.ordinariate/20261208/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261208/today.htm
+SUMMARY:The Immaculate Conception of the Blessed Virgin Mary
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261209
+UID:/europe.england.ordinariate/20261209/
+URL:http://universalis.com/europe.england.ordinariate/20261209/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261209/today.htm
+SUMMARY:Wednesday of the 2nd week of Advent,\n or Saint Juan Diego Cuauhtlatoatzin
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261210
+UID:/europe.england.ordinariate/20261210/
+URL:http://universalis.com/europe.england.ordinariate/20261210/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261210/today.htm
+SUMMARY:Thursday of the 2nd week of Advent,\n or Our Lady of Loreto
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261211
+UID:/europe.england.ordinariate/20261211/
+URL:http://universalis.com/europe.england.ordinariate/20261211/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261211/today.htm
+SUMMARY:Friday of the 2nd week of Advent,\n or Saint Damasus I, Pope
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261212
+UID:/europe.england.ordinariate/20261212/
+URL:http://universalis.com/europe.england.ordinariate/20261212/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261212/today.htm
+SUMMARY:Saturday of the 2nd week of Advent,\n or Our Lady of Guadalupe
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261213
+UID:/europe.england.ordinariate/20261213/
+URL:http://universalis.com/europe.england.ordinariate/20261213/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261213/today.htm
+SUMMARY:3rd Sunday of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261214
+UID:/europe.england.ordinariate/20261214/
+URL:http://universalis.com/europe.england.ordinariate/20261214/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261214/today.htm
+SUMMARY:Saint John of the Cross, Priest, Doctor
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261215
+UID:/europe.england.ordinariate/20261215/
+URL:http://universalis.com/europe.england.ordinariate/20261215/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261215/today.htm
+SUMMARY:Tuesday of the 3rd week of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261216
+UID:/europe.england.ordinariate/20261216/
+URL:http://universalis.com/europe.england.ordinariate/20261216/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261216/today.htm
+SUMMARY:Wednesday of the 3rd week of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261217
+UID:/europe.england.ordinariate/20261217/
+URL:http://universalis.com/europe.england.ordinariate/20261217/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261217/today.htm
+SUMMARY:17 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261218
+UID:/europe.england.ordinariate/20261218/
+URL:http://universalis.com/europe.england.ordinariate/20261218/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261218/today.htm
+SUMMARY:18 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261219
+UID:/europe.england.ordinariate/20261219/
+URL:http://universalis.com/europe.england.ordinariate/20261219/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261219/today.htm
+SUMMARY:19 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261220
+UID:/europe.england.ordinariate/20261220/
+URL:http://universalis.com/europe.england.ordinariate/20261220/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261220/today.htm
+SUMMARY:4th Sunday of Advent
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261221
+UID:/europe.england.ordinariate/20261221/
+URL:http://universalis.com/europe.england.ordinariate/20261221/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261221/today.htm
+SUMMARY:21 December,\n (commemoration of Saint Peter Canisius, Priest, Doctor)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261222
+UID:/europe.england.ordinariate/20261222/
+URL:http://universalis.com/europe.england.ordinariate/20261222/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261222/today.htm
+SUMMARY:22 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261223
+UID:/europe.england.ordinariate/20261223/
+URL:http://universalis.com/europe.england.ordinariate/20261223/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261223/today.htm
+SUMMARY:23 December,\n (commemoration of Saint John of Kęty, Priest)
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261224
+UID:/europe.england.ordinariate/20261224/
+URL:http://universalis.com/europe.england.ordinariate/20261224/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261224/today.htm
+SUMMARY:24 December
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261225
+UID:/europe.england.ordinariate/20261225/
+URL:http://universalis.com/europe.england.ordinariate/20261225/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261225/today.htm
+SUMMARY:Christmas Day
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261226
+UID:/europe.england.ordinariate/20261226/
+URL:http://universalis.com/europe.england.ordinariate/20261226/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261226/today.htm
+SUMMARY:Saint Stephen, the first Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261227
+UID:/europe.england.ordinariate/20261227/
+URL:http://universalis.com/europe.england.ordinariate/20261227/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261227/today.htm
+SUMMARY:The Holy Family
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261228
+UID:/europe.england.ordinariate/20261228/
+URL:http://universalis.com/europe.england.ordinariate/20261228/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261228/today.htm
+SUMMARY:The Holy Innocents, Martyrs
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261229
+UID:/europe.england.ordinariate/20261229/
+URL:http://universalis.com/europe.england.ordinariate/20261229/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261229/today.htm
+SUMMARY:Saint Thomas Becket, Bishop, Martyr
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261230
+UID:/europe.england.ordinariate/20261230/
+URL:http://universalis.com/europe.england.ordinariate/20261230/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261230/today.htm
+SUMMARY:6th day within the octave of Christmas
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTAMP:20251011T100453Z
+DTSTART;VALUE=DATE:20261231
+UID:/europe.england.ordinariate/20261231/
+URL:http://universalis.com/europe.england.ordinariate/20261231/today.htm
+DESCRIPTION:http://universalis.com/europe.england.ordinariate/20261231/today.htm
+SUMMARY:7th day within the octave of Christmas,\n (commemoration of Saint Silvester I, Pope)
+END:VEVENT
+END:VCALENDAR

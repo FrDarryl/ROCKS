@@ -1,0 +1,52 @@
+Whilst it didn’t attract any media attention here in the UK, the desperate fight to get Irish presidential hopeful Maria Steen onto the country’s upcoming ballot paper has dominated the Irish narrative over the past few weeks.
+
+Steen, a wealthy Dubin barrister who has been dubbed variously as an “orthodox Catholic”, an “arch conservative” and a “far right, anti-choice” candidate entered the Ireland Presidential race very late on – in fact just a month ago – but her emergence rattled the Irish political establishment profoundly, especially as there was a distinct possibility that she might prove successful.
+
+Until last month the Irish Presidential election had been a fairly mundane and predictable affair – candidates have to be an Irish citizen, at least 35 years of age and be nominated by at least 20 serving members of the Houses of the Oireachtas (the bicameral parliament of Ireland). You can also get onto the ballot paper if your nomination is supported by at least four of the country’s 31 county or city councils, or you can even get on by just nominating yourself if you happen to be a former or retiring president.
+
+With that in mind this year’s early election hopefuls included a whole gaggle of qualifying Irish media celebrities – including Bob Geldof, Michael Flatley, Republic of Ireland goalkeeper Packie Bonner, singer Mary Black and even mixed martial artist Conor McGregor.
+
+Such frivolities may help give the appearance of inclusivity and democracy, but in Ireland politics is much like it is anywhere else – so the race very quickly filtered down to three socially and politically similar candidates who had been approved by the three main political parties in Ireland.
+
+The centrist party Fianna Fáil’s approved nominee is ex-football manager and Irish Defence Forces officer Jim Gavin; the centre right, liberal-conservative Fine Gael candidate is Heather Humphreys, who has occupied a number of ministerial roles, and the third choice being offered to the Irish electorate is Catherine Connolly, standing as an Independent but backed strongly by Sinn Féin, the Social Democrats, the Labour party and several other minor Irish parties.
+
+In essence, those in power have chosen those in power whom they best feel will support the established order, and these have then been presented as the only choices to an Irish population concerned desperately about the stability and future prospects of their country in a dangerously changing and unpredictable world. It’s a population that is also looking for a presidential figure who can offer some hope of change and improvement after what has been many years of weak and ineffective governance.
+
+Unsurprisingly, until a month ago there had been not even a flicker of interest in the presidential election, that was until Maria Steen suddenly emerged and announced her intention to run. It’s hard to understate the shockwaves that were sent through an Irish political establishment that has had its own way for many years, and has largely stuck together in the pursuit of mutual self interests and shared socio-political objectives.
+
+In recent years in particular Ireland – like the UK – has become so pre-occupied with the race away from its Catholic and Christian roots that has been happy to dispense with many of the moral and ideological protections that have underpinned it for centuries. In both chambers of the Irish parliament Christian voices have been diminishing – with relatively lone voices such as the outstandingly eloquent Rónán Mullen often fighting against the odds to protect and secure a Christian voice for Ireland. (Rónán is a close ally of Maria Steen and supported her nomination.)
+
+Steen herself has a long record in political campaigning – she is a member of the Catholic Iona Institute and has been involved in the Irish pro-life movement since the 1990s. She campaigned vigorously for a NO vote in the 2018 Irish abortion referendum, and again in the 2015 same-sex marriage referendum. She also spoke out very publicly against the 2024 proposed amendments to the Constitution of Ireland which would have removed the historic references to women’s “life within the home” and mothers’ “duties in the home”, and sought to add a new gender-neutral article on care within the family. She has also opposed assisted suicide and the death penalty and has often cited papal encyclicals such as Evangelium Vitae in her arguments on protecting the sanctity of human life.
+
+An eloquent and highly capable debater, with five homeschooled children and a feisty commitment to traditional family values, her entrance into the presidential race was everything that Irish legacy politicians feared and dreaded. Not only was Steen the epitome of a presidential presence, but her socio-political positions had all the likelihood of arousing a slumbering Irish nation that has become tired and frustrated with what it has seen as a lack of meaningful political action.
+
+Whilst Steen and her supporters worked furiously to gain the required 20 nominations, there was an equal and even more desperate effort to try and prevent this from happening. Legislators were warned that they would lose their party’s whip if they broke ranks and started a stampede towards her, and many in the Irish media also did their best to derail her campaign. During one appearance on the RTÉ Six One news Steen emphasised that families are not being prioritised in Ireland at present, to which the presenter quipped: “So back to the 1930s?”, as if this was harking back to some dystopian past.
+
+What the more astute of legislators realised was that – stepping back from personal animosities about a Catholic, conservative candidate – there was a much larger issue in that Irish politicians were not just blocking the person of Maria Steen, they were actively obstructing the processes of democracy itself.
+
+To their great credit, some Irish politicians did break ranks and had the honesty and decency to say that the preservation of democracy was more far important than objecting to any individual candidate; they nominated Steen so that at least her views could be judged by the Irish population, whilst emphasising that they disagreed fundamentally with her views and wouldn’t – as an Irish citizen – be voting for her in the full presidential vote. Such a position will undoubtedly cost them dearly, but at least some tried to keep faith with the democratic process.
+
+Sadly, as today’s midday deadline for nominations passed, it was evident that Maria Steen had only secured 18 of the required 20 nominations, and she was forced to step up to the microphone at Dublin’s Leinster House and withdraw from the contest.
+
+“While I’m honoured to have received 90% of the signatures required from members of your office, I regret to say that it’s not enough, and that time has now run out,” she said in Irish.
+
+“I entered this race in the hope of giving voters a real the hope of giving voters a real choice … The response from the public in recent days confirms the hunger that there is for an alternative candidate.
+
+“Sadly, that hunger will now go unsatisfied. Rarely has the political consensus seemed more oppressive or detached from the wishes and desires of the public.
+
+“I want to acknowledge with sincere gratitude the many councillors who voted for me, some of whom courageously went against party diktat to do so.
+
+“I’m also grateful to the 18 parliamentarians, true democrats all, who gave me their signatures, some of whom because they wanted to support me in the election, and some of whom because they believed in democracy and that the verdict on my candidacy should be rendered not by an elite but by the people.”
+
+Following this lunchtime’s announcement, there’s been a growing anger across Ireland. For many there had been a brief hope that it might just have been possible to vote for an openly Catholic, family-centred candidate; for others who might even have railed at this there was a dark sense that something of Irish democracy has died, or maybe just the bleak realisation that it might never have existed at all.
+
+Some lobby organisations are already calling for the biggest ‘spoil your ballot paper’ vote in Irish history, and are calling for the Irish people to scrub the three candidates and place a tick and ‘Maria Steen’ on their voting paper. This has the real capacity to rattle the Irish government, who have dour memories of the 2019 European and local elections, which delivered 108,488 spoilt or ineligible votes. Such was the fallout that An Coimisiún Toghcháin, Ireland’s independent electoral commission, launched a “don’t Spoil Your Day” voter education drive, which actually only served to educate the Irish electorate about just how powerful spoilt votes could be!
+
+The great sadness about the Maria Steen affair is that Ireland will now have a choice between just three establishment nominees that you could hardly drive a cigarette paper between and – for the first time in Irish history – there will be no Catholic on the ballot paper. This is particularly ironic as the Irish constitutional oath demands that an Irish President take their oath “in the presence of Almighty God” (Article 12.8) – something that actually the current president, Michael J. Higgins, suggested should – in the interests of diversity, inclusivity and all that –be replaced with a far more general affirmation.
+
+The hounding and obstructing of Mari Steen for her orthodox Catholicism as a candidate for the Irish presidency is particularly ironic in that we’ve had two highly capable, female Catholic past presidents of the Irish Republic – Mary McAleese and Mary Robinson. Of course both these incumbents were heavily liberal in their theological outlook, so there was little or no disturbance of the Irish establishment. Maria Steen, on the other, was a far more existential threat.
+
+What the general population will now have to decide is whether or not they want to make a statement in favour of free speech and Catholic values, or acquiesce to a liberal agenda that has done few favours to either the country, or to the fundamerntal concept of democracy itself. Whatever does play out in Ireland next month, it will be watched closely and with a justifiable note of anxiety by many other countries facing exactly the same demographic disillusionemernt with the prevailing, tired and increasingly irrelevant mechanisms of governance.
+
+Joseph Kelly is a Catholic writer and public theologian
+

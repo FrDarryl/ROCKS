@@ -1,0 +1,208 @@
+#!/bin/env perl
+
+# Perl CORE and system packages used
+use strict;
+use utf8;
+use warnings;
+
+use English;
+
+use feature 'say';
+
+die "Usage: $0 Rite (NOE|VOE) PropersID\n" if @ARGV < 2;
+
+my $rite = shift;
+my $propersID = shift;
+
+$propersID =~ s/SUMMARY://;
+$propersID =~ s/\,\\n or /\|/g;
+$propersID =~ s/\,\\n/\|/g;
+#$propersID =~ s/ or //g;
+$propersID =~ s/^The //g;
+$propersID =~ s/\|The /\|/g;
+$propersID =~ s/of the Lord/of our Lord/;
+$propersID =~ s/of the Blessed Virgin Mary/of our Lady/;
+$propersID =~ s/\, Joint Principal Patron of the Diocese//;
+$propersID =~ s/ \(commemoration of (.+)\)/$1/;
+$propersID =~ s/^Saint /St /;
+$propersID =~ s/\|Saint /\|St /g;
+$propersID =~ s/^Saints /Ss /;
+$propersID =~ s/\|Saints /\|Ss /g;
+$propersID =~ s/ of Saint / of St /g;
+$propersID =~ s/ of Saints / of Ss /g;
+$propersID =~ s/ the .aints / of Ss /g;
+$propersID =~ s/^Blessed /Bl /;
+$propersID =~ s/\|Blessed /\|Bl /g;
+$propersID =~ s/\,* and (his|their) Companions/ \& Companions/g;
+$propersID =~ s/\,* and Doctor of the Church/\, Doctor/g;
+$propersID =~ s/ and Missionary/\, Missionary/g;
+$propersID =~ s/Bishops and Missionaries/Bishops, Missionaries/g;
+$propersID =~ s/priest/Priest/g;
+$propersID =~ s/husband/Husband/g;
+$propersID =~ s/monk/Monk/g;
+$propersID =~ s/parents/Parents/g;
+$propersID =~ s/(the)* first .artyr/Protomartyr/g;
+$propersID =~ s/ and / \& /g;
+$propersID =~ s/(17 Dec)ember(.*)/$1:O Sapientia$2/;
+$propersID =~ s/(18 Dec)ember(.*)/$1:O Adonai$2/;
+$propersID =~ s/(19 Dec)ember(.*)/$1:O Radix Jesse$2/;
+$propersID =~ s/(20 Dec)ember(.*)/$1:O Clavis David$2/;
+$propersID =~ s/(21 Dec)ember(.*)/$1:O Oriens$2/;
+$propersID =~ s/(22 Dec)ember(.*)/$1:O Rex Gentium$2/;
+$propersID =~ s/(23 Dec)ember(.*)/$1:O Emmanuel$2/;
+$propersID =~ s/December/Dec/;
+$propersID =~ s/January/Jan/;
+$propersID =~ s/Christmas Day/Nativity of our Lord/;
+$propersID =~ s/.*(St Stephen, Protomartyr).*/26 Dec:Christmas Octave II\|$1/;
+$propersID =~ s/.*(St John, Apostle, Evangelist).*/27 Dec:Christmas Octave III\|$1/;
+$propersID =~ s/.*(Holy Innocents, Martyrs).*/28 Dec:Christmas Octave IV\|$1/;
+$propersID =~ s/.*(St Thomas Becket, Bishop, Martyr).*/29 Dec:Christmas Octave V\|$1/;
+$propersID =~ s/6th day within the .ctave of Christmas.*/30 Dec:Christmas Octave VI/;
+$propersID =~ s/\|?St Sylvester I, Pope//;
+$propersID =~ s/7th day within the .ctave of Christmas.*/31 Dec:Christmas Octave VII\|St Sylvester I, Pope/;
+$propersID =~ s/.*(Mary, the Holy Mother of God).*/Mary, Mother of God/;
+$propersID =~ s/Birthday/Nativity/;
+$propersID =~ s/^3 Jan.*/3 Jan:Most Holy Name of Jesus/;
+#$propersID =~ s/^([245] Jan)/$1:Christmastide/;
+#$propersID =~ s/^6 Jan \(.efore Epiphany\)/6 Jan:Christmastide/;
+#$propersID =~ s/^(\d+ Jan)/$1:Epiphanytide/;
+$propersID =~ s/of the (\d+).. week of /of week $1 of /;
+$propersID =~ s/(\d+).. Sunday (of|in) /Sunday of week $1 $2 /;
+$propersID =~ s/(Mon|Tue|Wed|Thu|Fri|Sat).*? of .eek (\d+) of (Advent|Christmas|Lent|Eastertide|Easter)/$3 $2:$1/;
+$propersID =~ s/(Mon|Tue|Wed|Thu|Fri|Sat).*? of .eek (\d+) in Ordinary Time/Ordinary Time $2:$1/;
+$propersID =~ s/Sunday of .eek (\d+) of (Advent|Christmas|Lent|Eastertide|Easter)/$2 $1:Sun/;
+$propersID =~ s/Sunday of .eek (\d+) in Ordinary Time/Ordinary Time $1:Sun/;
+$propersID =~ s/(Sun|Mon|Tue|Wed|Thu|Fri|Sat).*? in the .eek after Epiphany/Epiphanytide I:$1/;
+$propersID =~ s/(Sun|Mon|Tue|Wed|Thu|Fri|Sat).*? after the Most Holy Trinity/Trinitytide I:$1/;
+$propersID =~ s/(Sun|Mon|Tue|Wed|Thu|Fri|Sat).*? after the (.+?) Sunday after (Epiphany|Trinity)/$3tide $2:$1/;
+$propersID =~ s/(.+?) Sunday after (Epiphany|Trinity)/$2tide $1:Sun/;
+$propersID =~ s/^.*?Sunday.+?before Lent \((.+gesima)\)/$1 Sunday/;
+$propersID =~ s/(Mon|Tues|Wed|Thu|Fri|Sat).* after Epiphany Sunday/Epiphany Octave:$1/;
+$propersID =~ s/(Mon|Tue|Wed|Thu|Fri|Sat).* after (.+?gesima)/$2 $1/;
+$propersID =~ s/((Mon|Tue|Sat).*?) of Holy Week/Holy $1/;
+$propersID =~ s/Wed.* of Holy Week/Holy Wednesday/;
+$propersID =~ s/(Maundy Thursday)/Mass of the Lord's Supper/;
+$propersID =~ s/(Good Friday)/Mass of the Presanctified/;
+$propersID =~ s/.*Easter Sunday.*/RESURRECTION OF OUR LORD/;
+$propersID =~ s/.*Easter (Mon|Tue|Wed|Thu|Fri|Sat).*?day/Easter Octave:$1/;
+$propersID =~ s/.*Divine Mercy.*/EASTER II/;
+$propersID =~ s/Eastertide 6:(Friday.*)/Ascensiontide I:$1/;
+$propersID =~ s/Eastertide 6:(Saturday.*)/Ascensiontide I:$1/;
+$propersID =~ s/Eastertide 7:(.+)/Ascensiontide I:$1/;
+$propersID =~ s/Eastertide 7:(.+)/Ascensiontide I:$1/;
+$propersID =~ s/^Pentecost$/PENTECOST SUNDAY/;
+$propersID =~ s/.*(Whit-Sunday).*/PENTECOST SUNDAY/;
+$propersID =~ s/.*(Tue|Wed|Fri|Sat).*?day after Pentecost/Pentecost Octave:$1/;
+$propersID =~ s/.*(Mary, Mother of the Church)/Pentecost Octave:Mon/; # Remove parenthetical aliases (showing them handled in Lookup_PropersID_English-Alias.tsv)
+$propersID =~ s/.*(Our Lord Jesus Christ the Eternal High Priest)/Pentecost Octave:Thu/; # Remove parenthetical aliases (showing them handled in Lookup_PropersID_English-Alias.tsv)
+$propersID =~ s/ 1:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ I:$1/;
+$propersID =~ s/ 2:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ II:$1/;
+$propersID =~ s/ 3:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ III:$1/;
+$propersID =~ s/ 4:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ IV:$1/;
+$propersID =~ s/ 5:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ V:$1/;
+$propersID =~ s/ 6:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ VI:$1/;
+$propersID =~ s/ 7:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ VII:$1/;
+$propersID =~ s/ 8:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ VIII:$1/;
+$propersID =~ s/ 9:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ IX:$1/;
+$propersID =~ s/ 10:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ X:$1/;
+$propersID =~ s/ 11:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XI:$1/;
+$propersID =~ s/ 12:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XII:$1/;
+$propersID =~ s/ 13:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XIII:$1/;
+$propersID =~ s/ 14:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XIV:$1/;
+$propersID =~ s/ 15:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XV:$1/;
+$propersID =~ s/ 16:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XVI:$1/;
+$propersID =~ s/ 17:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XVII:$1/;
+$propersID =~ s/ 18:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XVIII:$1/;
+$propersID =~ s/ 19:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XIX:$1/;
+$propersID =~ s/ 20:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XX:$1/;
+$propersID =~ s/ 21:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXI:$1/;
+$propersID =~ s/ 22:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXII:$1/;
+$propersID =~ s/ 23:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXIII:$1/;
+$propersID =~ s/ 24:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXIV:$1/;
+$propersID =~ s/ 25:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXV:$1/;
+$propersID =~ s/ 26:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXVI:$1/;
+$propersID =~ s/ 27:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXVII:$1/;
+$propersID =~ s/ 28:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXVIII:$1/;
+$propersID =~ s/ 29:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXIX:$1/;
+$propersID =~ s/ 30:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXX:$1/;
+$propersID =~ s/ 31:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXXI:$1/;
+$propersID =~ s/ 32:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXXII:$1/;
+$propersID =~ s/ 33:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXXIII:$1/;
+$propersID =~ s/ 34:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXXIV:$1/;
+$propersID =~ s/ ([XVI]+)\:Sunday/ $1:Sun/;
+$propersID =~ s/ ([XVI]+)\:Sun/ $1:Sun/;
+$propersID =~ s/tide Second/tide II/;
+$propersID =~ s/tide Third/tide III/;
+$propersID =~ s/tide Fourth/tide IV/;
+$propersID =~ s/tide Fifth/tide V/;
+$propersID =~ s/tide Sixth/tide VI/;
+$propersID =~ s/tide Seventh/tide VII/;
+$propersID =~ s/tide Eighth/tide VIII/;
+$propersID =~ s/tide Ninth/tide IX/;
+$propersID =~ s/tide Tenth/tide X/;
+$propersID =~ s/tide Eleventh/tide XI/;
+$propersID =~ s/tide Twelfth/tide XII/;
+$propersID =~ s/tide Thirteenth/tide XIII/;
+$propersID =~ s/tide Fourteenth/tide XIV/;
+$propersID =~ s/tide Fifteenth/tide XV/;
+$propersID =~ s/tide Sixteenth/tide XVI/;
+$propersID =~ s/tide Seventeenth/tide XVII/;
+$propersID =~ s/tide Eighteenth/tide XVIII/;
+$propersID =~ s/tide Nineteenth/tide XIX/;
+$propersID =~ s/tide Twentieth/tide XX/;
+$propersID =~ s/tide Twenty-.irst/tide XXI/;
+$propersID =~ s/tide Twenty-.econd/tide XXII/;
+$propersID =~ s/tide Twenty-.hird/tide XXIII/;
+$propersID =~ s/tide Twenty-.ourth/tide XXIV/;
+$propersID =~ s/tide Twenty-.ifth/tide XXV/;
+$propersID =~ s/tide Twenty-.ixth/tide XXVI/;
+$propersID =~ s/tide Twenty-.eventh/tide XXVII/;
+$propersID =~ s/tide ([XVI]+)\:Sunday/ $1:Sun/;
+$propersID =~ s/tide ([XVI]+)\:Sun/ $1:Sun/;
+$propersID =~ s/(Advent III:Sun).*$/$1/; # (Gaudete)
+$propersID =~ s/(Advent IV:Sun).*$/$1/; # (Rorate)
+$propersID =~ s/(Lent IV:Sun).*$/$1/; # (Laetare) also Mothering Sunday
+$propersID =~ s/(Lent V:Sun).*$/$1/; # (Passion Sunday)
+if ($propersID =~ m/Lent V:Sun/ && $rite eq "VOE") {
+    $propersID =~ s/.+/Passion Sunday/;
+}
+$propersID =~ s/(Easter V:Sun).*$/$1/; # (Rogation)
+$propersID =~ s/(Most Holy Trinity)/Trinity Sunday/; # (Most Holy Trinity)
+$propersID =~ s/(Most Holy Body .+?Christ)/Corpus Christi/; # (Most Holy Body and Blood of Christ)
+$propersID =~ s/(Ordinary Time III:Sun).*$/$1/; # (Word of God)
+$propersID =~ s/(Eastertide|Easter) 6:Friday/Friday after Ascension)/;
+$propersID =~ s/(Eastertide|Easter) 6:Saturday/Saturday after Ascension/;
+$propersID =~ s/(Eastertide|Easter) 6/Eastertide VI/;
+$propersID =~ s/(Eastertide|Easter) 7/Ascensiontide II/;
+$propersID =~ s/tide First/tide I/;
+$propersID =~ s/(.+):Sun/\U$1\E/;
+$propersID =~ s/Ordinary Time/Ord Time/;
+$propersID =~ s/(.+ Sunday)$/\U$1\E/;
+$propersID =~ s/^((Nativity of our Lord|Holy Family|Epiphany of our Lord|Baptism of our Lord|Ascension of our Lord|Corpus Christi|Ss Peter . Paul, Apostles|Assumption of our Lady|Christ the King))/\U$1\E/;
+$propersID =~ s/^(All Saints)$/\U$1\E/; # Preserve e.g. 'All Saints of England'
+$propersID =~ s/Antony/Anthony/;
+$propersID =~ s/Bl Dominic of the Mother of God.+?Priest/Bl Dominic of the Mother of God, Priest/;
+$propersID =~ s/Dedication of the Lateran Basilica/Dedication of the Archbasilica of St John Lateran/;
+$propersID =~ s/Ss Denis, Bishop & Companions, Martyrs/Ss Denis, Bishop, & Companions, Martyrs/;
+$propersID =~ s/St Aidan.+?Lindisfarne/St Aidan of Lindisfarne, Bishop, Missionary/;
+$propersID =~ s/St Ansgar.+?Bishop/St Ansgar, Bishop/;
+$propersID =~ s/St Anthony, Abbot/St Anthony the Great, Abbot/;
+$propersID =~ s/St Benet .+Abbot/St Benet Biscop, Abbot/;
+$propersID =~ s/St Columba .+?Abbot/St Columba, Abbot/;
+$propersID =~ s/St Columban.+?Missionary/St Columbanus, Abbot, Missionary/;
+$propersID =~ s/St Etheldreda.+?Abbess/St Etheldreda, Abbess/;
+$propersID =~ s/St John .+?Latinam\)/St John Before the Latin Gate/;
+$propersID =~ s/St John Henry Newman.+?Priest(\|?)/St John Henry Newman, Priest, Doctor$1/;
+$propersID =~ s/St Kentigern.+?Bishop/St Kentigern, Bishop/;
+$propersID =~ s/St Mary Magdalen/St Mary Magdalene/;
+$propersID =~ s/Magdalenee/Magdalene/;
+$propersID =~ s/St Nicholas, Bishop/St Nicholas of Myra, Bishop/;
+$propersID =~ s/St Pius of Pietrelcina.+?Priest/St Pius of Pietrelcina, Priest/;
+$propersID =~ s/St Teresa Benedicta.+Martyr/St Teresa Benedicta of the Cross, Virgin, Martyr/;
+$propersID =~ s/St Teresa of Calcutta \(Mother Teresa\)/St Teresa of Calcutta, Virgin/;
+$propersID =~ s/St Turibius of Mongrovejo, Bishop/St Turibius of Mogrovejo, Bishop/;
+
+say $propersID;
+
+exit 1;
+__END__;
