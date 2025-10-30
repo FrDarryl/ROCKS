@@ -1,102 +1,102 @@
-BookID	SeqID_USFM	ChapCounts	CanonType	BookName	BookNameAnnouncedByLector	BookName_es_Common	BookName_he_Common	BookName_he_Common	BookName_la_Common	BookName_NRSV	BookName_RSV	BookNotesUSFM	NoTabEndingColumn
-GEN	01	50	OT	Genesis	Book of Genesis	Génesis	בראשית		Genesis	Genesis	Genesis		Bogus
-EXO	02	40	OT	Exodus	Book of Exodus	Éxodo	שמות		Exodus	Exodus	Exodus		Bogus
-LEV	03	27	OT	Leviticus	Book of Leviticus	Levítico	ויקרא		Leviticus	Leviticus	Leviticus		Bogus
-NUM	04	36	OT	Numbers	Book of Numbers	Numeros	במדבר		Numeri	Numbers	Numbers		Bogus
-DEU	05	34	OT	Deuteronomy	Book of Deuteronomy	Deuteronomio	דברים		Deuteronomium	Deuteronomy	Deuteronomy		Bogus
-JOS	06	24	OT	Joshua	Book of Joshua	Josué	יהושע		Josue	Joshua	Joshua		Bogus
-JDG	07	21	OT	Judges	Book of Judges	Jueces	שופטים		Judicum	Judges	Judges		Bogus
-RUT	08	4	OT	Ruth	Book of Ruth	Rut	רות		Ruth	Ruth	Ruth		Bogus
-1SA	09	31	OT	1 Samuel	First Book of Samuel	1 Samuel	שמואל א		I Samuhel	1 Samuel	1 Samuel		Bogus
-2SA	10	24	OT	2 Samuel	Second Book of Samuel	2 Samuel	שמואל ב		II Samuhel	2 Samuel	2 Samuel		Bogus
-1KI	11	22	OT	1 Kings	First Book of Kings	1 Reyes	מלכים א		I Regum	1 Kings	1 Kings		Bogus
-2KI	12	25	OT	2 Kings	Second Book of Kings	2 Reyes	מלכים ב		II Regum	2 Kings	2 Kings		Bogus
-1CH	13	29	OT	1 Chronicles	First Book of Chronicles	1 Crónicas	דברי הימים א		I Paralipomenon	1 Chronicles	1 Chronicles		Bogus
-2CH	14	36	OT	2 Chronicles	Second Book of Chronicles	2 Crónicas	דברי הימים ב		II Paralipomenon	2 Chronicles	2 Chronicles		Bogus
-EZR	15	10	OT	Ezra	Book of Ezra	Esdras	עזרא		Esdrae	Ezra	Ezra		Bogus
-NEH	16	13	OT	Nehemiah	Book of Nehemiah	Nehemías	נחמיה		Nehemiae	Nehemiah	Nehemiah		Bogus
-EST	17	10	OT	Esther	Book of Esther	Ester	אסתר		Esther	Esther	Esther		Bogus
-JOB	18	42	OT	Job	Book of Job	Job	איוב		Job	Job	Job		Bogus
-PSA	19	150	OT	Psalms	Book of Psalms	Salmos	תהילים		Psalmi	Psalm	Psalm		Bogus
-PRO	20	31	OT	Proverbs	Book of Proverbs	Proverbios	משלי		Proverbia	Proverbs	Proverbs		Bogus
-ECC	21	12	OT	Ecclesiastes	Book of Ecclesiastes	Eclesiastés	קהלת		Ecclesiastes	Ecclesiastes	Ecclesiastes		Bogus
-SNG	22	8	OT	Song of Solomon	Song of Solomon	Cantares	שיר השירים		Canticum Canticorum	Song of Solomon	Song of Solomon		Bogus
-ISA	23	66	OT	Isaiah	Book of the Prophet Isaiah	Isaías	ישעה		Isaias	Isaiah	Isaiah		Bogus
-JER	24	52	OT	Jeremiah	Book of the Prophet Jeremiah	Jeremías	ירמיה		Jeremias	Jeremiah	Jeremiah		Bogus
-LAM	25	5	OT	Lamentations	Book of the Lamentations	Lamentaciones	איכה		Lamentationes	Lamentations	Lamentations		Bogus
-EZK	26	48	OT	Ezekiel	Book of the Prophet Ezekiel	Ezequiel	יחזקאל		Ezechiel	Ezekiel	Ezekiel		Bogus
-DAN	27	14	OT	Daniel	Book of the Prophet Daniel	Daniel	דניאל		Daniel	Daniel	Daniel		Bogus
-HOS	28	14	OT	Hosea	Book of the Prophet Hosea	Oseas	הושע		Osee	Hosea	Hosea		Bogus
-JOL	29	3	OT	Joel	Book of the Prophet Joel	Joel	יואל		Joel	Joel	Joel		Bogus
-AMO	30	9	OT	Amos	Book of the Prophet Amos	Amós	עמוס		Amos	Amos	Amos		Bogus
-OBA	31	1	OT	Obadiah	Book of the Prophet Obadiah	Abdías	עבדיה		Abdias	Obadiah	Obadiah		Bogus
-JON	32	4	OT	Jonah	Book of the Prophet Jonah	Jonás	יונה		Jonas	Jonah	Jonah		Bogus
-MIC	33	7	OT	Micah	Book of the Prophet Micah	Miqueas	מיכה		Michaea	Micah	Micah		Bogus
-NAM	34	3	OT	Nahum	Book of the Prophet Nahum	Nahum	נחום		Nahum	Nahum	Nahum		Bogus
-HAB	35	3	OT	Habakkuk	Book of the Prophet Habakkuk	Habacuc	חבקוק		Habacuc	Habakkuk	Habakkuk		Bogus
-ZEP	36	3	OT	Zephaniah	Book of the Prophet Zephaniah	Sofonías	צפניה		Sophonias	Zephaniah	Zephaniah		Bogus
-HAG	37	2	OT	Haggai	Book of the Prophet Haggai	Hageo	חגי		Aggaeus	Haggai	Haggai		Bogus
-ZEC	38	14	OT	Zechariah	Book of the Prophet Zechariah	Zacarías	זכריה		Zacharias	Zechariah	Zechariah		Bogus
-MAL	39	4	OT	Malachi	Book of the Prophet Malachi	Malaquías	מלאכי		Malachias	Malachi	Malachi		Bogus
-MAT	40	28	NT	Matthew	Gospel of our Lord Jesus Christ according to St Matthew	Mateo		ΚΑΤΑ ΜΑΤΘΑΙΟΝ	Secundum Matthaeum	Matthew	Matthew		Bogus
-MRK	41	16	NT	Mark	Gospel of our Lord Jesus Christ according to St Mark	Marcos		ΚΑΤΑ ΜΑΡΚΟΝ	Secundum Marcum	Mark	Mark		Bogus
-LUK	42	24	NT	Luke	Gospel of our Lord Jesus Christ according to St Luke	Lucas		ΚΑΤΑ ΛΟΥΚΑΝ	Secundum Lucam	Luke	Luke		Bogus
-JHN	43	21	NT	John	Gospel of our Lord Jesus Christ according to St John	Juan		ΚΑΤΑ ΙΩΑΝΝΗΝ	Secundum Ioannem	John	John		Bogus
-ACT	44	28	NT	Acts	Acts of the Apostles	Hechos		ΠΡΑΞΕΙΣ ΤΩΝ ΑΠΟΣΤΟΛΩΝ	Actus Apostolorum	Acts	Acts		Bogus
-ROM	45	16	NT	Romans	Epistle of St Paul to the Romans	Romanos		ΠΡΟΣ ΡΩΜΑΙΟΥΣ	Ad Romanos	Romans	Romans		Bogus
-1CO	46	16	NT	1 Corinthians	First Epistle of St Paul to the Corinthians	1 Corintios		ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄	Ad Corinthios I	1 Corinthians	1 Corinthians		Bogus
-2CO	47	13	NT	2 Corinthians	Second Epistle of St Paul to the Corinthians	2 Corintios		ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄	Ad Corinthios II	2 Corinthians	2 Corinthians		Bogus
-GAL	48	6	NT	Galatians	Epistle of St Paul to the Galatians	Gálatas		ΠΡΟΣ ΓΑΛΑΤΑΣ	Ad Galatas	Galatians	Galatians		Bogus
-EPH	49	6	NT	Ephesians	Epistle of St Paul to the Ephesians	Efesios		ΠΡΟΣ ΕΦΕΣΙΟΥΣ	Ad Ephesios	Ephesians	Ephesians		Bogus
-PHP	50	4	NT	Philippians	Epistle of St Paul to the Philippians	Filipenses		ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ	Ad Philippenses	Philippians	Philippians		Bogus
-COL	51	4	NT	Colossians	Epistle of St Paul to the Colossians	Colosenses		ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ	Ad Colossenses	Colossians	Colossians		Bogus
-1TH	52	5	NT	1 Thessalonians	First Epistle of St Paul to the Thessalonians	1 Tesalonicenses		ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄	Ad Thessalonicenses I	1 Thessalonians	1 Thessalonians		Bogus
-2TH	53	3	NT	2 Thessalonians	Second Epistle of St Paul to the Thessalonians	2 Tesalonicenses		ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β΄	Ad Thessalonicenses II	2 Thessalonians	2 Thessalonians		Bogus
-1TI	54	6	NT	1 Timothy	First Epistle of St Paul to Timothy	1 Timoteo		ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄	Ad Timotheum I	1 Timothy	1 Timothy		Bogus
-2TI	55	4	NT	2 Timothy	Second Epistle of St Paul to Timothy	2 Timoteo		ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄	Ad Timotheum II	2 Timothy	2 Timothy		Bogus
-TIT	56	3	NT	Titus	Epistle of St Paul to Titus	Tito		ΠΡΟΣ ΤΙΤΟΝ	Ad Titum	Titus	Titus		Bogus
-PHM	57	1	NT	Philemon	Epistle of St Paul to Philemon	Filemón		ΠΡΟΣ ΦΙΛΗΜΟΝΑ	Ad Philemonem	Philemon	Philemon		Bogus
-HEB	58	13	NT	Hebrews	Epistle to the Hebrews	Hebreos		ΠΡΟΣ ΕΒΡΑΙΟΥΣ	Ad Hebraeos	Hebrews	Hebrews		Bogus
-JAS	59	5	NT	James	Epistle of St James	Santiago		ΙΑΚΩΒΟΥ	Epistula Iacobi	James	James		Bogus
-1PE	60	5	NT	1 Peter	First Epistle of St Peter	1 Pedro		ΠΕΤΡΟΥ Α΄	Epistula Petri I	1 Peter	1 Peter		Bogus
-2PE	61	3	NT	2 Peter	Second Epistle of St Peter	2 Pedro		ΠΕΤΡΟΥ Β΄	Epistula Petri II	2 Peter	2 Peter		Bogus
-1JN	62	5	NT	1 John	First Epistle of St John	1 Juan		ΙΩΑΝΝΟΥ Α΄	Epistula Ioannis I	1 John	1 John		Bogus
-2JN	63	1	NT	2 John	Second Epistle of St John	2 Juan		ΙΩΑΝΝΟΥ Β΄	Epistula Ioannis II	2 John	2 John		Bogus
-3JN	64	1	NT	3 John	Third Epistle of St John	3 Juan		ΙΩΑΝΝΟΥ Γ΄	Epistula Ioannis III	3 John	3 John		Bogus
-JUD	65	1	NT	Jude	Epistle of St Jude	Judas		ΙΟΥΔΑ	Epistula Iudae	Jude	Jude		Bogus
-REV	66	22	NT	Revelation	Book of Revelation	Apocalipsis		ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ	Apocalypsis Ioannis	Revelation	Revelation		Bogus
-TOB	67	14	CC	Tobit	Book of Tobit	Tobit			Tobiae	Tobit	Tobit		Bogus
-JDT	68	16	CC	Judith	Book of Judith	Judit			Judith	Judith	Judith		Bogus
-ESG	69	10	OC	Greek Esther	Greek Book of Esther					Greek Esther	Greek Esther		Bogus
-WIS	70	19	CC	Wisdom	Wisdom of Solomon	Sabiduría			Sapientia	Wisdom of Solomon	Wisdom		Bogus
-SIR	71	52	CC	Sirach	Wisdom of Sirach	Eclesiástico			Ecclesiasticus	Sirach	Sirach		Bogus
-BAR	72	6	CC	Baruch	Book of Baruch	Baruc			Baruch	Baruch	Baruch		Bogus
-LJE	73	1	OC	Letter of Jeremiah	Letter of Jeremiah					Letter of Jeremiah	Letter of Jeremiah		Bogus
-S3Y	74	1	OC	Song of the Three Young Men with Prayer of Azariah	Song of the Three Young Men with Prayer of Azariah					Song of the Three Young Men	Song of the Three Young Men		Bogus
-SUS	75	1	OC	Susanna	Book of Susanna					Susanna	Susanna		Bogus
-BEL	76	1	OC	Bel and the Dragon	Bel and the Dragon					Bel and the Dragon	Bel and the Dragon		Bogus
-1MA	77	16	CC	1 Maccabees	First Book of the Maccabees	1 Macabeos			I Machabaeorum	1 Maccabees	1 Maccabees		Bogus
-2MA	78	15	CC	2 Maccabees	Second Book of the Maccabees	2 Macabeos			II Machabaeorum	2 Maccabees	2 Maccabees		Bogus
-3MA	79	7	OC	3 Maccabees	Third Book of the Maccabees					3 Maccabees	3 Maccabees		Bogus
-4MA	80	18	OC	4 Maccabees	Fourth Book of the Maccabees					4 Maccabees	4 Maccabees		Bogus
-1ES	81	9	OC	1 Esdras	First Book of Ezra					1 Esdras	1 Esdras		Bogus
-2ES	82	16	OC	2 Esdras	Second Book of Ezra					2 Esdras	2 Esdras		Bogus
-MAN	83	1	OC	Prayer of Manasseh	Prayer of Manasseh					Prayer of Manasseh	Prayer of Manasseh		Bogus
-PS2	84	1	OC	Psalm 151	Psalm 151					Psalm 151	Psalm 151		Bogus
-ODA	85		OC	Odae/Odes									Bogus
-PSS	86		OC	Psalms of Solomon									Bogus
-EZA	A4		OC	Ezra Apocalypse									Bogus
-5EZ	A5		OC	5 Ezra									Bogus
-6EZ	A6		OC	6 Ezra									Bogus
-DAG	B2	10	OC	Greek Daniel	Greek Book of Daniel					Greek Daniel	Greek Daniel		Bogus
-PS3	B3		OC	Psalms 152-155									Bogus
-2BA	B4		OC	2 Baruch (Apocalypse)									Bogus
-LBA	B5		OC	Letter of Baruch									Bogus
-JUB	B6		OC	Jubilees									Bogus
-ENO	B7		OC	Enoch									Bogus
-1MQ	B8		OC	1 Meqabyan/Mekabis									Bogus
-2MQ	B9		OC	2 Meqabyan/Mekabis									Bogus
-3MQ	C0		OC	3 Meqabyan/Mekabis									Bogus
-REP	C1		OC	Reproof									Bogus
-4BA	C2		OC	4 Baruch									Bogus
-LAO	C3		OC	Letter to the Laodiceans									Bogus
+BookID	SeqID_USFM	ChapCounts	CanonType	BookName	BookNameAnnouncedByLector	BookName_es_Common	BookName_he_Common	BookName_he_Common	BookName_la_Common	BookName_NRSV	BookName_RSV	BookNotesUSFM	BlankColumn
+GEN	01	50	OT	Genesis	Book of Genesis	Génesis	בראשית		Genesis	Genesis	Genesis		
+EXO	02	40	OT	Exodus	Book of Exodus	Éxodo	שמות		Exodus	Exodus	Exodus		
+LEV	03	27	OT	Leviticus	Book of Leviticus	Levítico	ויקרא		Leviticus	Leviticus	Leviticus		
+NUM	04	36	OT	Numbers	Book of Numbers	Numeros	במדבר		Numeri	Numbers	Numbers		
+DEU	05	34	OT	Deuteronomy	Book of Deuteronomy	Deuteronomio	דברים		Deuteronomium	Deuteronomy	Deuteronomy		
+JOS	06	24	OT	Joshua	Book of Joshua	Josué	יהושע		Josue	Joshua	Joshua		
+JDG	07	21	OT	Judges	Book of Judges	Jueces	שופטים		Judicum	Judges	Judges		
+RUT	08	4	OT	Ruth	Book of Ruth	Rut	רות		Ruth	Ruth	Ruth		
+1SA	09	31	OT	1 Samuel	First Book of Samuel	1 Samuel	שמואל א		I Samuhel	1 Samuel	1 Samuel		
+2SA	10	24	OT	2 Samuel	Second Book of Samuel	2 Samuel	שמואל ב		II Samuhel	2 Samuel	2 Samuel		
+1KI	11	22	OT	1 Kings	First Book of Kings	1 Reyes	מלכים א		I Regum	1 Kings	1 Kings		
+2KI	12	25	OT	2 Kings	Second Book of Kings	2 Reyes	מלכים ב		II Regum	2 Kings	2 Kings		
+1CH	13	29	OT	1 Chronicles	First Book of Chronicles	1 Crónicas	דברי הימים א		I Paralipomenon	1 Chronicles	1 Chronicles		
+2CH	14	36	OT	2 Chronicles	Second Book of Chronicles	2 Crónicas	דברי הימים ב		II Paralipomenon	2 Chronicles	2 Chronicles		
+EZR	15	10	OT	Ezra	Book of Ezra	Esdras	עזרא		Esdrae	Ezra	Ezra		
+NEH	16	13	OT	Nehemiah	Book of Nehemiah	Nehemías	נחמיה		Nehemiae	Nehemiah	Nehemiah		
+EST	17	10	OT	Esther	Book of Esther	Ester	אסתר		Esther	Esther	Esther		
+JOB	18	42	OT	Job	Book of Job	Job	איוב		Job	Job	Job		
+PSA	19	150	OT	Psalms	Book of Psalms	Salmos	תהילים		Psalmi	Psalm	Psalm		
+PRO	20	31	OT	Proverbs	Book of Proverbs	Proverbios	משלי		Proverbia	Proverbs	Proverbs		
+ECC	21	12	OT	Ecclesiastes	Book of Ecclesiastes	Eclesiastés	קהלת		Ecclesiastes	Ecclesiastes	Ecclesiastes		
+SNG	22	8	OT	Song of Solomon	Song of Solomon	Cantares	שיר השירים		Canticum Canticorum	Song of Solomon	Song of Solomon		
+ISA	23	66	OT	Isaiah	Book of the Prophet Isaiah	Isaías	ישעה		Isaias	Isaiah	Isaiah		
+JER	24	52	OT	Jeremiah	Book of the Prophet Jeremiah	Jeremías	ירמיה		Jeremias	Jeremiah	Jeremiah		
+LAM	25	5	OT	Lamentations	Book of the Lamentations	Lamentaciones	איכה		Lamentationes	Lamentations	Lamentations		
+EZK	26	48	OT	Ezekiel	Book of the Prophet Ezekiel	Ezequiel	יחזקאל		Ezechiel	Ezekiel	Ezekiel		
+DAN	27	14	OT	Daniel	Book of the Prophet Daniel	Daniel	דניאל		Daniel	Daniel	Daniel		
+HOS	28	14	OT	Hosea	Book of the Prophet Hosea	Oseas	הושע		Osee	Hosea	Hosea		
+JOL	29	3	OT	Joel	Book of the Prophet Joel	Joel	יואל		Joel	Joel	Joel		
+AMO	30	9	OT	Amos	Book of the Prophet Amos	Amós	עמוס		Amos	Amos	Amos		
+OBA	31	1	OT	Obadiah	Book of the Prophet Obadiah	Abdías	עבדיה		Abdias	Obadiah	Obadiah		
+JON	32	4	OT	Jonah	Book of the Prophet Jonah	Jonás	יונה		Jonas	Jonah	Jonah		
+MIC	33	7	OT	Micah	Book of the Prophet Micah	Miqueas	מיכה		Michaea	Micah	Micah		
+NAM	34	3	OT	Nahum	Book of the Prophet Nahum	Nahum	נחום		Nahum	Nahum	Nahum		
+HAB	35	3	OT	Habakkuk	Book of the Prophet Habakkuk	Habacuc	חבקוק		Habacuc	Habakkuk	Habakkuk		
+ZEP	36	3	OT	Zephaniah	Book of the Prophet Zephaniah	Sofonías	צפניה		Sophonias	Zephaniah	Zephaniah		
+HAG	37	2	OT	Haggai	Book of the Prophet Haggai	Hageo	חגי		Aggaeus	Haggai	Haggai		
+ZEC	38	14	OT	Zechariah	Book of the Prophet Zechariah	Zacarías	זכריה		Zacharias	Zechariah	Zechariah		
+MAL	39	4	OT	Malachi	Book of the Prophet Malachi	Malaquías	מלאכי		Malachias	Malachi	Malachi		
+MAT	40	28	NT	Matthew	Gospel of our Lord Jesus Christ according to St Matthew	Mateo		ΚΑΤΑ ΜΑΤΘΑΙΟΝ	Secundum Matthaeum	Matthew	Matthew		
+MRK	41	16	NT	Mark	Gospel of our Lord Jesus Christ according to St Mark	Marcos		ΚΑΤΑ ΜΑΡΚΟΝ	Secundum Marcum	Mark	Mark		
+LUK	42	24	NT	Luke	Gospel of our Lord Jesus Christ according to St Luke	Lucas		ΚΑΤΑ ΛΟΥΚΑΝ	Secundum Lucam	Luke	Luke		
+JHN	43	21	NT	John	Gospel of our Lord Jesus Christ according to St John	Juan		ΚΑΤΑ ΙΩΑΝΝΗΝ	Secundum Ioannem	John	John		
+ACT	44	28	NT	Acts	Acts of the Apostles	Hechos		ΠΡΑΞΕΙΣ ΤΩΝ ΑΠΟΣΤΟΛΩΝ	Actus Apostolorum	Acts	Acts		
+ROM	45	16	NT	Romans	Epistle of St Paul to the Romans	Romanos		ΠΡΟΣ ΡΩΜΑΙΟΥΣ	Ad Romanos	Romans	Romans		
+1CO	46	16	NT	1 Corinthians	First Epistle of St Paul to the Corinthians	1 Corintios		ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄	Ad Corinthios I	1 Corinthians	1 Corinthians		
+2CO	47	13	NT	2 Corinthians	Second Epistle of St Paul to the Corinthians	2 Corintios		ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄	Ad Corinthios II	2 Corinthians	2 Corinthians		
+GAL	48	6	NT	Galatians	Epistle of St Paul to the Galatians	Gálatas		ΠΡΟΣ ΓΑΛΑΤΑΣ	Ad Galatas	Galatians	Galatians		
+EPH	49	6	NT	Ephesians	Epistle of St Paul to the Ephesians	Efesios		ΠΡΟΣ ΕΦΕΣΙΟΥΣ	Ad Ephesios	Ephesians	Ephesians		
+PHP	50	4	NT	Philippians	Epistle of St Paul to the Philippians	Filipenses		ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ	Ad Philippenses	Philippians	Philippians		
+COL	51	4	NT	Colossians	Epistle of St Paul to the Colossians	Colosenses		ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ	Ad Colossenses	Colossians	Colossians		
+1TH	52	5	NT	1 Thessalonians	First Epistle of St Paul to the Thessalonians	1 Tesalonicenses		ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄	Ad Thessalonicenses I	1 Thessalonians	1 Thessalonians		
+2TH	53	3	NT	2 Thessalonians	Second Epistle of St Paul to the Thessalonians	2 Tesalonicenses		ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β΄	Ad Thessalonicenses II	2 Thessalonians	2 Thessalonians		
+1TI	54	6	NT	1 Timothy	First Epistle of St Paul to Timothy	1 Timoteo		ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄	Ad Timotheum I	1 Timothy	1 Timothy		
+2TI	55	4	NT	2 Timothy	Second Epistle of St Paul to Timothy	2 Timoteo		ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄	Ad Timotheum II	2 Timothy	2 Timothy		
+TIT	56	3	NT	Titus	Epistle of St Paul to Titus	Tito		ΠΡΟΣ ΤΙΤΟΝ	Ad Titum	Titus	Titus		
+PHM	57	1	NT	Philemon	Epistle of St Paul to Philemon	Filemón		ΠΡΟΣ ΦΙΛΗΜΟΝΑ	Ad Philemonem	Philemon	Philemon		
+HEB	58	13	NT	Hebrews	Epistle to the Hebrews	Hebreos		ΠΡΟΣ ΕΒΡΑΙΟΥΣ	Ad Hebraeos	Hebrews	Hebrews		
+JAS	59	5	NT	James	Epistle of St James	Santiago		ΙΑΚΩΒΟΥ	Epistula Iacobi	James	James		
+1PE	60	5	NT	1 Peter	First Epistle of St Peter	1 Pedro		ΠΕΤΡΟΥ Α΄	Epistula Petri I	1 Peter	1 Peter		
+2PE	61	3	NT	2 Peter	Second Epistle of St Peter	2 Pedro		ΠΕΤΡΟΥ Β΄	Epistula Petri II	2 Peter	2 Peter		
+1JN	62	5	NT	1 John	First Epistle of St John	1 Juan		ΙΩΑΝΝΟΥ Α΄	Epistula Ioannis I	1 John	1 John		
+2JN	63	1	NT	2 John	Second Epistle of St John	2 Juan		ΙΩΑΝΝΟΥ Β΄	Epistula Ioannis II	2 John	2 John		
+3JN	64	1	NT	3 John	Third Epistle of St John	3 Juan		ΙΩΑΝΝΟΥ Γ΄	Epistula Ioannis III	3 John	3 John		
+JUD	65	1	NT	Jude	Epistle of St Jude	Judas		ΙΟΥΔΑ	Epistula Iudae	Jude	Jude		
+REV	66	22	NT	Revelation	Book of Revelation	Apocalipsis		ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ	Apocalypsis Ioannis	Revelation	Revelation		
+TOB	67	14	CC	Tobit	Book of Tobit	Tobit			Tobiae	Tobit	Tobit		
+JDT	68	16	CC	Judith	Book of Judith	Judit			Judith	Judith	Judith		
+ESG	69	10	OC	Greek Esther	Greek Book of Esther					Greek Esther	Greek Esther		
+WIS	70	19	CC	Wisdom	Wisdom of Solomon	Sabiduría			Sapientia	Wisdom of Solomon	Wisdom		
+SIR	71	52	CC	Sirach	Wisdom of Sirach	Eclesiástico			Ecclesiasticus	Sirach	Sirach		
+BAR	72	6	CC	Baruch	Book of Baruch	Baruc			Baruch	Baruch	Baruch		
+LJE	73	1	OC	Letter of Jeremiah	Letter of Jeremiah					Letter of Jeremiah	Letter of Jeremiah		
+S3Y	74	1	OC	Song of the Three Young Men with Prayer of Azariah	Song of the Three Young Men with Prayer of Azariah					Song of the Three Young Men	Song of the Three Young Men		
+SUS	75	1	OC	Susanna	Book of Susanna					Susanna	Susanna		
+BEL	76	1	OC	Bel and the Dragon	Bel and the Dragon					Bel and the Dragon	Bel and the Dragon		
+1MA	77	16	CC	1 Maccabees	First Book of the Maccabees	1 Macabeos			I Machabaeorum	1 Maccabees	1 Maccabees		
+2MA	78	15	CC	2 Maccabees	Second Book of the Maccabees	2 Macabeos			II Machabaeorum	2 Maccabees	2 Maccabees		
+3MA	79	7	OC	3 Maccabees	Third Book of the Maccabees					3 Maccabees	3 Maccabees		
+4MA	80	18	OC	4 Maccabees	Fourth Book of the Maccabees					4 Maccabees	4 Maccabees		
+1ES	81	9	OC	1 Esdras	First Book of Ezra					1 Esdras	1 Esdras		
+2ES	82	16	OC	2 Esdras	Second Book of Ezra					2 Esdras	2 Esdras		
+MAN	83	1	OC	Prayer of Manasseh	Prayer of Manasseh					Prayer of Manasseh	Prayer of Manasseh		
+PS2	84	1	OC	Psalm 151	Psalm 151					Psalm 151	Psalm 151		
+ODA	85		OC	Odae/Odes									
+PSS	86		OC	Psalms of Solomon									
+EZA	A4		OC	Ezra Apocalypse									
+5EZ	A5		OC	5 Ezra									
+6EZ	A6		OC	6 Ezra									
+DAG	B2	10	OC	Greek Daniel	Greek Book of Daniel					Greek Daniel	Greek Daniel		
+PS3	B3		OC	Psalms 152-155									
+2BA	B4		OC	2 Baruch (Apocalypse)									
+LBA	B5		OC	Letter of Baruch									
+JUB	B6		OC	Jubilees									
+ENO	B7		OC	Enoch									
+1MQ	B8		OC	1 Meqabyan/Mekabis									
+2MQ	B9		OC	2 Meqabyan/Mekabis									
+3MQ	C0		OC	3 Meqabyan/Mekabis									
+REP	C1		OC	Reproof									
+4BA	C2		OC	4 Baruch									
+LAO	C3		OC	Letter to the Laodiceans									

@@ -1,35 +1,35 @@
-TranslationID	TranslationName	UrlToken	LanguageCode_BookNames_ColNum	NoTabEndingColumn
-de_DB	Die Bibel	die-bibel	3	Bogus
-de_RE	Revidierte Einheitsübersetzung 2016	revidierte-einheitsubersetzung-2016	3	Bogus
-en_CCB	Christian Community Bible	christian-community-bible	4	Bogus
-en_CPDV	Catholic Public Domain Version	catholic-public-domain-version	4	Bogus
-en_DRV	Douay-Rheims Version	douay-rheims-version	4	Bogus
-en_KB	The Knox Bible	the-knox-bible	4	Bogus
-en_KJV	King James Version	king-james-version	4	Bogus
-en_NAB	The New American Bible	the-new-american-bible	4	Bogus
-en_NJB	New Jerusalem Bible	new-jerusalem-bible	4	Bogus
-en_RSV	Revised Standard Version	revised-standard-version	4	Bogus
-es_BLA	Biblia Latinoamericana	biblia-latinoamericana	5	Bogus
-es_ELDDPDD	El Libro del Pueblo de Dios	el-libro-del-pueblo-de-dios	6	Bogus
-es_LBDJ	La Biblia de Jerusalén	la-biblia-de-jerusalen	6	Bogus
-es_LSB	La Santa Biblia	la-santa-biblia	6	Bogus
-fi_RJB	Raamattu ja Biblia	raamattu-ja-biblia	7	Bogus
-fr_JB	Bíblia de Jerusalem	biblia-de-jerusalem	8	Bogus
-fr_LBDCC	La Bible Des Communautés Chrétiennes	la-bible-des-communautes-chretiennes	8	Bogus
-fr_LSB	La Sainte Bible (Traduction catholique de Fillion)	la-sainte-bible-traduction-catholique-de-fillion	8	Bogus
-fr_LSB1923	La Sainte Bible (Augustin Crampon 1923)	la-sainte-bible-augustin-crampon-1923	8	Bogus
-gr_LXXWNT	Septuaginta + NT	septuaginta	9	Bogus
-gr_LXXWNTTR	Septuaginta + NT (transliterada)	septuaginta-transliterada	9	Bogus
-hr_BH	Biblija Hrvatski	biblija-hrvatski	10	Bogus
-hu_KB	Katolikus Biblia	katolikus-biblia	11	Bogus
-it_LB	La Bibbia	la-bibbia	12	Bogus
-it_LSB1974	La Sacra Bibbia (Versione CEI 1974)	la-sacra-bibbia	12	Bogus
-it_LSB2008	La Sacra Bibbia (Versione CEI 2008)	la-sacra-bibbia-versione-cei-2008	12	Bogus
-it_SB	Sacra Bibbia (Edizione Liber Liber)	sacra-bibbia-edizione-liber-liber	12	Bogus
-la_NVL	Neo Vulgata Latina	neo-vulgata-latina	13	Bogus
-la_VC	Vulgata Clementina	vulgata-clementina	13	Bogus
-la_VL	Vulgata Latina	vulgata-latina	13	Bogus
-pl_BT	Biblia Tysiąclecia	biblia-tysiaclecia	14	Bogus
-pt_BAM	Bíblia Ave Maria	biblia-ave-maria	15	Bogus
-pt_BMS1956	Bíblia Matos Soares (1956)	la-sacra-bibbia	15	Bogus
-ro_BRC	Biblia Romano-Catolică	biblia-romano-catolica	16	Bogus
+TranslationID	TranslationName	UrlToken	LanguageCode_BookNames_ColNum	BlankColumn
+de_DB	Die Bibel	die-bibel	3	
+de_RE	Revidierte Einheitsübersetzung 2016	revidierte-einheitsubersetzung-2016	3	
+en_CCB	Christian Community Bible	christian-community-bible	4	
+en_CPDV	Catholic Public Domain Version	catholic-public-domain-version	4	
+en_DRV	Douay-Rheims Version	douay-rheims-version	4	
+en_KB	The Knox Bible	the-knox-bible	4	
+en_KJV	King James Version	king-james-version	4	
+en_NAB	The New American Bible	the-new-american-bible	4	
+en_NJB	New Jerusalem Bible	new-jerusalem-bible	4	
+en_RSV	Revised Standard Version	revised-standard-version	4	
+es_BLA	Biblia Latinoamericana	biblia-latinoamericana	5	
+es_ELDDPDD	El Libro del Pueblo de Dios	el-libro-del-pueblo-de-dios	6	
+es_LBDJ	La Biblia de Jerusalén	la-biblia-de-jerusalen	6	
+es_LSB	La Santa Biblia	la-santa-biblia	6	
+fi_RJB	Raamattu ja Biblia	raamattu-ja-biblia	7	
+fr_JB	Bíblia de Jerusalem	biblia-de-jerusalem	8	
+fr_LBDCC	La Bible Des Communautés Chrétiennes	la-bible-des-communautes-chretiennes	8	
+fr_LSB	La Sainte Bible (Traduction catholique de Fillion)	la-sainte-bible-traduction-catholique-de-fillion	8	
+fr_LSB1923	La Sainte Bible (Augustin Crampon 1923)	la-sainte-bible-augustin-crampon-1923	8	
+gr_LXXWNT	Septuaginta + NT	septuaginta	9	
+gr_LXXWNTTR	Septuaginta + NT (transliterada)	septuaginta-transliterada	9	
+hr_BH	Biblija Hrvatski	biblija-hrvatski	10	
+hu_KB	Katolikus Biblia	katolikus-biblia	11	
+it_LB	La Bibbia	la-bibbia	12	
+it_LSB1974	La Sacra Bibbia (Versione CEI 1974)	la-sacra-bibbia	12	
+it_LSB2008	La Sacra Bibbia (Versione CEI 2008)	la-sacra-bibbia-versione-cei-2008	12	
+it_SB	Sacra Bibbia (Edizione Liber Liber)	sacra-bibbia-edizione-liber-liber	12	
+la_NVL	Neo Vulgata Latina	neo-vulgata-latina	13	
+la_VC	Vulgata Clementina	vulgata-clementina	13	
+la_VL	Vulgata Latina	vulgata-latina	13	
+pl_BT	Biblia Tysiąclecia	biblia-tysiaclecia	14	
+pt_BAM	Bíblia Ave Maria	biblia-ave-maria	15	
+pt_BMS1956	Bíblia Matos Soares (1956)	la-sacra-bibbia	15	
+ro_BRC	Biblia Romano-Catolică	biblia-romano-catolica	16	

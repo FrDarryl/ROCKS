@@ -11,7 +11,7 @@ function Usage() {
 
 source "${ROCKS_HOME}/bin/Initialise.sh"
 
-[[ $# -lt 4 ]] && Usage
+[[ $# -lt 1 ]] && Usage
 
 source "${ROCKS_HOME}/bin/Get_user_parameters.sh"
 

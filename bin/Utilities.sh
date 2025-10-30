@@ -78,7 +78,8 @@ function Create_tsv_from_vcs() {
 
     LogEcho "INFO" "Reading ${vcsFP}..."
 
-    firstLineWritten='FALSE'
+    tsvLine="Date	DOW	Rite	PropersID_Selected	PropersID_Alt	PropersID_Default	PropersID_Option1	PropersID_Option2	PropersID_Option3	PropersID_Option4	BlankColumn"
+    echo "${tsvLine}" >| "${tsvFP}"
 
     while read -r inputLine; do
 
@@ -104,17 +105,13 @@ function Create_tsv_from_vcs() {
 
         firstPropersID=$(echo "${propersIDs}" | cut -d '|' -f 1)
 
-        pipeLine="${ordoDate}|${ordoDow}|${Rite}|${firstPropersID}|${propersIDs}"
+        pipeLine="${ordoDate}|${ordoDow}|${Rite}|${firstPropersID}||${propersIDs}"
 
         tsvLine=$(echo "${pipeLine}" | perl -lpe "s/\|/\t/g")
         LogEcho "INFO" "            Writing tsvLine ${tsvLine}"
 
-        if [[ "${firstLineWritten}" == 'FALSE' ]]; then
-            echo "${tsvLine}" >| "${tsvFP}"
-            firstLineWritten='TRUE'
-        else
-            echo "${tsvLine}" >> "${tsvFP}"
-        fi
+        echo "${tsvLine}" >> "${tsvFP}"
+
     done <${vcsFP}
 
     # Old method: Ordo.pl Create_Ordo -r="${Rite}" -y="${Year}" -u="${IcsUrl}" -o="${TsvFP}" > /dev/null 2>&1

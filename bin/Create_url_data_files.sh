@@ -63,6 +63,15 @@ function Create_Articuli_url_data_files() {
             cat "${tmpFP}" >| "${RstFP}"
             ;;
 
+        *onepeterfive*)
+
+            cat "${RstFP}" |
+                perl -p0e "s/.+?Sign up to receive new OnePeterFive articles daily//ms" |
+                perl -p0e "s/Popular on OnePeterFive.+//ms" >| "${tmpFP}"
+            Detox_txt "${tmpFP}"
+            cat "${tmpFP}" >| "${RstFP}"
+            ;;
+
         *thecatholicherald*)
 
             cat "${RstFP}" |

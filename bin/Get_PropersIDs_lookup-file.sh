@@ -29,7 +29,10 @@ LookupPropersIdsFP="${ROCKS_LOOKUP}/Lookup_PropersIDs.tsv"
 
 [[ -f "${LookupPropersIdsFP}" ]] && rm "${LookupPropersIdsFP}"
 
-echo "Feria" > "${LookupPropersIdsFP}" # Not specified in Calendaria or Propria files
+echo "PropersIDs	" > "${LookupPropersIdsFP}" # Not specified in Calendaria or Propria files
+echo "Feria	" >> "${LookupPropersIdsFP}" # Not specified in Calendaria or Propria files
+
+perl -p -i -e 's/$/\t/' "${tmpFP}"
 
 cat "${tmpFP}" | sort -u | gawk '!/^$/' >> "${LookupPropersIdsFP}"
 

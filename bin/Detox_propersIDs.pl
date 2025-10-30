@@ -88,6 +88,7 @@ $propersID =~ s/ 32:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXXII:$1/;
 $propersID =~ s/ 33:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXXIII:$1/;
 $propersID =~ s/ 34:(Sun|Mon|Tue|Wed|Thu|Fri|Sat)/ XXXIV:$1/;
 
+$propersID =~ s/(Epiphanytide|Epiphany|Trinitytide|Trinity) First/$1 I/;
 $propersID =~ s/(Epiphanytide|Epiphany|Trinitytide|Trinity) Second/$1 II/;
 $propersID =~ s/(Epiphanytide|Epiphany|Trinitytide|Trinity) Third/$1 III/;
 $propersID =~ s/(Epiphanytide|Epiphany|Trinitytide|Trinity) Fourth/$1 IV/;
