@@ -5,7 +5,9 @@ Padua
 
 [10]a verson of the 2014 computer based forensic reconstruction of the
 face of Saint Anthony of Padua based on a digital version of his skull;
-swiped from Wikimedia Commons Two weeks ago I presented Saint Francis
+swiped from Wikimedia Commons
+
+1. Two weeks ago I presented Saint Francis
 of Assisi. This morning I would like to speak of another saint who
 belonged to the first generation of the Friars Minor: Anthony of Padua,
 or of Lisbon, as he is also called with reference to his native town.
