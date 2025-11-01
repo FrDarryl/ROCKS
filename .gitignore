@@ -2,3 +2,7 @@ archive/
 docs/
 log/
 tmp/
+# Ignore vim files:
+*~
+*.swp
+*.swo
