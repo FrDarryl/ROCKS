@@ -6,3 +6,5 @@ tmp/
 *~
 *.swp
 *.swo
+# Ignore perl tmp file:
+*.bak
