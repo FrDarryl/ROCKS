@@ -137,7 +137,7 @@ Date	DOW	Rite	PropersID_Selected	PropersID_Alt	PropersID_Default	PropersID_Optio
 2026-05-16	Sat	NOE	Eastertide VI:Sat		Eastertide VI:Sat
 2026-05-17	Sun	NOE	EASTER VII		EASTER VII
 2026-05-18	Mon	NOE	Ascensiontide II:Mon		Ascensiontide II:Mon
-2026-05-19	Tue	NOE	Ascensiontide II:Tue		Ascensiontide II:Tue
+2026-05-19	Tue	NOE	Dedication of the Cathedral		Dedication of the Cathedral
 2026-05-20	Wed	NOE	Ascensiontide II:Wed		Ascensiontide II:Wed
 2026-05-21	Thu	NOE	Ascensiontide II:Thu		Ascensiontide II:Thu
 2026-05-22	Fri	NOE	Ascensiontide II:Fri		Ascensiontide II:Fri
@@ -194,9 +194,9 @@ Date	DOW	Rite	PropersID_Selected	PropersID_Alt	PropersID_Default	PropersID_Optio
 2026-07-12	Sun	NOE	ORDINARY TIME XV		ORDINARY TIME XV
 2026-07-13	Mon	NOE	Ord Time XV:Mon		Ord Time XV:Mon	St Henry of Bavaria, Holy Roman Emperor
 2026-07-14	Tue	NOE	Ord Time XV:Tue		Ord Time XV:Tue	St Camillus of Lellis, Priest
-2026-07-15	Wed	NOE	St Bonaventure, Bishop, Doctor		St Bonaventure, Bishop, Doctor
+2026-07-15	Wed	NOE	St Swithun, Bishop		St Swithun, Bishop
 2026-07-16	Thu	NOE	Ord Time XV:Thu		Ord Time XV:Thu	Our Lady of Mount Carmel
-2026-07-17	Fri	NOE	Ord Time XV:Fri		Ord Time XV:Fri
+2026-07-17	Fri	NOE	St Bonaventure, Bishop, Doctor		St Bonaventure, Bishop, Doctor
 2026-07-18	Sat	NOE	Ord Time XV:Sat		Ord Time XV:Sat	Saturday memorial of our Lady
 2026-07-19	Sun	NOE	ORDINARY TIME XVI		ORDINARY TIME XVI
 2026-07-20	Mon	NOE	Ord Time XVI:Mon		Ord Time XVI:Mon	St Apollinaris, Bishop, Martyr
@@ -318,7 +318,7 @@ Date	DOW	Rite	PropersID_Selected	PropersID_Alt	PropersID_Default	PropersID_Optio
 2026-11-13	Fri	NOE	Ord Time XXXII:Fri		Ord Time XXXII:Fri
 2026-11-14	Sat	NOE	Ord Time XXXII:Sat		Ord Time XXXII:Sat	Saturday memorial of our Lady
 2026-11-15	Sun	NOE	ORDINARY TIME XXXIII		ORDINARY TIME XXXIII
-2026-11-16	Mon	NOE	Ord Time XXXIII:Mon		Ord Time XXXIII:Mon	St Margaret of Scotland, Queen	St Gertrude, Virgin	St Edmund of Abingdon, Bishop
+2026-11-16	Mon	NOE	St Edmund of Abingdon, Bishop		St Edmund of Abingdon, Bishop
 2026-11-17	Tue	NOE	Ord Time XXXIII:Tue		Ord Time XXXIII:Tue	St Elizabeth of Hungary, Religious	St Hilda of Whitby, Abbess	St Hugh of Lincoln, Bishop
 2026-11-18	Wed	NOE	Ord Time XXXIII:Wed		Ord Time XXXIII:Wed	Dedication of the Basilicas of Ss Peter & Paul, Apostles
 2026-11-19	Thu	NOE	Ord Time XXXIII:Thu		Ord Time XXXIII:Thu

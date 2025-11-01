@@ -1,7 +1,7 @@
 #!/bin/env bash
 
 function Usage() {
-    LogEcho "ERROR" "Usage: $0 -d DataType -u URL"
+    LogEcho "ERROR" "Usage: $0 -d DataType"
     exit 1
 }
 

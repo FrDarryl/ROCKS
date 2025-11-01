@@ -1,0 +1,367 @@
+Date	DOW	Rite	PropersID_Selected	PropersID_Alt	PropersID_Default	PropersID_Option1	PropersID_Option2	PropersID_Option3	PropersID_Option4	BlankColumn
+2028-01-01	Sat	VOE	Mary, Mother of God		Mary, Mother of God
+2028-01-02	Sun	VOE	CHRISTMAS II		CHRISTMAS II
+2028-01-03	Mon	VOE	3 Jan:Most Holy Name of Jesus		3 Jan:Most Holy Name of Jesus
+2028-01-04	Tue	VOE	4 Jan		4 Jan
+2028-01-05	Wed	VOE	5 Jan		5 Jan
+2028-01-06	Thu	VOE	EPIPHANY OF THE LORD		EPIPHANY OF THE LORD
+2028-01-07	Fri	VOE	7 Jan		7 Jan	St Raymond of Penyafort, Priest
+2028-01-08	Sat	VOE	8 Jan		8 Jan
+2028-01-09	Sun	VOE	BAPTISM OF THE LORD		BAPTISM OF THE LORD
+2028-01-10	Mon	VOE	Epiphanytide I:Mon		Epiphanytide I:Mon
+2028-01-11	Tue	VOE	Epiphanytide I:Tue		Epiphanytide I:Tue
+2028-01-12	Wed	VOE	Epiphanytide I:Wed		Epiphanytide I:Wed	St Aelred of Rievaulx, Abbot	St Benet Biscop, Abbot
+2028-01-13	Thu	VOE	Epiphanytide I:Thu		Epiphanytide I:Thu	St Kentigern, Bishop	St Hilary of Poitiers, Bishop, Doctor
+2028-01-14	Fri	VOE	Epiphanytide I:Fri		Epiphanytide I:Fri
+2028-01-15	Sat	VOE	Epiphanytide I:Sat		Epiphanytide I:Sat	Saturday memorial of our Lady
+2028-01-16	Sun	VOE	EPIPHANY II		EPIPHANY II
+2028-01-17	Mon	VOE	St Anthony the Great, Abbot		St Anthony the Great, Abbot
+2028-01-18	Tue	VOE	Epiphanytide II:Tue		Epiphanytide II:Tue
+2028-01-19	Wed	VOE	Epiphanytide II:Wed		Epiphanytide II:Wed	St Wulstan, Bishop, Religious
+2028-01-20	Thu	VOE	Epiphanytide II:Thu		Epiphanytide II:Thu	St Fabian, Pope, Martyr	St Sebastian, Martyr
+2028-01-21	Fri	VOE	St Agnes, Virgin, Martyr		St Agnes, Virgin, Martyr
+2028-01-22	Sat	VOE	Epiphanytide II:Sat		Epiphanytide II:Sat	St Vincent, Deacon, Martyr	Saturday memorial of our Lady
+2028-01-23	Sun	VOE	EPIPHANY III		EPIPHANY III
+2028-01-24	Mon	VOE	St Francis de Sales, Bishop, Doctor		St Francis de Sales, Bishop, Doctor
+2028-01-25	Tue	VOE	Conversion of St Paul, Apostle		Conversion of St Paul, Apostle
+2028-01-26	Wed	VOE	Ss Timothy & Titus, Bishops		Ss Timothy & Titus, Bishops
+2028-01-27	Thu	VOE	Epiphanytide III:Thu		Epiphanytide III:Thu	St Angela Merici, Virgin
+2028-01-28	Fri	VOE	St Thomas Aquinas, Catholic Education Patron, Priest, Doctor		St Thomas Aquinas, Catholic Education Patron, Priest, Doctor
+2028-01-29	Sat	VOE	Epiphanytide III:Sat		Epiphanytide III:Sat	Saturday memorial of our Lady
+2028-01-30	Sun	VOE	EPIPHANY IV		EPIPHANY IV
+2028-01-31	Mon	VOE	St John Bosco, Youth Patron, Priest		St John Bosco, Youth Patron, Priest
+2028-02-01	Tue	VOE	Epiphanytide IV:Tue		Epiphanytide IV:Tue	St Brigid of Kildare, Ireland Co-Patron, Virgin
+2028-02-02	Wed	VOE	Presentation of the Lord		Presentation of the Lord
+2028-02-03	Thu	VOE	Epiphanytide IV:Thu		Epiphanytide IV:Thu	St Ansgar, Bishop	St Blaise, Bishop, Martyr
+2028-02-04	Fri	VOE	Epiphanytide IV:Fri		Epiphanytide IV:Fri	St Gilbert of Sempringham, Abbot
+2028-02-05	Sat	VOE	St Agatha, Virgin, Martyr		St Agatha, Virgin, Martyr
+2028-02-06	Sun	VOE	EPIPHANY V		EPIPHANY V
+2028-02-07	Mon	VOE	Epiphanytide V:Mon		Epiphanytide V:Mon
+2028-02-08	Tue	VOE	Epiphanytide V:Tue		Epiphanytide V:Tue	St Jerome Emiliani, Orphans Patron, Founder	St Josephine Bakhita, Virgin
+2028-02-09	Wed	VOE	Epiphanytide V:Wed		Epiphanytide V:Wed
+2028-02-10	Thu	VOE	St Scholastica, Virgin		St Scholastica, Virgin
+2028-02-11	Fri	VOE	Epiphanytide V:Fri		Epiphanytide V:Fri	Our Lady of Lourdes
+2028-02-12	Sat	VOE	Epiphanytide V:Sat		Epiphanytide V:Sat	Saturday memorial of our Lady
+2028-02-13	Sun	VOE	SEPTUAGESIMA		SEPTUAGESIMA
+2028-02-14	Mon	VOE	Ss Cyril, Monk, & Methodius, Bishop, Europe Co-Patrons		Ss Cyril, Monk, & Methodius, Bishop, Europe Co-Patrons
+2028-02-15	Tue	VOE	Septuagesima:Tue		Septuagesima:Tue
+2028-02-16	Wed	VOE	Septuagesima:Wed		Septuagesima:Wed
+2028-02-17	Thu	VOE	Septuagesima:Thu		Septuagesima:Thu	Seven Holy Founders of the Servite Order
+2028-02-18	Fri	VOE	Septuagesima:Fri		Septuagesima:Fri
+2028-02-19	Sat	VOE	Septuagesima:Sat		Septuagesima:Sat	Saturday memorial of our Lady
+2028-02-20	Sun	VOE	SEXAGESIMA		SEXAGESIMA
+2028-02-21	Mon	VOE	Sexagesima:Mon		Sexagesima:Mon	St Peter Damian, Bishop, Doctor
+2028-02-22	Tue	VOE	Chair of St Peter, Apostle		Chair of St Peter, Apostle
+2028-02-23	Wed	VOE	St Polycarp, Bishop, Martyr		St Polycarp, Bishop, Martyr
+2028-02-24	Thu	VOE	Sexagesima:Thu		Sexagesima:Thu
+2028-02-25	Fri	VOE	Sexagesima:Fri		Sexagesima:Fri
+2028-02-26	Sat	VOE	Sexagesima:Sat		Sexagesima:Sat	Saturday memorial of our Lady
+2028-02-27	Sun	VOE	QUINQUAGESIMA		QUINQUAGESIMA
+2028-02-28	Mon	VOE	Quinquagesima:Mon		Quinquagesima:Mon
+2028-02-29	Tue	VOE	Quinquagesima:Tue		Quinquagesima:Tue
+2028-03-01	Wed	VOE	Ash Wednesday		Ash Wednesday
+2028-03-02	Thu	VOE	Thursday after Ash Wednesday		Thursday after Ash Wednesday
+2028-03-03	Fri	VOE	Friday after Ash Wednesday		Friday after Ash Wednesday
+2028-03-04	Sat	VOE	Saturday after Ash Wednesday		Saturday after Ash Wednesday	St Casimir, Confessor
+2028-03-05	Sun	VOE	LENT I		LENT I
+2028-03-06	Mon	VOE	Lent I:Mon		Lent I:Mon
+2028-03-07	Tue	VOE	Lent I:Tue		Lent I:Tue	Ss Perpetua & Felicity, Martyrs
+2028-03-08	Wed	VOE	Lent I:Wed		Lent I:Wed	St John of God, Religious
+2028-03-09	Thu	VOE	Lent I:Thu		Lent I:Thu	St Frances of Rome, Religious
+2028-03-10	Fri	VOE	Lent I:Fri		Lent I:Fri
+2028-03-11	Sat	VOE	Lent I:Sat		Lent I:Sat
+2028-03-12	Sun	VOE	LENT II		LENT II
+2028-03-13	Mon	VOE	Lent II:Mon		Lent II:Mon
+2028-03-14	Tue	VOE	Lent II:Tue		Lent II:Tue
+2028-03-15	Wed	VOE	Lent II:Wed		Lent II:Wed
+2028-03-16	Thu	VOE	Lent II:Thu		Lent II:Thu
+2028-03-17	Fri	VOE	St Patrick, Ireland Patron, Bishop, Missionary		St Patrick, Ireland Patron, Bishop, Missionary
+2028-03-18	Sat	VOE	Lent II:Sat		Lent II:Sat	St Cyril of Jerusalem, Bishop, Doctor
+2028-03-19	Sun	VOE	LENT III		LENT III
+2028-03-20	Mon	VOE	St Joseph, Husband of our Lady		St Joseph, Husband of our Lady
+2028-03-21	Tue	VOE	Lent III:Tue		Lent III:Tue
+2028-03-22	Wed	VOE	Lent III:Wed		Lent III:Wed
+2028-03-23	Thu	VOE	Lent III:Thu		Lent III:Thu	St Turibius of Mogrovejo, Bishop
+2028-03-24	Fri	VOE	Lent III:Fri		Lent III:Fri
+2028-03-25	Sat	VOE	Annunciation of the Lord		Annunciation of the Lord
+2028-03-26	Sun	VOE	LENT IV		LENT IV
+2028-03-27	Mon	VOE	Lent IV:Mon		Lent IV:Mon
+2028-03-28	Tue	VOE	Lent IV:Tue		Lent IV:Tue
+2028-03-29	Wed	VOE	Lent IV:Wed		Lent IV:Wed
+2028-03-30	Thu	VOE	Lent IV:Thu		Lent IV:Thu
+2028-03-31	Fri	VOE	Lent IV:Fri		Lent IV:Fri
+2028-04-01	Sat	VOE	Lent IV:Sat		Lent IV:Sat
+2028-04-02	Sun	VOE	PASSION SUNDAY		PASSION SUNDAY
+2028-04-03	Mon	VOE	Lent V:Mon		Lent V:Mon
+2028-04-04	Tue	VOE	Lent V:Tue		Lent V:Tue	St Isidore of Seville, Bishop, Doctor
+2028-04-05	Wed	VOE	Lent V:Wed		Lent V:Wed	St Vincent Ferrer, Priest
+2028-04-06	Thu	VOE	Lent V:Thu		Lent V:Thu
+2028-04-07	Fri	VOE	Lent V:Fri		Lent V:Fri	St John Baptist de La Salle, Catholic Education Co-Patron, Priest, Religious, Founder, Confessor
+2028-04-08	Sat	VOE	Lent V:Sat		Lent V:Sat
+2028-04-09	Sun	VOE	PALM SUNDAY		PALM SUNDAY
+2028-04-10	Mon	VOE	Holy Week:Mon		Holy Week:Mon
+2028-04-11	Tue	VOE	Holy Week:Tue		Holy Week:Tue
+2028-04-12	Wed	VOE	Holy Week:Wed		Holy Week:Wed
+2028-04-13	Thu	VOE	Mass of the Lord's Supper		Mass of the Lord's Supper
+2028-04-14	Fri	VOE	Mass of the Presanctified		Mass of the Presanctified
+2028-04-15	Sat	VOE	Holy Saturday		Holy Saturday
+2028-04-16	Sun	VOE	RESURRECTION OF THE LORD		RESURRECTION OF THE LORD
+2028-04-17	Mon	VOE	Easter Octave:Mon		Easter Octave:Mon
+2028-04-18	Tue	VOE	Easter Octave:Tue		Easter Octave:Tue
+2028-04-19	Wed	VOE	Easter Octave:Wed		Easter Octave:Wed
+2028-04-20	Thu	VOE	Easter Octave:Thu		Easter Octave:Thu
+2028-04-21	Fri	VOE	Easter Octave:Fri		Easter Octave:Fri
+2028-04-22	Sat	VOE	Easter Octave:Sat		Easter Octave:Sat
+2028-04-23	Sun	VOE	EASTER II		EASTER II
+2028-04-24	Mon	VOE	St George, England Patron, Martyr		St George, England Patron, Martyr
+2028-04-25	Tue	VOE	St Mark, Evangelist		St Mark, Evangelist
+2028-04-26	Wed	VOE	Eastertide II:Wed		Eastertide II:Wed
+2028-04-27	Thu	VOE	Eastertide II:Thu		Eastertide II:Thu
+2028-04-28	Fri	VOE	Eastertide II:Fri		Eastertide II:Fri	St Peter Chanel, Priest, Martyr	St Louis Grignion de Montfort, Priest
+2028-04-29	Sat	VOE	St Catherine of Siena, Europe Co-Patron, Virgin, Doctor		St Catherine of Siena, Europe Co-Patron, Virgin, Doctor
+2028-04-30	Sun	VOE	EASTER III		EASTER III
+2028-05-01	Mon	VOE	Eastertide III:Mon		Eastertide III:Mon	St Joseph the Worker
+2028-05-02	Tue	VOE	St Athanasius, Bishop, Doctor		St Athanasius, Bishop, Doctor
+2028-05-03	Wed	VOE	Ss Philip & James the Less, Apostles		Ss Philip & James the Less, Apostles
+2028-05-04	Thu	VOE	English Martyrs		English Martyrs
+2028-05-05	Fri	VOE	Eastertide III:Fri		Eastertide III:Fri
+2028-05-06	Sat	VOE	Eastertide III:Sat		Eastertide III:Sat	St John Before the Latin Gate
+2028-05-07	Sun	VOE	EASTER IV		EASTER IV
+2028-05-08	Mon	VOE	Eastertide IV:Mon		Eastertide IV:Mon
+2028-05-09	Tue	VOE	Eastertide IV:Tue		Eastertide IV:Tue
+2028-05-10	Wed	VOE	Eastertide IV:Wed		Eastertide IV:Wed	St John of Ávila, Priest, Doctor
+2028-05-11	Thu	VOE	Eastertide IV:Thu		Eastertide IV:Thu
+2028-05-12	Fri	VOE	Eastertide IV:Fri		Eastertide IV:Fri	Ss Nereus & Achilleus, Martyrs	St Pancras, Martyr
+2028-05-13	Sat	VOE	Eastertide IV:Sat		Eastertide IV:Sat	Our Lady of Fátima
+2028-05-14	Sun	VOE	EASTER V		EASTER V
+2028-05-15	Mon	VOE	St John Baptist de La Salle, Catholic Education Co-Patron, Priest, Religious, Founder, Confessor		St John Baptist de La Salle, Catholic Education Co-Patron, Priest, Religious, Founder, Confessor	Eastertide V:Mon
+2028-05-16	Tue	VOE	Eastertide V:Tue		Eastertide V:Tue
+2028-05-17	Wed	VOE	Eastertide V:Wed		Eastertide V:Wed
+2028-05-18	Thu	VOE	Eastertide V:Thu		Eastertide V:Thu	St John I, Pope, Martyr
+2028-05-19	Fri	VOE	Eastertide V:Fri		Eastertide V:Fri	St Dunstan, Archbishop of Canterbury
+2028-05-20	Sat	VOE	Eastertide V:Sat		Eastertide V:Sat	St Bernardine of Siena, Priest
+2028-05-21	Sun	VOE	EASTER VI		EASTER VI
+2028-05-22	Mon	VOE	Eastertide VI:Mon		Eastertide VI:Mon	St Rita of Cascia, Religious
+2028-05-23	Tue	VOE	Eastertide VI:Tue		Eastertide VI:Tue	St Petroc, Abbot
+2028-05-24	Wed	VOE	Eastertide VI:Wed		Eastertide VI:Wed	St Aldhelm, Bishop
+2028-05-25	Thu	VOE	ASCENSION OF THE LORD		ASCENSION OF THE LORD
+2028-05-26	Fri	VOE	St Philip Neri, Founder, Priest		St Philip Neri, Founder, Priest
+2028-05-27	Sat	VOE	St Augustine of Canterbury, Bishop		St Augustine of Canterbury, Bishop
+2028-05-28	Sun	VOE	EASTER VII		EASTER VII
+2028-05-29	Mon	VOE	Ascensiontide II:Mon		Ascensiontide II:Mon
+2028-05-30	Tue	VOE	Eastertide VII:Tue		Eastertide VII:Tue
+2028-05-31	Wed	VOE	Visitation of our Lady		Visitation of our Lady
+2028-06-01	Thu	VOE	St Justin, Martyr		St Justin, Martyr
+2028-06-02	Fri	VOE	Ascensiontide II:Fri		Ascensiontide II:Fri
+2028-06-03	Sat	VOE	Ss Charles Lwanga & Companions, Martyrs		Ss Charles Lwanga & Companions, Martyrs
+2028-06-04	Sun	VOE	PENTECOST SUNDAY		PENTECOST SUNDAY
+2028-06-05	Mon	VOE	Pentecost Octave:Mon		Pentecost Octave:Mon
+2028-06-06	Tue	VOE	Pentecost Octave:Tue		Pentecost Octave:Tue	St Norbert, Founder, Bishop
+2028-06-07	Wed	VOE	Pentecost Octave:Wed		Pentecost Octave:Wed
+2028-06-08	Thu	VOE	Pentecost Octave:Thu		Pentecost Octave:Thu
+2028-06-09	Fri	VOE	Pentecost Octave:Fri		Pentecost Octave:Fri	St Ephrem of Edessa, Deacon, Doctor	St Columba of Iona, Abbot
+2028-06-10	Sat	VOE	Pentecost Octave:Sat		Pentecost Octave:Sat	Saturday memorial of our Lady
+2028-06-11	Sun	VOE	TRINITY SUNDAY		TRINITY SUNDAY
+2028-06-12	Mon	VOE	Trinity Octave:Mon		Trinity Octave:Mon
+2028-06-13	Tue	VOE	St Anthony of Padua, Priest, Doctor		St Anthony of Padua, Priest, Doctor
+2028-06-14	Wed	VOE	Trinity Octave:Wed		Trinity Octave:Wed
+2028-06-15	Thu	VOE	Trinity Octave:Thu		Trinity Octave:Thu
+2028-06-16	Fri	VOE	Trinity Octave:Fri		Trinity Octave:Fri	St Richard of Chichester, Bishop
+2028-06-17	Sat	VOE	Trinity Octave:Sat		Trinity Octave:Sat	Saturday memorial of our Lady
+2028-06-18	Sun	VOE	CORPUS CHRISTI		CORPUS CHRISTI
+2028-06-19	Mon	VOE	Trinitytide I:Mon		Trinitytide I:Mon	St Romuald, Abbot
+2028-06-20	Tue	VOE	Trinitytide I:Tue		Trinitytide I:Tue	St Alban, Britain Proto-Martyr
+2028-06-21	Wed	VOE	St Aloysius Gonzaga, Religious		St Aloysius Gonzaga, Religious
+2028-06-22	Thu	VOE	Ss John Fisher, Bishop, & Thomas More, Martyrs		Ss John Fisher, Bishop, & Thomas More, Martyrs
+2028-06-23	Fri	VOE	Most Sacred Heart of Jesus		Most Sacred Heart of Jesus
+2028-06-24	Sat	VOE	Nativity of St John the Baptist		Nativity of St John the Baptist
+2028-06-25	Sun	VOE	TRINITY II		TRINITY II
+2028-06-26	Mon	VOE	Trinitytide II:Mon		Trinitytide II:Mon
+2028-06-27	Tue	VOE	Trinitytide II:Tue		Trinitytide II:Tue	St Cyril of Alexandria, Bishop, Doctor
+2028-06-28	Wed	VOE	St Irenaeus of Lyons, Bishop, Doctor, Martyr		St Irenaeus of Lyons, Bishop, Doctor, Martyr
+2028-06-29	Thu	VOE	SS PETER & PAUL, APOSTLES		SS PETER & PAUL, APOSTLES
+2028-06-30	Fri	VOE	Trinitytide II:Fri		Trinitytide II:Fri	First Martyrs of the See of Rome
+2028-07-01	Sat	VOE	Trinitytide II:Sat		Trinitytide II:Sat	St Oliver Plunket, Bishop, Martyr	Saturday memorial of our Lady
+2028-07-02	Sun	VOE	TRINITY III		TRINITY III
+2028-07-03	Mon	VOE	St Thomas, Apostle		St Thomas, Apostle
+2028-07-04	Tue	VOE	Trinitytide III:Tue		Trinitytide III:Tue	St Elizabeth of Portugal, Queen, Widow
+2028-07-05	Wed	VOE	Trinitytide III:Wed		Trinitytide III:Wed	St Anthony Mary Zaccaria, Priest
+2028-07-06	Thu	VOE	Trinitytide III:Thu		Trinitytide III:Thu	St Maria Goretti, Virgin, Martyr
+2028-07-07	Fri	VOE	Trinitytide III:Fri		Trinitytide III:Fri
+2028-07-08	Sat	VOE	Trinitytide III:Sat		Trinitytide III:Sat	Saturday memorial of our Lady
+2028-07-09	Sun	VOE	TRINITY IV		TRINITY IV
+2028-07-10	Mon	VOE	Trinitytide IV:Mon		Trinitytide IV:Mon
+2028-07-11	Tue	VOE	St Benedict of Nursia, Europe Patron, Founder, Abbot		St Benedict of Nursia, Europe Patron, Founder, Abbot
+2028-07-12	Wed	VOE	Trinitytide IV:Wed		Trinitytide IV:Wed
+2028-07-13	Thu	VOE	Trinitytide IV:Thu		Trinitytide IV:Thu	St Henry of Bavaria, Holy Roman Emperor
+2028-07-14	Fri	VOE	Trinitytide IV:Fri		Trinitytide IV:Fri	St Camillus of Lellis, Priest
+2028-07-15	Sat	VOE	Trinitytide IV:Sat		Trinitytide IV:Sat	St Bonaventure, Bishop, Doctor	St Swithun, Bishop	St Osmund, Bishop	Saturday memorial of our Lady
+2028-07-16	Sun	VOE	TRINITY V		TRINITY V
+2028-07-17	Mon	VOE	Trinitytide V:Mon		Trinitytide V:Mon
+2028-07-18	Tue	VOE	Trinitytide V:Tue		Trinitytide V:Tue
+2028-07-19	Wed	VOE	Trinitytide V:Wed		Trinitytide V:Wed
+2028-07-20	Thu	VOE	Trinitytide V:Thu		Trinitytide V:Thu	St Apollinaris, Bishop, Martyr	St Margaret of Antioch, Virgin, Martyr
+2028-07-21	Fri	VOE	Trinitytide V:Fri		Trinitytide V:Fri	St Laurence of Brindisi, Priest, Doctor
+2028-07-22	Sat	VOE	St Mary Magdalene		St Mary Magdalene
+2028-07-23	Sun	VOE	TRINITY VI		TRINITY VI
+2028-07-24	Mon	VOE	Trinitytide VI:Mon		Trinitytide VI:Mon	St Charbel Makhlouf, Priest
+2028-07-25	Tue	VOE	St James the Great, Spain Patron, Apostle		St James the Great, Spain Patron, Apostle
+2028-07-26	Wed	VOE	St Joachim & Saint Anne, Parents of our Lady		St Joachim & Saint Anne, Parents of our Lady
+2028-07-27	Thu	VOE	Trinitytide VI:Thu		Trinitytide VI:Thu
+2028-07-28	Fri	VOE	Trinitytide VI:Fri		Trinitytide VI:Fri
+2028-07-29	Sat	VOE	Ss Martha, Mary & Lazarus		Ss Martha, Mary & Lazarus
+2028-07-30	Sun	VOE	TRINITY VII		TRINITY VII
+2028-07-31	Mon	VOE	St Ignatius of Loyola, Founder, Priest		St Ignatius of Loyola, Founder, Priest
+2028-08-01	Tue	VOE	St Alphonsus Liguori, Bishop, Doctor		St Alphonsus Liguori, Bishop, Doctor
+2028-08-02	Wed	VOE	Trinitytide VII:Wed		Trinitytide VII:Wed	St Eusebius of Vercelli, Bishop	St Peter Julian Eymard, Priest
+2028-08-03	Thu	VOE	Trinitytide VII:Thu		Trinitytide VII:Thu
+2028-08-04	Fri	VOE	St John Mary Vianney, Priest		St John Mary Vianney, Priest
+2028-08-05	Sat	VOE	Trinitytide VII:Sat		Trinitytide VII:Sat	Dedication of the Basilica of St Mary Major	St Oswald, King & Martyr	Saturday memorial of our Lady
+2028-08-06	Sun	VOE	Transfiguration of the Lord		Transfiguration of the Lord
+2028-08-07	Mon	VOE	Trinitytide VIII:Mon		Trinitytide VIII:Mon	Ss Sixtus II, Pope, & Companions, Martyrs	St Cajetan, Priest
+2028-08-08	Tue	VOE	St Dominic, Natural Science Patron, Founder, Priest		St Dominic, Natural Science Patron, Founder, Priest
+2028-08-09	Wed	VOE	St Teresa Benedicta of the Cross, Virgin, Martyr		St Teresa Benedicta of the Cross, Virgin, Martyr
+2028-08-10	Thu	VOE	St Laurence, Deacon, Martyr		St Laurence, Deacon, Martyr
+2028-08-11	Fri	VOE	St Clare, Virgin		St Clare, Virgin
+2028-08-12	Sat	VOE	Trinitytide VIII:Sat		Trinitytide VIII:Sat	St Jane Frances de Chantal, Religious	Saturday memorial of our Lady
+2028-08-13	Sun	VOE	TRINITY IX		TRINITY IX
+2028-08-14	Mon	VOE	St Maximilian Kolbe, Priest, Martyr		St Maximilian Kolbe, Priest, Martyr
+2028-08-15	Tue	VOE	ASSUMPTION OF OUR LADY		ASSUMPTION OF OUR LADY
+2028-08-16	Wed	VOE	Trinitytide IX:Wed		Trinitytide IX:Wed	St Stephen of Hungary, King
+2028-08-17	Thu	VOE	Trinitytide IX:Thu		Trinitytide IX:Thu
+2028-08-18	Fri	VOE	Trinitytide IX:Fri		Trinitytide IX:Fri
+2028-08-19	Sat	VOE	Trinitytide IX:Sat		Trinitytide IX:Sat	St John Eudes, Priest	Saturday memorial of our Lady
+2028-08-20	Sun	VOE	TRINITY X		TRINITY X
+2028-08-21	Mon	VOE	St Pius X, Pope		St Pius X, Pope
+2028-08-22	Tue	VOE	Our Lady, Mother & Queen		Our Lady, Mother & Queen
+2028-08-23	Wed	VOE	Trinitytide X:Wed		Trinitytide X:Wed	St Rose of Lima, Virgin
+2028-08-24	Thu	VOE	St Bartholomew, Apostle		St Bartholomew, Apostle
+2028-08-25	Fri	VOE	Trinitytide X:Fri		Trinitytide X:Fri	St Louis of France, King		St Joseph Calasanz, Priest
+2028-08-26	Sat	VOE	Trinitytide X:Sat		Trinitytide X:Sat	Bl Dominic of the Mother of God, Priest	Saturday memorial of our Lady
+2028-08-27	Sun	VOE	TRINITY XI		TRINITY XI
+2028-08-28	Mon	VOE	St Augustine of Hippo, Bishop, Doctor		St Augustine of Hippo, Bishop, Doctor
+2028-08-29	Tue	VOE	Beheading of St John the Baptist		Beheading of St John the Baptist
+2028-08-30	Wed	VOE	Trinitytide XI:Wed		Trinitytide XI:Wed	Ss Margaret Clitherow, Anne Line, & Margaret Ward, Martyrs
+2028-08-31	Thu	VOE	Trinitytide XI:Thu		Trinitytide XI:Thu	St Aidan of Lindisfarne, Bishop, Missionary
+2028-09-01	Fri	VOE	Trinitytide XI:Fri		Trinitytide XI:Fri
+2028-09-02	Sat	VOE	Trinitytide XI:Sat		Trinitytide XI:Sat	Saturday memorial of our Lady
+2028-09-03	Sun	VOE	TRINITY XII		TRINITY XII
+2028-09-04	Mon	VOE	Trinitytide XII:Mon		Trinitytide XII:Mon	St Cuthbert, Bishop
+2028-09-05	Tue	VOE	Trinitytide XII:Tue		Trinitytide XII:Tue	St Teresa of Calcutta, Virgin
+2028-09-06	Wed	VOE	Trinitytide XII:Wed		Trinitytide XII:Wed
+2028-09-07	Thu	VOE	Trinitytide XII:Thu		Trinitytide XII:Thu
+2028-09-08	Fri	VOE	Nativity of our Lady		Nativity of our Lady
+2028-09-09	Sat	VOE	Trinitytide XII:Sat		Trinitytide XII:Sat	St Peter Claver, Priest	Saturday memorial of our Lady
+2028-09-10	Sun	VOE	TRINITY XIII		TRINITY XIII
+2028-09-11	Mon	VOE	Trinitytide XIII:Mon		Trinitytide XIII:Mon
+2028-09-12	Tue	VOE	Trinitytide XIII:Tue		Trinitytide XIII:Tue	Most Holy Name of Mary
+2028-09-13	Wed	VOE	St John Chrysostom, Bishop, Doctor		St John Chrysostom, Bishop, Doctor
+2028-09-14	Thu	VOE	Exaltation of the Holy Cross		Exaltation of the Holy Cross
+2028-09-15	Fri	VOE	Our Lady of Sorrows		Our Lady of Sorrows
+2028-09-16	Sat	VOE	Ss Cornelius, Pope, & Cyprian, Bishop, Martyrs		Ss Cornelius, Pope, & Cyprian, Bishop, Martyrs
+2028-09-17	Sun	VOE	TRINITY XIV		TRINITY XIV
+2028-09-18	Mon	VOE	Trinitytide XIV:Mon		Trinitytide XIV:Mon
+2028-09-19	Tue	VOE	Trinitytide XIV:Tue		Trinitytide XIV:Tue	St Januarius, Bishop, Martyr	St Theodore of Tarsus, Archbishop of Canterbury
+2028-09-20	Wed	VOE	Ss Andrew Kim Taegon, Priest, & Paul Chong Hasang, & Companions, Martyrs		Ss Andrew Kim Taegon, Priest, & Paul Chong Hasang, & Companions, Martyrs
+2028-09-21	Thu	VOE	St Matthew, Apostle, Evangelist		St Matthew, Apostle, Evangelist
+2028-09-22	Fri	VOE	Trinitytide XIV:Fri		Trinitytide XIV:Fri
+2028-09-23	Sat	VOE	St Pius of Pietrelcina, Priest		St Pius of Pietrelcina, Priest
+2028-09-24	Sun	VOE	Our Lady of Walsingham		Our Lady of Walsingham
+2028-09-25	Mon	VOE	Trinitytide XV:Mon		Trinitytide XV:Mon
+2028-09-26	Tue	VOE	Trinitytide XV:Tue		Trinitytide XV:Tue	Ss Cosmas & Damian, Martyrs
+2028-09-27	Wed	VOE	St Vincent de Paul, Priest		St Vincent de Paul, Priest
+2028-09-28	Thu	VOE	Trinitytide XV:Thu		Trinitytide XV:Thu	St Wenceslaus, Martyr	Ss Laurence Ruiz & Companions, Martyrs
+2028-09-29	Fri	VOE	Ss Michael, Gabriel & Raphael, Archangels		Ss Michael, Gabriel & Raphael, Archangels
+2028-09-30	Sat	VOE	St Jerome, Priest, Doctor		St Jerome, Priest, Doctor
+2028-10-01	Sun	VOE	TRINITY XVI		TRINITY XVI
+2028-10-02	Mon	VOE	Holy Guardian Angels		Holy Guardian Angels
+2028-10-03	Tue	VOE	Trinitytide XVI:Tue		Trinitytide XVI:Tue	St Thomas of Hereford, Bishop
+2028-10-04	Wed	VOE	St Francis of Assisi, Ecology Patron, Founder, Confessor		St Francis of Assisi, Ecology Patron, Founder, Confessor
+2028-10-05	Thu	VOE	Trinitytide XVI:Thu		Trinitytide XVI:Thu	St Faustina Kowalska, Religious
+2028-10-06	Fri	VOE	Trinitytide XVI:Fri		Trinitytide XVI:Fri	St Bruno, Priest
+2028-10-07	Sat	VOE	Our Lady of the Rosary		Our Lady of the Rosary
+2028-10-08	Sun	VOE	TRINITY XVII		TRINITY XVII
+2028-10-09	Mon	VOE	St John Henry Newman, Catholic Education Co-Patron, Priest, Doctor		St John Henry Newman, Catholic Education Co-Patron, Priest, Doctor
+2028-10-10	Tue	VOE	Trinitytide XVII:Tue		Trinitytide XVII:Tue	Ss Denis, France Co-Patron, Bishop, & Companions, Martyrs	St John Leonardi, Priest	St Paulinus of York, Bishop, Missionary
+2028-10-11	Wed	VOE	Trinitytide XVII:Wed		Trinitytide XVII:Wed	St John XXIII, Pope
+2028-10-12	Thu	VOE	Trinitytide XVII:Thu		Trinitytide XVII:Thu	St Wilfrid, Bishop, Missionary	St Ethelburga, Abbess
+2028-10-13	Fri	VOE	Trinitytide XVII:Fri		Trinitytide XVII:Fri	St Edward the Confessor, King
+2028-10-14	Sat	VOE	Trinitytide XVII:Sat		Trinitytide XVII:Sat	St Callistus, Pope, Martyr	Saturday memorial of our Lady
+2028-10-15	Sun	VOE	TRINITY XVIII		TRINITY XVIII
+2028-10-16	Mon	VOE	Trinitytide XVIII:Mon		Trinitytide XVIII:Mon	St Hedwig, Religious	St Margaret Mary Alacoque, Virgin
+2028-10-17	Tue	VOE	St Ignatius of Antioch, Bishop, Martyr		St Ignatius of Antioch, Bishop, Martyr
+2028-10-18	Wed	VOE	St Luke, Evangelist		St Luke, Evangelist
+2028-10-19	Thu	VOE	Trinitytide XVIII:Thu		Trinitytide XVIII:Thu	Ss John de Brébeuf & Isaac Jogues, Priests, & Companions, Martyrs	St Paul of the Cross, Priest	St Frideswide, Abbess
+2028-10-20	Fri	VOE	Trinitytide XVIII:Fri		Trinitytide XVIII:Fri
+2028-10-21	Sat	VOE	Trinitytide XVIII:Sat		Trinitytide XVIII:Sat	Saturday memorial of our Lady
+2028-10-22	Sun	VOE	TRINITY XIX		TRINITY XIX
+2028-10-23	Mon	VOE	Trinitytide XIX:Mon		Trinitytide XIX:Mon	St John of Capistrano, Priest
+2028-10-24	Tue	VOE	Trinitytide XIX:Tue		Trinitytide XIX:Tue	St Anthony Mary Claret, Bishop
+2028-10-25	Wed	VOE	Trinitytide XIX:Wed		Trinitytide XIX:Wed
+2028-10-26	Thu	VOE	Trinitytide XIX:Thu		Trinitytide XIX:Thu	Ss Chad & Cedd, Bishops, Missionaries
+2028-10-27	Fri	VOE	Trinitytide XIX:Fri		Trinitytide XIX:Fri
+2028-10-28	Sat	VOE	Ss Simon & Jude, Apostles		Ss Simon & Jude, Apostles
+2028-10-29	Sun	VOE	TRINITY XX		TRINITY XX
+2028-10-30	Mon	VOE	Trinitytide XX:Mon		Trinitytide XX:Mon
+2028-10-31	Tue	VOE	Trinitytide XX:Tue		Trinitytide XX:Tue
+2028-11-01	Wed	VOE	ALL SAINTS		ALL SAINTS
+2028-11-02	Thu	VOE	All Souls		All Souls
+2028-11-03	Fri	VOE	Trinitytide XX:Fri		Trinitytide XX:Fri	St Martin de Porres, Religious	St Winifride, Virgin
+2028-11-04	Sat	VOE	St Charles Borromeo, Bishop		St Charles Borromeo, Bishop
+2028-11-05	Sun	VOE	TRINITY XXI		TRINITY XXI
+2028-11-06	Mon	VOE	Trinitytide XXI:Mon		Trinitytide XXI:Mon
+2028-11-07	Tue	VOE	Trinitytide XXI:Tue		Trinitytide XXI:Tue	St Willibrord, Bishop, Missionary
+2028-11-08	Wed	VOE	All Saints of England		All Saints of England
+2028-11-09	Thu	VOE	Dedication of the Archbasilica of St John Lateran		Dedication of the Archbasilica of St John Lateran
+2028-11-10	Fri	VOE	St Leo the Great, Pope, Doctor		St Leo the Great, Pope, Doctor
+2028-11-11	Sat	VOE	St Martin of Tours, Bishop		St Martin of Tours, Bishop
+2028-11-12	Sun	VOE	TRINITY XXII		TRINITY XXII
+2028-11-13	Mon	VOE	Trinitytide XXII:Mon		Trinitytide XXII:Mon
+2028-11-14	Tue	VOE	Trinitytide XXII:Tue		Trinitytide XXII:Tue
+2028-11-15	Wed	VOE	Trinitytide XXII:Wed		Trinitytide XXII:Wed	St Albert the Great, Bishop, Doctor
+2028-11-16	Thu	VOE	Trinitytide XXII:Thu		Trinitytide XXII:Thu	St Margaret of Scotland, Queen	St Gertrude, Virgin	St Edmund of Abingdon, Bishop
+2028-11-17	Fri	VOE	Trinitytide XXII:Fri		Trinitytide XXII:Fri	St Elizabeth of Hungary, Religious	St Hilda of Whitby, Abbess	St Hugh of Lincoln, Bishop
+2028-11-18	Sat	VOE	Trinitytide XXII:Sat		Trinitytide XXII:Sat	Dedication of the Basilicas of Ss Peter & Paul, Apostles	Saturday memorial of our Lady
+2028-11-19	Sun	VOE	TRINITY XXIII		TRINITY XXIII
+2028-11-20	Mon	VOE	Trinitytide XXIII:Mon		Trinitytide XXIII:Mon	St Edmund, King & Martyr
+2028-11-21	Tue	VOE	Presentation of our Lady		Presentation of our Lady
+2028-11-22	Wed	VOE	St Cecilia, Virgin, Martyr		St Cecilia, Virgin, Martyr
+2028-11-23	Thu	VOE	Trinitytide XXIII:Thu		Trinitytide XXIII:Thu	St Clement I, Pope, Martyr	St Columbanus, Abbot, Missionary
+2028-11-24	Fri	VOE	Ss Andrew Dũng-Lạc & Companions, Martyrs		Ss Andrew Dũng-Lạc & Companions, Martyrs
+2028-11-25	Sat	VOE	Trinitytide XXIII:Sat		Trinitytide XXIII:Sat	St Catherine of Alexandria, Virgin, Martyr	Saturday memorial of our Lady
+2028-11-26	Sun	VOE	CHRIST THE KING		CHRIST THE KING
+2028-11-27	Mon	VOE	Trinitytide XXIV:Mon		Trinitytide XXIV:Mon
+2028-11-28	Tue	VOE	Trinitytide XXIV:Tue		Trinitytide XXIV:Tue
+2028-11-29	Wed	VOE	Trinitytide XXIV:Wed		Trinitytide XXIV:Wed
+2028-11-30	Thu	VOE	St Andrew, Scotland Patron, Apostle		St Andrew, Scotland Patron, Apostle
+2028-12-01	Fri	VOE	Trinitytide XXIV:Fri		Trinitytide XXIV:Fri	St Edmund Campion, Martyr
+2028-12-02	Sat	VOE	Trinitytide XXIV:Sat		Trinitytide XXIV:Sat	Saturday memorial of our Lady
+2028-12-03	Sun	VOE	ADVENT I		ADVENT I
+2028-12-04	Mon	VOE	Advent I:Mon		Advent I:Mon	St John Damascene, Priest, Doctor
+2028-12-05	Tue	VOE	Advent I:Tue		Advent I:Tue
+2028-12-06	Wed	VOE	Advent I:Wed		Advent I:Wed	St Nicholas of Myra, Bishop
+2028-12-07	Thu	VOE	St Ambrose, Bishop, Doctor		St Ambrose, Bishop, Doctor
+2028-12-08	Fri	VOE	Immaculate Conception of our Lady		Immaculate Conception of our Lady
+2028-12-09	Sat	VOE	Advent I:Sat		Advent I:Sat	St Juan Diego Cuauhtlatoatzin
+2028-12-10	Sun	VOE	ADVENT II		ADVENT II
+2028-12-11	Mon	VOE	Advent II:Mon		Advent II:Mon	St Damasus I, Pope
+2028-12-12	Tue	VOE	Advent II:Tue		Advent II:Tue	Our Lady of Guadalupe
+2028-12-13	Wed	VOE	St Lucy, Virgin, Martyr		St Lucy, Virgin, Martyr
+2028-12-14	Thu	VOE	St John of the Cross, Priest, Doctor		St John of the Cross, Priest, Doctor
+2028-12-15	Fri	VOE	Advent II:Fri		Advent II:Fri
+2028-12-16	Sat	VOE	Advent II:Sat		Advent II:Sat
+2028-12-17	Sun	VOE	ADVENT III		ADVENT III
+2028-12-18	Mon	VOE	18 Dec:O Adonai		18 Dec:O Adonai
+2028-12-19	Tue	VOE	19 Dec:O Radix Jesse		19 Dec:O Radix Jesse
+2028-12-20	Wed	VOE	20 Dec:O Clavis David		20 Dec:O Clavis David
+2028-12-21	Thu	VOE	21 Dec:O Oriens		21 Dec:O Oriens	St Peter Canisius, Priest, Doctor
+2028-12-22	Fri	VOE	22 Dec:O Rex Gentium		22 Dec:O Rex Gentium
+2028-12-23	Sat	VOE	23 Dec:O Emmanuel		23 Dec:O Emmanuel	St John of Kęty, Priest
+2028-12-24	Sun	VOE	ADVENT IV		ADVENT IV
+2028-12-25	Mon	VOE	NATIVITY OF THE LORD		NATIVITY OF THE LORD
+2028-12-26	Tue	VOE	26 Dec:Christmas Octave II		26 Dec:Christmas Octave II	St Stephen, Proto-Martyr
+2028-12-27	Wed	VOE	27 Dec:Christmas Octave III		27 Dec:Christmas Octave III	St John, Apostle, Evangelist
+2028-12-28	Thu	VOE	28 Dec:Christmas Octave IV		28 Dec:Christmas Octave IV	Holy Innocents, Martyrs
+2028-12-29	Fri	VOE	29 Dec:Christmas Octave V		29 Dec:Christmas Octave V	St Thomas Becket, Bishop, Martyr
+2028-12-30	Sat	VOE	30 Dec:Christmas Octave VI		30 Dec:Christmas Octave VI
+2028-12-31	Sun	VOE	HOLY FAMILY		HOLY FAMILY

@@ -9,7 +9,7 @@ function Create_pdf_from_file() {
 
     [[ ! -f "${inFP}" ]] && LogEcho "ERROR" "inFP ${inFP} does not exist or is not readable. Cannot create pdfFP ${pdfFP}." && return 1
 
-    [[ -f "${pdfFP}" ]] && LogEcho "WARN" "pdfFP ${pdfFP} already exists. Pandoc will replace/overwrite it."
+    [[ -f "${pdfFP}" ]] && LogEcho "WARN" "pdfFP ${pdfFP} already exists. Pandoc will clobber it."
 
            #-V babelfonts: \
                 #chinese: "Noto Serif Chinese" \
@@ -23,8 +23,8 @@ function Create_pdf_from_file() {
            --pdf-engine=xelatex \
            --wrap=preserve \
            -V geometry:'margin=.7cm' \
+           -V fontsize=10pt \
            -V mainfont:'Noto Serif' \
-           -V fontsize:'11pt 5pt' \
            -V lang:'en-GB' \
            -V font-family:'Noto Serif, Noto Serif Greek, Noto Sans Hebrew, Noto Sans Hungarian, Noto Sans Malayalam, Noto Sans Portuguese' \
            -o "${pdfFP}" "${inFP}"

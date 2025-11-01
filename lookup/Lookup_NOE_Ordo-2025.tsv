@@ -135,9 +135,9 @@ Date	DOW	Rite	PropersID_Selected	PropersID_Alt	PropersID_Default	PropersID_Optio
 2025-05-14	Wed	NOE	St Matthias, Apostle		St Matthias, Apostle
 2025-05-15	Thu	NOE	St John Baptist de La Salle, Catholic Education Co-Patron, Priest, Religious, Founder, Confessor		St John Baptist de La Salle, Catholic Education Co-Patron, Priest, Religious, Founder, Confessor	Eastertide IV:Thu
 2025-05-16	Fri	NOE	Eastertide IV:Fri		Eastertide IV:Fri
-2025-05-17	Sat	NOE	Eastertide IV:Sat		Eastertide IV:Sat
+2025-05-17	Sat	NOE	Eastertide IV:Sat		Eastertide IV:Sat	St Dunstan, Archbishop of Canterbury
 2025-05-18	Sun	NOE	EASTER V		EASTER V
-2025-05-19	Mon	NOE	Eastertide V:Mon		Eastertide V:Mon	St Dunstan, Archbishop of Canterbury
+2025-05-19	Mon	NOE	Dedication of the Cathedral		Dedication of the Cathedral
 2025-05-20	Tue	NOE	Eastertide V:Tue		Eastertide V:Tue	St Bernardine of Siena, Priest
 2025-05-21	Wed	NOE	Eastertide V:Wed		Eastertide V:Wed	Ss Christopher Magallanes, Priest, & Companions, Martyrs
 2025-05-22	Thu	NOE	Eastertide V:Thu		Eastertide V:Thu	St Rita of Cascia, Religious
@@ -194,9 +194,9 @@ Date	DOW	Rite	PropersID_Selected	PropersID_Alt	PropersID_Default	PropersID_Optio
 2025-07-12	Sat	NOE	Ord Time XIV:Sat		Ord Time XIV:Sat	Saturday memorial of our Lady
 2025-07-13	Sun	NOE	ORDINARY TIME XV		ORDINARY TIME XV
 2025-07-14	Mon	NOE	Ord Time XV:Mon		Ord Time XV:Mon	St Camillus of Lellis, Priest
-2025-07-15	Tue	NOE	St Bonaventure, Bishop, Doctor		St Bonaventure, Bishop, Doctor
+2025-07-15	Tue	NOE	St Swithun, Bishop		St Swithun, Bishop
 2025-07-16	Wed	NOE	Ord Time XV:Wed		Ord Time XV:Wed	Our Lady of Mount Carmel
-2025-07-17	Thu	NOE	Ord Time XV:Thu		Ord Time XV:Thu
+2025-07-17	Thu	NOE	St Bonaventure, Bishop, Doctor		St Bonaventure, Bishop, Doctor
 2025-07-18	Fri	NOE	Ord Time XV:Fri		Ord Time XV:Fri
 2025-07-19	Sat	NOE	Ord Time XV:Sat		Ord Time XV:Sat	Saturday memorial of our Lady
 2025-07-20	Sun	NOE	ORDINARY TIME XVI		ORDINARY TIME XVI
@@ -318,7 +318,7 @@ Date	DOW	Rite	PropersID_Selected	PropersID_Alt	PropersID_Default	PropersID_Optio
 2025-11-13	Thu	NOE	Ord Time XXXII:Thu		Ord Time XXXII:Thu
 2025-11-14	Fri	NOE	Ord Time XXXII:Fri		Ord Time XXXII:Fri
 2025-11-15	Sat	NOE	Ord Time XXXII:Sat		Ord Time XXXII:Sat	St Albert the Great, Bishop, Doctor	Saturday memorial of our Lady
-2025-11-16	Sun	NOE	ORDINARY TIME XXXIII		ORDINARY TIME XXXIII
+2025-11-16	Sun	NOE	St Edmund of Abingdon, Bishop		St Edmund of Abingdon, Bishop
 2025-11-17	Mon	NOE	Ord Time XXXIII:Mon		Ord Time XXXIII:Mon	St Elizabeth of Hungary, Religious	St Hilda of Whitby, Abbess	St Hugh of Lincoln, Bishop
 2025-11-18	Tue	NOE	Ord Time XXXIII:Tue		Ord Time XXXIII:Tue	Dedication of the Basilicas of Ss Peter & Paul, Apostles
 2025-11-19	Wed	NOE	Ord Time XXXIII:Wed		Ord Time XXXIII:Wed

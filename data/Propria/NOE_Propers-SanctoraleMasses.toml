@@ -5978,8 +5978,8 @@ which made Saint Charles faithful in ministry
 and fervent in charity.
 Through Christ our Lord.
 '''
-[Dedication-of-the-Lateran-Basilica]
-PropersID = "Dedication of the Lateran Basilica"
+[Dedication-of-the-Archbasilica-of-St-John-Lateran]
+PropersID = "Dedication of the Archbasilica of St John Lateran"
 PropersDate = "11/09"
 PropersNote = "Feast"
 Entrance-Antiphon = '''
@@ -6235,6 +6235,46 @@ we may come to a deeper knowledge and love of you.
 Through our Lord Jesus Christ, your Son,
 who lives and reigns with you in the unity of the Holy Spirit,
 one God, for ever and ever.
+'''
+[St-Edmund-of-Abingdon-Bishop]
+PropersID = "St Edmund of Abingdon, Bishop"
+PropersDate = "11/16"
+PropersNote = "Solemnity"
+Entrance-Antiphon = '''
+**Entrance Antiphon**
+
+I shall raise up for myself a faithful priest
+who will act in accord with my heart and my mind, says the Lord.
+'''
+Collect = '''
+**Collect**
+
+God of Justice, by whose inspiration Saint Edmund was vigilant
+for the cause of integrity in public office and discipline in religious life:
+grant we pray you that your Church may the same spirit of constancy,
+and be fearless in proclaiming the righteousness that you demand of all.
+Through our Lord Jesus Christ, your Son, who lives and reigns with you
+in the unity of the Holy Spirit, one God, for ever and ever. **Amen.**
+'''
+Prayer-over-the-Offerings = '''
+**Prayer over the Offerings**
+
+Lord, we bring you the same gift that Saint Edmund offered.
+Accept it as you accepted his struggle for truth and justice. Through Christ our Lord.
+'''
+Communion-Antiphon = '''
+**Communion Antiphon**
+
+Blessed is the servant whom the Lord finds watching when he comes.
+Amen I say to you: He will put that servant in charge of all his property.
+'''
+Prayer-after-Communion = '''
+**Prayer after Communion**
+
+May partaking at the heavenly table, almighty God, confirm and increase strength from on high
+in all who celebrate the feast day of blessed Edmund,
+that we may preserve in integrity the gift of faith and walk in the path of salvation you trace for us.
+Through Christ our Lord. **Amen.**
 '''
 [St-Margaret-of-Scotland-Queen]
 PropersID = "St Margaret of Scotland, Queen"

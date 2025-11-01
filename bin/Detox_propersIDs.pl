@@ -270,7 +270,7 @@ if ($ordoDOW ne 'Sun' && $propersID !~ m/Ascension of the Lord/ && $ordoDate =~ 
     $propersID =~ s/^(.*)$/St John Baptist de La Salle, Catholic Education Co-Patron, Priest, Religious, Founder, Confessor\|$1/;
 }
 $propersID =~ s/St John Bosco, Priest/St John Bosco, Youth Patron, Priest/;
-$propersID =~ s/St John Henry Newman.+Priest/St John Henry Newman, Catholic Education Co-Patron, Priest, Doctor/;
+$propersID =~ s/St John Henry Newman.+Doctor/St John Henry Newman, Catholic Education Co-Patron, Priest, Doctor/;
 $propersID =~ s/St Kentigern.+?Bishop/St Kentigern, Bishop/;
 $propersID =~ s/St Louis/St Louis of France, King\|/;
 $propersID =~ s/St Louis.+Montfort.+?Priest/St Louis Grignion de Montfort, Priest/;

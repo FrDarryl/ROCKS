@@ -82,7 +82,7 @@ function Validate_user_parameters() {
                 ;;
 
             Calendaria)
-                GetoptsRequired+='ry' &&
+                GetoptsRequired+='sy' &&
                 LogEcho "INFO" "        GetoptsRequired: '${GetoptsRequired}' (augmented based on DataType)"
                 ;;
 
@@ -253,19 +253,21 @@ function Get_derived_parameters() {
 
         Calendaria)
 
+            #  https://www.universalis.com/europe.england.ordinariate/mass.htm:
+            #    -s europe.england.ordinariate
+            #  https://www.universalis.com/europe.england.portsmouth.christchurch/mass.htm
+            #    -s europe.england.portsmouth.christchurch
+
+            IcsUrl="https://www.universalis.com/${Selector}/${Year}0101/vcalendar.ics"
+            LogEcho "INFO" "        IcsUrl: '${IcsUrl}'"
+
+            Rite='NOE'
+            [[ "${Selector}" =~ ordinariate ]] && Rite='VOE'
+
+            LogEcho "INFO" "        Rite:   '${Rite}'"
+
             DataFB="${Rite}_Ordo-${Year}"
             LogEcho "INFO" "        DataFB: '${DataFB}'"
-
-            case "${Rite}" in
-                VOE)
-                    IcsUrl="https://www.universalis.com/europe.england.ordinariate/${Year}0101/vcalendar.ics"
-                    ;;
-                *)
-                    IcsUrl="https://www.universalis.com/europe.england/${Year}0101/vcalendar.ics"
-                    ;;
-            esac
-
-            LogEcho "INFO" "        IcsUrl: '${IcsUrl}'"
             ;;
 
         Missale)
