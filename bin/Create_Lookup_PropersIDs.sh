@@ -19,10 +19,10 @@ cat Lookup_VOE_Collects.tsv | cut -f1 | gawk '!/PropersID/' > "${tmpFP}"
 cat Lookup_PropersIDs_English-Latin.tsv | cut -f1 | gawk '!/PropersID/' >> "${tmpFP}"
 cat Lookup_PropersIDs_English-Latin.tsv | cut -f2 | gawk '!/PropersID_Alt/' >> "${tmpFP}"
 
-Get_PropersIDs_datatype_lookup-file.sh Propria
+Create_Lookup_PropersIDs_datatype.sh Propria
 cat Lookup_PropersIDs_Propria.tsv >> "${tmpFP}"
 
-Get_PropersIDs_datatype_lookup-file.sh Calendaria
+Create_Lookup_PropersIDs_datatype.sh Calendaria
 cat Lookup_PropersIDs_Calendaria.tsv >> "${tmpFP}"
 
 LookupPropersIdsFP="${ROCKS_LOOKUP}/Lookup_PropersIDs.tsv"

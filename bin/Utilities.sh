@@ -105,7 +105,7 @@ function Create_tsv_from_vcs() {
 
         firstPropersID=$(echo "${propersIDs}" | cut -d '|' -f 1)
 
-        pipeLine="${ordoDate}|${ordoDow}|${Rite}|${firstPropersID}||${propersIDs}"
+        pipeLine="${ordoDate}|${ordoDow}|${Rite}|${firstPropersID}||${propersIDs}|"
 
         tsvLine=$(echo "${pipeLine}" | perl -lpe "s/\|/\t/g")
         LogEcho "INFO" "            Writing tsvLine ${tsvLine}"
